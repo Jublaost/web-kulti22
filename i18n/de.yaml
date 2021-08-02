@@ -1,12 +1,9 @@
 - id: quick_links
-  translation: Schnelle Links
+  translation: Links
   
 - id: social_links
   translation: Social Media
-  
-- id: subscribe
-  translation: Abonieren
-  
+
 - id: home
   translation: Start
   
@@ -21,9 +18,6 @@
   
 - id: website
   translation: Website
-  
-- id: message
-  translation: Sonst noch etwas?
   
 - id: submit
   translation: Bestätigen

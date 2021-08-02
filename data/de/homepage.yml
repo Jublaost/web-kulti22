@@ -3,20 +3,20 @@ banner:
   enable : true
   title : "Give Your customers human feeling touch **Like Never Before**"
   content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, seddiam nonumy eirmod tempor invidunt ut labore et dolore magna"
-  image : "images/screenshots/banner-shot.png"
+  image : "images/kulti19/tower01.jpg"
   video:
-    enable : true
+    enable : false
     video_embed_link : "https://www.youtube.com/embed/dyZcRRWiuuw"
   form:
-    enable : true
+    enable : false
     form_acttion : "#"
     button_label : "Request Demo"
   button:
     enable : true
-    icon : "images/brands/google.png"
-    label : "Sign Up With Google"
+    icon : "images/eventfrog.png"
+    label : "Ticket jetzt kaufen!"
     link : "#"
-    content : "No credit card required. Available on [Mac](), [Windows](), [iOS](), & [Android]()"
+    content : "Weiter zu Eventfrog"
 
 
 
@@ -88,8 +88,8 @@ homepage_tab:
 ############################## Tools in Use ########################
 tools:
   enable : true
-  title : "Integrate the **tools you already use**"
-  content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat sed."
+  title : "Herzlichen Dank an unsere **Sponsoren**"
+  content : "Ohne die Hilfe dieser Sponsoren wäre eine Umsetzung des Kultis nicht möglich gewesen."
   logos:
   - "images/tools/01.png"
   - "images/tools/02.png"
@@ -190,7 +190,7 @@ testimonial:
 
 ############################# Call to action ############################
 call_to_action:
-  enable : true
+  enable : false
   title : "Join 75,000+ growing business That **Use Copper To Their Brand**"
   button:
     enable : true
