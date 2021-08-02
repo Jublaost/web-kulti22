@@ -1790,8 +1790,8 @@ a.text-black-400:hover {
   background-color: #ffd4ae; }
   .preloader .block .loader-image {
     transition: 0.3s ease-out;
-    height: 90px;
-    width: 90px;
+    height: 250px;
+    width: 250px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -1827,7 +1827,7 @@ a.text-black-400:hover {
     border-color: rgba(240, 113, 0, 0.4);
     transform: rotateZ(360deg); } }
     .preloader .block .loader-image img {
-      height: 30px; }
+      height: 200px; }
   .preloader .block .loader-text span {
     display: block;
     transition: 0.3s ease-out; }

@@ -1,8 +1,8 @@
 ############################ Banner ##################################
 banner:
   enable : true
-  title : "Give Your customers human feeling touch **Like Never Before**"
-  content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, seddiam nonumy eirmod tempor invidunt ut labore et dolore magna"
+  title : "Lieder- und Kulturfest"
+  content : "Besuche das Kulti 2022 und erlebe grosses"
   image : "images/kulti19/tower01.jpg"
   video:
     enable : false
@@ -41,13 +41,13 @@ clients_logo_slider:
 ########################## How it works #########################
 homepage_tab:
   enable : true
-  title : "How **it Works**"
+  title : "Was ist das **Kulti**?"
   content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat sed."
   tablist:
   # tab item
-  - name : "Task Management"
-    title : "Task **Management**"
-    image : "images/screenshots/how-it-works-1.jpg"
+  - name : "Musik"
+    title : "Musik"
+    image : "images/kulti19/music.jpg"
     content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat sed. At vero eos et accusam et justo duo dolores et ea rebum satet"
     button:
       enable : true
@@ -55,9 +55,9 @@ homepage_tab:
       link : "how-it-works"
       
   # tab item
-  - name : "Built In Chat"
-    title : "Built In **Chat**"
-    image : "images/screenshots/03.png"
+  - name : "Spass"
+    title : "Spass"
+    image : "images/kulti19/spass.jpg"
     content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat sed. At vero eos et accusam et justo duo dolores et ea rebum satet"
     button:
       enable : true
@@ -65,19 +65,9 @@ homepage_tab:
       link : "how-it-works"
       
   # tab item
-  - name : "Project Analytics"
-    title : "Project **Analytics**"
-    image : "images/screenshots/04.png"
-    content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat sed. At vero eos et accusam et justo duo dolores et ea rebum satet"
-    button:
-      enable : true
-      label : "View More"
-      link : "how-it-works"
-      
-  # tab item
-  - name : "Task Collaboration"
-    title : "Task **Collaboration**"
-    image : "images/screenshots/how-it-works-1.jpg"
+  - name : "Lebensfreu(n)de"
+    title : "Lebensfreunde"
+    image : "images/kulti19/lebensfreude.jpg"
     content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat sed. At vero eos et accusam et justo duo dolores et ea rebum satet"
     button:
       enable : true
@@ -158,7 +148,7 @@ about_us:
 
 ############################# Testimonial ############################
 testimonial:
-  enable : true
+  enable : false
   title : "What Our **Client says**"
   content : "Lorem ipsum sadip dolor sit amet, consetetur sadip scing elitr, diam nonumy eirmod tempor invi duntut labore et dolore magna aliquyam erat, sed diam"
   button:
@@ -190,9 +180,9 @@ testimonial:
 
 ############################# Call to action ############################
 call_to_action:
-  enable : false
-  title : "Join 75,000+ growing business That **Use Copper To Their Brand**"
+  enable : true
+  title : "Helfe auch DU mit dieses Kulti zum Erfolg zu machen!"
   button:
     enable : true
-    label : "Get Started With Us"
-    link : "contact"
+    label : "Melde dich als Helfer"
+    link : "helping"

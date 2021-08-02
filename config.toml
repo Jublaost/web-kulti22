@@ -60,8 +60,10 @@ contact_form_action = "#" # contact form works with https://formspree.io
 
 # Preloader
 [params.preloader]
-enable = false
-preloader = "" # use jpg, png, svg or gif format.
+enable = true
+preloader = "images/fuenkli/flames_smile_loop_trans.gif" # use jpg, png, svg or gif format.
+text1 = "Wilkommen"
+text2 = "Kulti 22"
   
 ############################# social site ########################
 [[params.social]]
