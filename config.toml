@@ -1,3 +1,136 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+######################## default configuration ####################
+baseURL = "https://localhost:1313/"
+title = "Kulti"
+theme = "hugo-theme-copper"
+# post pagination
+paginate = "6"
+# post excerpt
+summaryLength = "10"
+# google analytics
+googleAnalytics = "" # example : UA-123-45
+# disqus short name
+disqusShortname = "#" # get your shortname form here : https://disqus.com
+# default language
+defaultContentLanguage = "de"
+# disable language
+disableLanguages = ["en", "fr"] # desable language from here
+
+
+############################# Outputs ##############################
+[outputs]
+home = ["HTML", "RSS"]
+
+[markup.goldmark.renderer]
+unsafe= true
+
+############################# Plugins ##############################
+
+# CSS Plugins
+[[params.plugins.css]]
+link = "plugins/bootstrap/bootstrap.min.css"
+[[params.plugins.css]]
+link = "plugins/themify-icons/themify-icons.css"
+[[params.plugins.css]]
+link = "plugins/slick/slick.css"
+[[params.plugins.css]]
+link = "plugins/slick/slick-theme.css"
+[[params.plugins.css]]
+link = "plugins/aos/aos.css"
+
+# JS Plugins
+[[params.plugins.js]]
+link = "plugins/jQuery/jquery.min.js"
+[[params.plugins.js]]
+link = "plugins/bootstrap/bootstrap.min.js"
+[[params.plugins.js]]
+link = "plugins/slick/slick.min.js"
+[[params.plugins.js]]
+link = "plugins/shuffle/shuffle.min.js"
+[[params.plugins.js]]
+link = "plugins/aos/aos.js"
+
+#################### default parameters ################################
+[params]
+logo = "images/logos/Logo_Kulti22_farbig.png"
+# Meta data
+description = "Jubla: Lieder- und Kulturfest 2022"
+author = "Thomas von Mentlen"
+# contact form action
+contact_form_action = "#" # contact form works with https://formspree.io
+
+# Preloader
+[params.preloader]
+enable = false
+preloader = "" # use jpg, png, svg or gif format.
+  
+############################# social site ########################
+[[params.social]]
+name = "facebook"
+icon = "ti-facebook" # themify icon : https://themify.me/themify-icons
+link = "#"
+
+[[params.social]]
+name = "instagram"
+icon = "ti-instagram" # themify icon : https://themify.me/themify-icons
+link = "#"
+
+
+################################### English language #####################################
+[Languages.de]
+languageName = "De"
+languageCode = "de-ch"
+contentDir = "content/german"
+weight = 1
+footer_content = "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore dolore magna aliquyam eratnonumy onsetetur"
+# copyright
+copyright = "Developed By Thomas von Mentlen"
+
+
+
+############### german navigation ################
+# main menu
+[[Languages.de.menu.main]]
+name = "Home"
+URL = "/"
+weight = 1
+
+[[Languages.de.menu.main]]
+name = "Über uns"
+URL = "about"
+weight = 2
+
+[[Languages.de.menu.main]]
+name = "Service"
+URL = "service"
+weight = 3
+
+[[Languages.de.menu.main]]
+name = "Team"
+URL = "team"
+weight = 4
+
+[[Languages.de.menu.main]]
+name = "Blog"
+URL = "blog"
+weight = 5
+
+[[Languages.de.menu.main]]
+name = "Kontakt"
+URL = "contact"
+weight = 6
+
+# Footer menu
+[[Languages.de.menu.footer]]
+name = "Faq"
+URL = "faq"
+weight = 1
+
+[[Languages.de.menu.footer]]
+name = "Gegschäftsbedingungen"
+URL = "terms-conditions"
+weight = 2
+
+[[Languages.de.menu.footer]]
+name = "Privatsphäre"
+URL = "privacy-policy"
+weight = 3

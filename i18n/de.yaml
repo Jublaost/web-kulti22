@@ -1,0 +1,47 @@
+- id: quick_links
+  translation: Schnelle Links
+  
+- id: social_links
+  translation: Social Media
+  
+- id: subscribe
+  translation: Abonieren
+  
+- id: home
+  translation: Start
+  
+- id: all_together
+  translation: Alles
+  
+- id: name
+  translation: Name
+  
+- id: mail
+  translation: Mail
+  
+- id: website
+  translation: Website
+  
+- id: message
+  translation: Sonst noch etwas?
+  
+- id: submit
+  translation: Bestätigen
+  
+- id: month
+  translation: Monat
+  
+- id: year
+  translation: Jahr
+  
+- id: first_name
+  translation: Vorname
+  
+- id: last_name
+  translation: Nachname
+
+- id: minute_read
+  translation: Minuten zu lesen
+
+- id: recent_post
+  translation: Letzte Artikel
