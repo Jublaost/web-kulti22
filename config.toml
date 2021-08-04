@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://localhost:1313/"
+baseURL = "https://gray-sand-0ccb3e403.azurestaticapps.net/"
 title = "Kulti"
 theme = "hugo-theme-copper"
 # post pagination
