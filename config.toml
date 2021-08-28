@@ -94,17 +94,17 @@ copyright = "Developed by Thomas von Mentlen"
 
 [[Languages.de.menu.main]]
 name = "Tickets"
-URL = "ticketing"
+URL = "kaufa"
 weight = 1
 
 [[Languages.de.menu.main]]
 name = "Helfende"
-URL = "helping"
+URL = "helfa"
 weight = 2
 
 [[Languages.de.menu.main]]
 name = "Kontakt"
-URL = "contact"
+URL = "kontaktiara"
 weight = 3
 
 # Footer menu
