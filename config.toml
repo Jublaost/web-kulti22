@@ -1,6 +1,6 @@
 ######################## default configuration ####################
 baseURL = "https://gray-sand-0ccb3e403.azurestaticapps.net/"
-title = "Kulti"
+title = "Kulti 22"
 theme = "hugo-theme-copper"
 # post pagination
 paginate = "6"
@@ -93,6 +93,11 @@ copyright = "Developed by Thomas von Mentlen"
 # main menu
 
 [[Languages.de.menu.main]]
+name = "Start"
+URL = ""
+weight = 1
+
+[[Languages.de.menu.main]]
 name = "Tickets"
 URL = "kaufa"
 weight = 1
@@ -107,18 +112,23 @@ name = "Kontakt"
 URL = "kontaktiara"
 weight = 3
 
+[[Languages.de.menu.main]]
+name = "Projekt"
+URL = "projekt"
+weight = 4
+
+[[Languages.de.menu.main]]
+name = "Unterstützen"
+URL = "unterstuetza"
+weight = 5
+
 # Footer menu
 [[Languages.de.menu.footer]]
-name = "Faq"
+name = "Hüfigi Froga"
 URL = "faq"
 weight = 1
 
 [[Languages.de.menu.footer]]
-name = "Gegschäftsbedingungen"
-URL = "terms-conditions"
+name = "Impressum"
+URL = "impressum"
 weight = 2
-
-[[Languages.de.menu.footer]]
-name = "Privatsphäre"
-URL = "privacy-policy"
-weight = 3
