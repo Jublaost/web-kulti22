@@ -10,13 +10,11 @@ sections:
 - type: document
   path: content/german/helfa/_index.md
   label: Helfende
-  match: "**/*"
 - type: document
   path: content/german/kaufa/_index.md
   label: Ticket
-  match: "**/*"
 - type: document
-  path: content/german/contact/_index.md
+  path: content/german/kontaktiara/_index.md
   label: Kontakt
 upload_dir: static/images/uploads
 public_path: "/images/uploads"
