@@ -3032,3 +3032,6 @@ body {
 .logo-small {
   width: 100px;
   transition: 0.5s; }
+
+.img-fluid {
+  width: 100%; }
