@@ -1808,7 +1808,8 @@ a.text-black-400:hover {
       left: 0;
       border-radius: 44%;
       border: 1px solid;
-      animation: spin 2s linear infinite; }
+      animation: spin 2s linear infinite;
+      background-color: rgba(0, 0, 0, 0.6); }
 
 @keyframes spin {
   0% {
