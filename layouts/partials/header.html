@@ -1,10 +1,10 @@
 {{ "<!-- navigation -->" | safeHTML }}
-<header class="header-nav position-relative bg-light-gray">
+<header id="sticky-header" class="header-nav position-relative bg-light-gray sticky">
   <div class="container">
     <nav class="navbar navbar-expand-xl navbar-light px-0">
       <a class="navbar-brand p-0" href="{{ site.BaseURL }}">
         {{ with site.Params.logo }}
-        <img class="img-fluid" src="{{ . | absURL }}" alt="{{ site.Title }}">
+        <img id="header-img" class="logo img-fluid" src="{{ . | absURL }}" alt="{{ site.Title }}">
         {{ else }}{{ site.Title }}{{ end }}
       </a>
 
@@ -72,5 +72,6 @@
     </nav>
   </div>
 </header>
+<div style="height: 250px;"></div>
 {{ "<!-- /navigation -->" | safeHTML }}
 

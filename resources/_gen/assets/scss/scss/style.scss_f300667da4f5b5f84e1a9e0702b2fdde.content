@@ -3014,3 +3014,21 @@ footer {
   @media (max-width: 575px) {
     .scroll-to-top-btn.show {
       bottom: 15px; } }
+/* SideScroll Fix */
+html, body {
+  overflow-x: hidden; }
+
+body {
+  position: relative; }
+
+.sticky {
+  position: fixed !important;
+  top: 0;
+  width: 100%; }
+
+.logo {
+  width: 100%; }
+
+.logo-small {
+  width: 100px;
+  transition: 0.5s; }

@@ -99,3 +99,7 @@
 {{ "<!-- Main Script -->" | safeHTML }}
 {{ $script := resources.Get "js/script.js" | minify}}
 <script src="{{ $script.Permalink }}"></script>
+
+{{ "<!-- My Script -->" | safeHTML }}
+{{ $script := resources.Get "js/my.js" | minify}}
+<script src="{{ $script.Permalink }}"></script>
