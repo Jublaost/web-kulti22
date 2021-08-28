@@ -5,6 +5,10 @@ admin_path:
 webhook_url: 
 sections:
 - type: document
+  path: data/de/homepage.yml
+  label: Homepage
+  match: "**/*"
+- type: document
   path: content/german/contact/_index.md
   label: Kontakt
   match: "**/*"
