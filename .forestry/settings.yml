@@ -1,0 +1,35 @@
+---
+new_page_extension: md
+auto_deploy: false
+admin_path: 
+webhook_url: 
+sections:
+- type: document
+  path: data/de/homepage.yml
+  label: Homepage
+- type: document
+  path: content/german/helfa/_index.md
+  label: Helfende
+  match: "**/*"
+- type: document
+  path: content/german/kaufa/_index.md
+  label: Ticket
+  match: "**/*"
+- type: document
+  path: content/german/contact/_index.md
+  label: Kontakt
+upload_dir: static/images/uploads
+public_path: "/images/uploads"
+front_matter_path: ''
+use_front_matter_path: false
+file_template: ":filename:"
+build:
+  preview_env:
+  - HUGO_ENV=staging
+  - HUGO_VERSION=0.81.0
+  preview_output_directory: public
+  preview_docker_image: forestryio/hugo:latest
+  mount_path: "/srv"
+  working_dir: "/srv"
+  instant_preview_command: hugo server -D -E -F --renderToDisk -d public
+version: 0.81.0
