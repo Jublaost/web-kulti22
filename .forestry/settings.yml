@@ -16,22 +16,18 @@ sections:
 - type: document
   path: content/german/projekt/_index.md
   label: Projekt
-  match: "**/*"
 - type: document
   path: content/german/unterstuetza/_index.md
   label: Unterstützen
-  match: "**/*"
 - type: document
   path: content/german/kontaktiara/_index.md
   label: Kontakt
 - type: document
   path: content/german/faq/_index.md
   label: FAQ
-  match: "**/*"
 - type: document
   path: content/german/impressum.md
   label: Impressum
-  match: "**/*"
 upload_dir: static/images/uploads
 public_path: "/images/uploads"
 front_matter_path: ''
