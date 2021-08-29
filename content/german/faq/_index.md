@@ -13,7 +13,7 @@ Mit dem Gruppenpaket «Sparflammä» kannst für dich und deine Freund*innen ver
 
 Im regulären Earlybird-Ticket-Verkauf wird das Early-Funkä-Ticket für vorerst CHF 62 statt CHF 75 angeboten. Zugreifen solange sie noch heiss sind!
 
-Wer das Kulti zusätzlich finanziell unterstützen möchte, kann neben dem regulären Ticket das «Brandbeschleuniger-Ticket» für CHF 20 zu kaufen. Dieses Ticket ist ein freiwilliges Supportticket und **kein Eintrittsticket.** Wir freuen uns über jede Unterstützung!
+Wer das Kulti zusätzlich finanziell unterstützen möchte, kann neben dem regulären Ticket das «Brandbeschleuniger-Ticket» für CHF 20 zu kaufen. Dieses Ticket ist ein freiwilliges Supportticket und **kein Eintrittsticket.** Als Dankeschön erhältst du einen Getränkegutschein. Wir freuen uns über jede Unterstützung!
 
 **Einlass**
 
