@@ -14,7 +14,7 @@ team_member:
   designation: Co-Präsident & Infrastruktur
   group: OK
   social:
-  - icon: mail
+  - icon: id-card
     link: mailto:sabri@kulti22.ch
 - name: Robin Schneider
   image: "/images/uploads/03_robin.jpg"
