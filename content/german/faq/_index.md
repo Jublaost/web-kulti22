@@ -5,7 +5,7 @@ description: this is meta description
 ---
 # Infos
 
-**Infos zum Ticketverkauf**
+**Ticketverkauf**
 
 Der Ticketverkauf startet am Samstag, 4. September, 2021 um 09:00 Uhr. Tickets könnt ihr ausschliesslich über Eventfrog beziehen.
 
@@ -13,7 +13,7 @@ Aktuell sind folgende Ticketkategorien im Angebot:
 
 Mit dem Gruppenpaket «Sparflammä» kannst für dich und deine Freund*innen vergünstigte Tickets kaufen, im Bundle ab mindestens 10 Tickets.
 
-Im regulären Earlybird-Ticket-Verkauf wird das Early-Funkä-Ticket für vorerst CHF 62 statt CHF 75 angeboten. Zugreifen solange sie noch heiss sind!
+    Im regulären Earlybird-Ticket-Verkauf wird das «Early-Funkä-Ticket» für vorerst CHF&nbsp;62 statt CHF&nbsp;75 angeboten. Zugreifen solange sie noch heiss sind!
 
 Wer das Kulti zusätzlich finanziell unterstützen möchte, kann neben dem regulären Ticket das «Brandbeschleuniger-Ticket» für CHF 20 zu kaufen. Dieses Ticket ist ein freiwilliges Supportticket und **kein Eintrittsticket.** Als Dankeschön erhältst du einen Getränkegutschein. Wir freuen uns über jede Unterstützung!
 
