@@ -102,10 +102,6 @@ achivement:
     icon: ti-thumb-up
   - name: Bla bla
     icon: ti-comments-smiley
-  - name: Build with Time Balanceing
-    icon: ti-video-clapper
-  - name: Fully Prepared with Safe Condition
-    icon: ti-shield
 workflow:
   enable: true
   title: Create an automated **workflow by setting**
