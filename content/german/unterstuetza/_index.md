@@ -1,7 +1,6 @@
 ---
-title : "Unterstütza"
-description : "this is meta description"
-draft : false
----
+title: Unterstützen
+description: this is meta description
 
-# Coming soon
+---
+# Unterstützen
