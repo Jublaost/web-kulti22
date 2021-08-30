@@ -7,7 +7,9 @@ description: this is meta description
 
 **Infos zum Ticketverkauf**
 
-Der Ticketverkauf startet am kommenden Samstag, 4. September, 2021 um 09:00 Uhr. Tickets könnt ihr ausschliesslich über Eventfrog beziehen.
+Der Ticketverkauf startet am Samstag, 4. September, 2021 um 09:00 Uhr. Tickets könnt ihr ausschliesslich über Eventfrog beziehen.
+
+Aktuell sind folgende Ticketkategorien im Angebot:
 
 Mit dem Gruppenpaket «Sparflammä» kannst für dich und deine Freund*innen vergünstigte Tickets kaufen, im Bundle ab mindestens 10 Tickets.
 
