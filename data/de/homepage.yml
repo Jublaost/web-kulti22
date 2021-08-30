@@ -85,13 +85,16 @@ achivement:
   title: Das Kulti 22 in Zahlen
   content: ''
   funfacts:
-  - name: Besucher*innen <br> Lebensfreu(n)de
+  - name: Lebensfre(n)de
+    count: "∞"
+    extension: ''
+  - name: Besucher*innen
     count: "2000"
     extension: "+"
-  - name: Tage <br> Festivalspass
+  - name: Tage Spass
     count: "3"
     extension: ''
-  - name: Bühnen <br>
+  - name: Bühnen
     count: "2"
     extension: ''
   - count: "8"
