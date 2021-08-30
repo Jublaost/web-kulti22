@@ -2,6 +2,13 @@
 title: Kontakt
 description: Kontakt | Kulti 22 «Dä Funkä tanzt!» | Jungwacht Blauring Schweiz
 team_member:
+- name: Medea Koller
+  image: ''
+  designation: Ressort Artist Relations
+  group: ok
+  social:
+  - icon: mail
+    link: mailto:medea@kulti22.ch
 - name: Markus «Glausi» Glauser
   image: ''
   designation: Ressort Verpflegung
