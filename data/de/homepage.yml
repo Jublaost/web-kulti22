@@ -71,8 +71,7 @@ homepage_tab:
 tools:
   enable: true
   title: Herzlichen Dank an unsere **Sponsoren**
-  content: Ohne die Hilfe dieser Sponsoren wäre eine Umsetzung des Kultis nicht möglich
-    gewesen.
+  content: Ohne sie wäre eine Umsetzung des Kultis undenkbar.
   logos:
   - images/tools/01.png
   - images/tools/02.png
