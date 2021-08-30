@@ -36,7 +36,7 @@ team_member:
   group: OK
   social:
   - icon: mail
-    link: michelle@kulti22.ch
+    link: mailto:michelle@kulti22.ch
 - name: Markus «Glausi» Glauser
   image: "/images/uploads/06_glausi.png"
   designation: Verpflegung
