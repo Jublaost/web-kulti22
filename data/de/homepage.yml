@@ -35,18 +35,16 @@ clients_logo_slider:
 homepage_tab:
   enable: true
   title: Was ist das **Kulti**?
-  content: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
-    eirmod tempor invidunt ut labore et dolore magna aliquyam erat sed.
+  content: Drei Tage voller Musik, Spass, guten Gesprächen und Lebensfreu(n)de!
   tablist:
   - name: Musik
     title: Musik
     image: images/kulti19/music.jpg
-    content: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
-      eirmod tempor invidunt ut labore et dolore magna aliquyam erat sed. At vero
-      eos et accusam et justo duo dolores et ea rebum satet
+    content: '8 lokale Bands auf zwei Bühnen. Von Pop-Rock über Hiphop bis House ist
+      für jede*n etwas dabei. '
     button:
       enable: true
-      label: View More
+      label: Zum Programm
       link: how-it-works
   - name: Spass
     title: Spass
@@ -93,7 +91,7 @@ achivement:
   - name: Tage <br> Festivalspass
     count: "3"
     extension: ''
-  - name: Bühnen
+  - name: Bühnen <br>
     count: "2"
     extension: ''
   - count: "8"
