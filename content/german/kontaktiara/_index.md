@@ -28,14 +28,14 @@ team_member:
   designation: Ressort Finanzen
   group: ok
   social:
-  - icon: email
+  - icon: mail
     link: mailto:stephi@kulti22.ch
 - name: Robin Schneider
   image: images/team/05.jpg
   designation: Ressort Animation
   group: ok
   social:
-  - icon: email
+  - icon: mail
     link: mailto:robin@kulti22.ch
 - name: John Domingo
   image: images/team/06.jpg
