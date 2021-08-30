@@ -10,7 +10,7 @@ team_member:
   - icon: mail
     link: mailto:nemo@kulti22.ch
 - name: Sabri Halef
-  image: "/images/uploads/02_sabri.png"
+  image: "/images/uploads/02_sabri.jpg"
   designation: Co-Präsident & Infrastruktur
   group: OK
   social:
@@ -24,14 +24,14 @@ team_member:
   - icon: mail
     link: mailto:robin@kulti22.ch
 - name: Medea Koller
-  image: "/images/uploads/04_medea.png"
+  image: "/images/uploads/04_medea.jpg"
   designation: Artist Relations
   group: OK
   social:
   - icon: mail
     link: mailto:medea@kulti22.ch
 - name: Michelle Agatiello
-  image: "/images/uploads/05_michelle.png"
+  image: "/images/uploads/05_michelle.jpg"
   designation: Kommunikation
   group: OK
   social:

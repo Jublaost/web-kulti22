@@ -1,6 +1,6 @@
 ---
 title: Infos
-description: this is meta description
+description: Infos | Kulti 22 «Dä Funkä tanzt!» | Jungwacht Blauring Schweiz
 
 ---
 # Infos
