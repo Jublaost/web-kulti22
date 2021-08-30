@@ -29,17 +29,13 @@ team_member:
   social:
   - icon: email
     link: michelle@kulti22.ch
-- name: Angelina Jolie
+- name: Stephanie Artho
   image: images/team/04.jpg
-  designation: Junior Developer
-  group: developers
+  designation: Ressort Finanzen
+  group: ok
   social:
-  - icon: ti-linkedin
-    link: "#"
-  - icon: ti-twitter-alt
-    link: "#"
-  - icon: ti-github
-    link: "#"
+  - icon: email
+    link: mailto:stephi@kulti22.ch
 - name: Tim kook
   image: images/team/05.jpg
   designation: UX/UI Designer
