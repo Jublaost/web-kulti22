@@ -91,9 +91,9 @@ achivement:
   - name: Besucher*innen
     count: "2000"
     extension: "+"
-  - name: Festivalspass
+  - name: Tage <br> Festivalspass
     count: "3"
-    extension: Tage
+    extension: ''
   - name: Bands
     count: ca. 10
     extension: ''
