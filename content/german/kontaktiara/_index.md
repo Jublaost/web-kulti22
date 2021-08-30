@@ -69,4 +69,4 @@ team_member:
 ---
 ## Die Chefinnen und Chefs vom Ganzen
 
-Das Kulti-OK setzt sich aus 9 ehrenamtlichen (Ex-)Jublaner*innen zusammen, die noch einmal Grosses aufgleisen wollen.
+Das Kulti-OK besteht aus 9 ehrenamtlichen Jublaner*innen aus dem Jubla-Kanton SG/AI/AR/GL, die zusammen Grosses aufgleisen wollen.
