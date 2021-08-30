@@ -69,4 +69,4 @@ team_member:
 ---
 ## Die Chefinnen und Chefs vom Ganzen
 
-Das Kulti-OK besteht aus 9 ehrenamtlichen Jublaner*innen aus dem Jubla-Kanton SG/AI/AR/GL. Wir freuen uns jetzt schon darauf, den Funken im August 2022 tanzen zu lassen!
+Das Kulti-OK besteht aus 9 ehrenamtlichen Jublaner*innen aus dem Jubla-Kanton SG/AI/AR/GL. Wir freuen uns jetzt schon darauf, den Funken im August 2022 durchs St. Galler Rheintal tanzen zu lassen!
