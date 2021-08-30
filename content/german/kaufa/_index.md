@@ -1,6 +1,6 @@
 ---
 title: Tickets
-description: this is meta description
+description: Tickets kaufen | Kulti 22 «Dä Funkä tanzt!» | Jungwacht Blauring Schweiz
 
 ---
 # Ticketverkauf Kulti 22
