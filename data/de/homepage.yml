@@ -92,7 +92,7 @@ achivement:
     count: "2000"
     extension: "+"
   - name: Festivalspass
-    count: '3 '
+    count: "3"
     extension: Tage
   - name: Employees <br> Work Here
     count: "3000"
