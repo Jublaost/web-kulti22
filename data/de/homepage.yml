@@ -99,11 +99,7 @@ achivement:
     extension: ''
   - count: "8"
     name: Bands
-  services:
-  - name: Lebensfreu(n)de
-    icon: ti-thumb-up
-  - name: Bla bla
-    icon: ti-comments-smiley
+  services: []
 workflow:
   enable: true
   title: Create an automated **workflow by setting**
