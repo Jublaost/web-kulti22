@@ -36,17 +36,13 @@ team_member:
   social:
   - icon: email
     link: mailto:stephi@kulti22.ch
-- name: Tim kook
+- name: Robin Schneider
   image: images/team/05.jpg
-  designation: UX/UI Designer
-  group: designers
+  designation: Ressort Animation
+  group: ok
   social:
-  - icon: ti-linkedin
-    link: "#"
-  - icon: ti-twitter-alt
-    link: "#"
-  - icon: ti-github
-    link: "#"
+  - icon: email
+    link: mailto:robin@kulti22.ch
 - name: John Domingo
   image: images/team/06.jpg
   designation: SEO Marketer
