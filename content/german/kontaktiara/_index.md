@@ -2,6 +2,13 @@
 title: Kontakt
 description: Kontakt | Kulti 22 «Dä Funkä tanzt!» | Jungwacht Blauring Schweiz
 team_member:
+- name: Markus «Glausi» Glauser
+  image: ''
+  designation: Ressort Verpflegung
+  group: ok
+  social:
+  - icon: mail
+    link: mailto:glausi@kulti22.ch
 - name: Fabio «Nemo» Schmuki
   image: images/team/01.jpg
   designation: Co-Präsident
