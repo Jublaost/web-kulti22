@@ -1,31 +1,60 @@
-######################## default configuration ####################
 baseURL = "https://gray-sand-0ccb3e403.azurestaticapps.net/"
-title = "Kulti 22"
-theme = "hugo-theme-copper"
-# post pagination
-paginate = "6"
-# post excerpt
-summaryLength = "10"
-# google analytics
-googleAnalytics = "" # example : UA-123-45
-# disqus short name
-disqusShortname = "#" # get your shortname form here : https://disqus.com
-# default language
 defaultContentLanguage = "de"
-# disable language
-disableLanguages = ["en", "fr"] # desable language from here
-
-
-############################# Outputs ##############################
+disableLanguages = ["en", "fr"]
+disqusShortname = "#"
+googleAnalytics = ""
+paginate = "6"
+summaryLength = "10"
+theme = "hugo-theme-copper"
+title = "Kulti 22"
+[Languages.de]
+contentDir = "content/german"
+copyright = "Developed by Thomas"
+footer_content = "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore dolore magna aliquyam eratnonumy onsetetur"
+languageCode = "de-ch"
+languageName = "De"
+weight = 1
+[[Languages.de.menu.footer]]
+URL = "faq"
+name = "Hüfigi Froga"
+weight = 1
+[[Languages.de.menu.footer]]
+URL = "impressum"
+name = "Impressum"
+weight = 2
+[[Languages.de.menu.main]]
+URL = ""
+name = "Start"
+weight = 1
+[[Languages.de.menu.main]]
+URL = "kaufa"
+name = "Tickets"
+weight = 1
+[[Languages.de.menu.main]]
+URL = "helfa"
+name = "Helfende"
+weight = 2
+[[Languages.de.menu.main]]
+URL = "kontaktiara"
+name = "Kontakt"
+weight = 3
+[[Languages.de.menu.main]]
+URL = "projekt"
+name = "Projekt"
+weight = 4
+[[Languages.de.menu.main]]
+URL = "unterstuetza"
+name = "Unterstützen"
+weight = 5
+[markup.goldmark.renderer]
+unsafe = true
 [outputs]
 home = ["HTML", "RSS"]
-
-[markup.goldmark.renderer]
-unsafe= true
-
-############################# Plugins ##############################
-
-# CSS Plugins
+[params]
+author = "Thomas von Mentlen"
+contact_form_action = "#"
+description = "Jubla: Lieder- und Kulturfest 2022"
+logo = "images/logos/Logo_Kulti22_farbig.png"
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
 [[params.plugins.css]]
@@ -36,8 +65,6 @@ link = "plugins/slick/slick.css"
 link = "plugins/slick/slick-theme.css"
 [[params.plugins.css]]
 link = "plugins/aos/aos.css"
-
-# JS Plugins
 [[params.plugins.js]]
 link = "plugins/jQuery/jquery.min.js"
 [[params.plugins.js]]
@@ -48,87 +75,16 @@ link = "plugins/slick/slick.min.js"
 link = "plugins/shuffle/shuffle.min.js"
 [[params.plugins.js]]
 link = "plugins/aos/aos.js"
-
-#################### default parameters ################################
-[params]
-logo = "images/logos/Logo_Kulti22_farbig.png"
-# Meta data
-description = "Jubla: Lieder- und Kulturfest 2022"
-author = "Thomas von Mentlen"
-# contact form action
-contact_form_action = "#" # contact form works with https://formspree.io
-
-# Preloader
 [params.preloader]
 enable = true
-preloader = "images/fuenkli/flames_smile_loop_trans.gif" # use jpg, png, svg or gif format.
+preloader = "images/fuenkli/flames_smile_loop_trans.gif"
 text1 = "Wilkommen"
 text2 = "Kulti 22"
-  
-############################# social site ########################
 [[params.social]]
+icon = "ti-facebook"
+link = "#"
 name = "facebook"
-icon = "ti-facebook" # themify icon : https://themify.me/themify-icons
-link = "#"
-
 [[params.social]]
-name = "instagram"
-icon = "ti-instagram" # themify icon : https://themify.me/themify-icons
+icon = "ti-instagram"
 link = "#"
-
-
-################################### German language #####################################
-[Languages.de]
-languageName = "De"
-languageCode = "de-ch"
-contentDir = "content/german"
-weight = 1
-footer_content = "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore dolore magna aliquyam eratnonumy onsetetur"
-# copyright
-copyright = "Developed by Thomas"
-
-
-
-############### german navigation ################
-# main menu
-
-[[Languages.de.menu.main]]
-name = "Start"
-URL = ""
-weight = 1
-
-[[Languages.de.menu.main]]
-name = "Tickets"
-URL = "kaufa"
-weight = 1
-
-[[Languages.de.menu.main]]
-name = "Helfende"
-URL = "helfa"
-weight = 2
-
-[[Languages.de.menu.main]]
-name = "Kontakt"
-URL = "kontaktiara"
-weight = 3
-
-[[Languages.de.menu.main]]
-name = "Projekt"
-URL = "projekt"
-weight = 4
-
-[[Languages.de.menu.main]]
-name = "Unterstützen"
-URL = "unterstuetza"
-weight = 5
-
-# Footer menu
-[[Languages.de.menu.footer]]
-name = "Hüfigi Froga"
-URL = "faq"
-weight = 1
-
-[[Languages.de.menu.footer]]
-name = "Impressum"
-URL = "impressum"
-weight = 2
+name = "instagram"
