@@ -97,6 +97,8 @@ achivement:
   - name: Bühnen
     count: "2"
     extension: ''
+  - count: "8"
+    name: Bands
   services:
   - name: Lebensfreu(n)de
     icon: ti-thumb-up
