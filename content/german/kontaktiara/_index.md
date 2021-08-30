@@ -11,7 +11,7 @@ team_member:
     link: mailto:nemo@kulti22.ch
 - name: Sabri Halef
   image: images/team/02.jpg
-  designation: Co-Präsidium & Ressort Infrastruktur
+  designation: Co-Präsident & Ressort Infrastruktur
   group: ok
   social:
   - icon: email
@@ -22,17 +22,13 @@ team_member:
     link: "#"
   - icon: ti-github
     link: "#"
-- name: Kim Domingo
+- name: Michelle Agatiello
   image: images/team/03.jpg
-  designation: Email Marketer
-  group: marketers
+  designation: Ressort Kommunikation
+  group: ok
   social:
-  - icon: ti-linkedin
-    link: "#"
-  - icon: ti-twitter-alt
-    link: "#"
-  - icon: ti-github
-    link: "#"
+  - icon: email
+    link: michelle@kulti22.ch
 - name: Angelina Jolie
   image: images/team/04.jpg
   designation: Junior Developer
