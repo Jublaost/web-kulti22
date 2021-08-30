@@ -7,21 +7,15 @@ team_member:
   designation: Co-Präsident
   group: ok
   social:
-  - icon: email
+  - icon: mail
     link: mailto:nemo@kulti22.ch
 - name: Sabri Halef
   image: images/team/02.jpg
   designation: Co-Präsident & Ressort Infrastruktur
   group: ok
   social:
-  - icon: email
+  - icon: mail
     link: mailto:sabri@kulti22.ch
-  - icon: ti-linkedin
-    link: "#"
-  - icon: ti-twitter-alt
-    link: "#"
-  - icon: ti-github
-    link: "#"
 - name: Michelle Agatiello
   image: images/team/03.jpg
   designation: Ressort Kommunikation
