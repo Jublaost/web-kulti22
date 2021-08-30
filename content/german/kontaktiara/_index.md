@@ -21,7 +21,7 @@ team_member:
   designation: Ressort Kommunikation
   group: ok
   social:
-  - icon: email
+  - icon: mail
     link: michelle@kulti22.ch
 - name: Stephanie Artho
   image: images/team/04.jpg
