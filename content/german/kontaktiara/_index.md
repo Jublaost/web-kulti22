@@ -9,11 +9,13 @@ team_member:
   social:
   - icon: email
     link: mailto:nemo@kulti22.ch
-- name: Juley anle
+- name: Sabri Halef
   image: images/team/02.jpg
-  designation: Senior Designer
-  group: designers
+  designation: Co-Präsidium & Ressort Infrastruktur
+  group: ok
   social:
+  - icon: email
+    link: mailto:sabri@kulti22.ch
   - icon: ti-linkedin
     link: "#"
   - icon: ti-twitter-alt
