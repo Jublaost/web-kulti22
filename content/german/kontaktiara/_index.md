@@ -7,7 +7,7 @@ team_member:
   designation: Co-Präsident
   group: OK
   social:
-  - icon: mail
+  - icon: at
     link: mailto:nemo@kulti22.ch
 - name: Sabri Halef
   image: "/images/uploads/02_sabri.jpg"
