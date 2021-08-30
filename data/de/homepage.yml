@@ -157,8 +157,8 @@ testimonial:
       stetclita
 call_to_action:
   enable: true
-  title: Helfe auch DU mit dieses Kulti zum Erfolg zu machen!
+  title: Hilf auch du mit, das Kulti 22 zum Erfolg zu machen!
   button:
     enable: true
-    label: Melde dich als Helfer
+    label: Als Helfer*in melden
     link: helping
