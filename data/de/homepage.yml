@@ -94,9 +94,9 @@ achivement:
   - name: Festivalspass
     count: "3"
     extension: Tage
-  - name: Employees <br> Work Here
-    count: "3000"
-    extension: "+"
+  - name: Bands
+    count: ca. 10
+    extension: ''
   services:
   - name: Fully Secure And Hacking Free
     icon: ti-thumb-up
