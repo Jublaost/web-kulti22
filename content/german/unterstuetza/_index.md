@@ -26,3 +26,17 @@ ein Platz für Kreativität in Ateliers, an Konzerten und bei anderen Gruppenakt
 **… Schweizer Musik**
 
 eine Plattform für junge Schweizer Künstler*innen
+
+Sie möchten uns finanziell unterstützen? Hier finden Sie unsere Kontoangaben:
+
+IBAN CH73 8080 8004 3206 4912 9
+
+lautend auf «Kulti 21», 9000 St. Gallen
+
+Raiffeisenbank am Ricken, 8733 Eschenbach
+
+Falls Sie uns mit Material oder Naturalien unterstützen möchten, wenden Sie sich bitte per Mail an Samuel samuel@kulti22.ch
+
+Falls die Spende anonym sein soll, bitte unter Zahlungszweck entsprechend vermerken. Ansonsten führen wir Sie gerne in der Gönnerliste auf (alphabetisch, ohne Betrag).
+
+ Ein grosses Dankeschön an die Partner:innen und Unterstützer:innen des Kulti 22!
