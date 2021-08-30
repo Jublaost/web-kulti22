@@ -2,20 +2,6 @@
 title: Kontakt
 description: Kontakt | Kulti 22 «Dä Funkä tanzt!» | Jungwacht Blauring Schweiz
 team_member:
-- name: Medea Koller
-  image: ''
-  designation: Ressort Artist Relations
-  group: ok
-  social:
-  - icon: mail
-    link: mailto:medea@kulti22.ch
-- name: Markus «Glausi» Glauser
-  image: ''
-  designation: Ressort Verpflegung
-  group: ok
-  social:
-  - icon: mail
-    link: mailto:glausi@kulti22.ch
 - name: Fabio «Nemo» Schmuki
   image: images/team/01.jpg
   designation: Co-Präsident
@@ -30,20 +16,6 @@ team_member:
   social:
   - icon: mail
     link: mailto:sabri@kulti22.ch
-- name: Michelle Agatiello
-  image: images/team/03.jpg
-  designation: Ressort Kommunikation
-  group: ok
-  social:
-  - icon: mail
-    link: michelle@kulti22.ch
-- name: Stephanie Artho
-  image: images/team/04.jpg
-  designation: Ressort Finanzen
-  group: ok
-  social:
-  - icon: mail
-    link: mailto:stephi@kulti22.ch
 - name: Robin Schneider
   image: images/team/05.jpg
   designation: Ressort Animation
@@ -51,6 +23,41 @@ team_member:
   social:
   - icon: mail
     link: mailto:robin@kulti22.ch
+- name: Medea Koller
+  image: ''
+  designation: Ressort Artist Relations
+  group: ok
+  social:
+  - icon: mail
+    link: mailto:medea@kulti22.ch
+- name: Michelle Agatiello
+  image: images/team/03.jpg
+  designation: Ressort Kommunikation
+  group: ok
+  social:
+  - icon: mail
+    link: michelle@kulti22.ch
+- name: Markus «Glausi» Glauser
+  image: ''
+  designation: Ressort Verpflegung
+  group: ok
+  social:
+  - icon: mail
+    link: mailto:glausi@kulti22.ch
+- name: Simon Gschwend
+  image: ''
+  designation: Ressort Sicherheit/Prävention
+  group: OK
+  social:
+  - icon: mail
+    link: mailto:gschwend@kulti22.ch
+- name: Stephanie Artho
+  image: images/team/04.jpg
+  designation: Ressort Finanzen
+  group: ok
+  social:
+  - icon: mail
+    link: mailto:stephi@kulti22.ch
 - name: Natascha Dedy
   image: images/team/06.jpg
   designation: Ressort Helfende
