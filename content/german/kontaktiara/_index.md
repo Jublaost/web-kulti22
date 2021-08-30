@@ -37,17 +37,13 @@ team_member:
   social:
   - icon: mail
     link: mailto:robin@kulti22.ch
-- name: John Domingo
+- name: Natascha Dedy
   image: images/team/06.jpg
-  designation: SEO Marketer
-  group: marketers
+  designation: Ressort Helfende
+  group: ok
   social:
-  - icon: ti-linkedin
-    link: "#"
-  - icon: ti-twitter-alt
-    link: "#"
-  - icon: ti-github
-    link: "#"
+  - icon: mail
+    link: mailto:tascha@kulti22.ch
 
 ---
 ## Die Chefinnen und Chefs vom Ganzen
