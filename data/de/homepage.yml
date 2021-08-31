@@ -161,4 +161,4 @@ call_to_action:
   button:
     enable: true
     label: Melde dich als Helfer
-    link: helping
+    link: helfa

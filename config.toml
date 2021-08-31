@@ -54,13 +54,13 @@ link = "plugins/aos/aos.js"
 logo = "images/logos/Logo_Kulti22_farbig.png"
 # Meta data
 description = "Jubla: Lieder- und Kulturfest 2022"
-author = "Thomas von Mentlen"
+author = "Thomas"
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
 
 # Preloader
 [params.preloader]
-enable = true
+enable = false
 preloader = "images/fuenkli/flames_smile_loop_trans.gif" # use jpg, png, svg or gif format.
 text1 = "Wilkommen"
 text2 = "Kulti 22"
