@@ -11,6 +11,10 @@ Du möchtest am Kulti 22 als Helfer*in dabei sein und Grosses bewirken? Wir dan
 
 Sei dies als Auf- und Abbauhilfskraft, Barmitglied, durch Betreuung eines Ateliers oder dank deiner Mithilfe bei weiteren wichtigen Aufgaben. Die Ressorts und die jeweiligen Aufgabenbeschriebe werden schon bald hier aufgeschaltet.
 
+<br />
+
 **Anmelden** kannst du dich schon jetzt über folgenden Link. Anfangs 2022 erhältst du per E-Mail die Aufforderung, dich für deine Wunsch-Ressorts und -Schichten einzutragen.
+
+<br />
 
 **Wir sind dankbar um jede und jeden, die uns dabei unterstützt, das Kulti 22 unvergesslich zu machen. Schon jetzt herzlichen Dank!**
