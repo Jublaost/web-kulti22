@@ -14,7 +14,7 @@ banner:
   button:
     enable: true
     icon: images/eventfrog.png
-    label: Ticket jetzt kaufen!
+    label: " Jetzt Tickets kaufen!"
     link: <script src="https://embed.eventfrog.ch/api/scripts/embed/buybutton.js"></script><iframe
       src="https://embed.eventfrog.ch/de/embed/button-buy.html?eventId=6833845387129228352"
       frameborder="0" scrolling="no" width="260" height="47"></iframe>
