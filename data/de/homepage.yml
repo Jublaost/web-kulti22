@@ -90,7 +90,7 @@ tools:
   - images/tools/08.png
   - images/tools/05.png
 achivement:
-  enable: true
+  enable: false
   title: Das Kulti 22 in Zahlen
   content: ''
   funfacts:
@@ -110,13 +110,13 @@ achivement:
     name: Bands
   services: []
 workflow:
-  enable: true
+  enable: false
   title: Create an automated **workflow by setting**
   image: images/screenshots/03.png
   content: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
     eirmod tempor invidunt ut labore et dolore magna aliquyam erat sed.
 about_us:
-  enable: true
+  enable: false
   title: Who Are We And **What Is Our Identity?**
   image: images/about/01.jpg
   content: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
@@ -161,5 +161,5 @@ call_to_action:
   title: Hilf auch du, das Kulti 22 zum Erfolg zu machen.
   button:
     enable: true
-    label: Als Helfer*in melden
+    label: Als Helfer:in melden
     link: helping
