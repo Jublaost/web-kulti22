@@ -40,8 +40,10 @@ homepage_tab:
   - name: Musik
     title: Musik
     image: images/kulti19/music.jpg
-    content: '8 lokale Bands auf zwei Bühnen. Von Pop-Rock über Hiphop bis House ist
-      für jede*n etwas dabei. '
+    content: 'Als Höhepunkte des Kulti 22 gelten die Auftritte lokaler, aber auch
+      national gefeierter Musik- und Kulturschaffender, was bei allen Besucher*innen
+      den inneren Jubla-Funken tanzen lassen wird. Von Pop-Rock über Hiphop bis Techno
+      ist für jede*n etwas dabei. '
     button:
       enable: true
       label: Zum Programm
