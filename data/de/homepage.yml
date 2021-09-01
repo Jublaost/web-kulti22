@@ -72,7 +72,7 @@ homepage_tab:
       #kreativsein bei diversen Ateliers oder ganz grundlegend #zusammensein, beim
       Verweilen, Geniessen oder Feiern.'
     button:
-      enable: true
+      enable: false
       label: View More
       link: how-it-works
 tools:
