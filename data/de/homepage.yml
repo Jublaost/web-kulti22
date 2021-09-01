@@ -60,11 +60,17 @@ homepage_tab:
       label: View More
       link: how-it-works
   - name: Lebensfreu(n)de
-    title: Lebensfreunde
+    title: Lebensfreu(n)de
     image: images/kulti19/lebensfreude.jpg
-    content: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
-      eirmod tempor invidunt ut labore et dolore magna aliquyam erat sed. At vero
-      eos et accusam et justo duo dolores et ea rebum satet
+    content: 'Zusammen lachen, unvergessliche Augenblicke erleben, singen und geniessen
+      am Lagerfeuer, in abenteuerliche Geländespiele eintauchen, wandern und unter
+      dem Sternenhimmel übernachten, Zelte bauen und über dem Feuer kochen, eine Schatzkarte
+      zeichnen, sich verkleiden, die Köpfe zusammenstecken und Ideen entwickeln, Verantwortung
+      übernehmen, besondere Momente feiern, Freund:innen fürs Leben finden – das alles
+      und vieles mehr bietet Jungwacht Blauring. Das Kulti orientiert sich an den
+      Grundsätzen von Jungwacht Blauring, sei dies durch #mitbestimmen beim Programm,
+      #kreativsein bei diversen Ateliers oder ganz grundlegend #zusammensein, beim
+      Verweilen, Geniessen oder Feiern.'
     button:
       enable: true
       label: View More
