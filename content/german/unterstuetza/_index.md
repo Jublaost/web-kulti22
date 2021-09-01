@@ -39,4 +39,6 @@ Falls Sie uns mit Material oder Naturalien unterstützen möchten, wenden Sie si
 
 Falls die Spende anonym sein soll, bitte unter Zahlungszweck entsprechend vermerken. Ansonsten führen wir Sie gerne in der Gönnerliste auf (alphabetisch, ohne Betrag).
 
- Ein grosses Dankeschön an die Partner:innen und Unterstützer:innen des Kulti 22!
+<br />
+
+Ein grosses Dankeschön an die Partner:innen und Unterstützer:innen des Kulti 22!
