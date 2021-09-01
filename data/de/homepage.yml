@@ -51,9 +51,10 @@ homepage_tab:
   - name: Spass
     title: Spass
     image: images/kulti19/spass.jpg
-    content: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
-      eirmod tempor invidunt ut labore et dolore magna aliquyam erat sed. At vero
-      eos et accusam et justo duo dolores et ea rebum satet
+    content: |-
+      "Dä Funkä tanzt!" - Während drei Tagen zieht sich dieses Motto als roter Faden durch das Programm: Bei gestalterischen, musikalischen, actionreichen Ateliers können Besucher*innen selbst aktiv werden.
+      Bei organisierten Challenges und sportlichen Turnieren können sich Gruppen
+      messen, austauschen und das innere Kind mal wieder freilassen. Jubla-Emotionen leben kommt also auch am Kulti nicht zu kurz.
     button:
       enable: true
       label: View More
