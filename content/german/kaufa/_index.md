@@ -37,7 +37,7 @@ Wenn du im Sinn hast, mit dem Privatfahrzeug ans Kulti 22 zu reisen, stehen dir
 
 <br />
 
-Anreise mit dem PKW: Das Gelände verfügt über eine Parkplatzanlage. Möchtest du einen dieser Parkplätze benutzen, kannst du schon jetzt via Eventfrog das **Parkplatz-Ticket für CHF 20** kaufen. Das Ticket ist gültig für alle 3 Tage. 
+Anreise mit dem PKW: Das Gelände verfügt über eine Parkplatzanlage. Möchtest du einen dieser Parkplätze benutzen, kannst du schon jetzt via Eventfrog das **Parkplatz-Ticket für CHF 20** kaufen. Natürlich kannst du das Ticket auch vor Ort bei deiner Ankunft kaufen. Das Ticket ist gültig für alle 3 Tage. 
 
 <br />
 
