@@ -1,7 +1,7 @@
 ---
 banner:
   enable: true
-  title: Lieder- und Kulturfest
+  title: Lieder- und Kulturfest 26.-28. August 2022
   content: Besuche das Kulti 2022 und lass dä Funkä mit uns tanzen!
   image: images/kulti19/tower01.jpg
   video:
@@ -14,8 +14,10 @@ banner:
   button:
     enable: true
     icon: images/eventfrog.png
-    label: Ticket jetzt kaufen!
-    link: "#"
+    label: " Jetzt Tickets kaufen!"
+    link: <script src="https://embed.eventfrog.ch/api/scripts/embed/buybutton.js"></script><iframe
+      src="https://embed.eventfrog.ch/de/embed/button-buy.html?eventId=6833845387129228352"
+      frameborder="0" scrolling="no" width="260" height="47"></iframe>
     content: Weiter zu Eventfrog
 clients_logo_slider:
   enable: false
@@ -35,39 +37,48 @@ clients_logo_slider:
 homepage_tab:
   enable: true
   title: Was ist das **Kulti**?
-  content: Drei Tage voller Musik, Spass, guten Gesprächen und Lebensfreu(n)de!
+  content: Drei Tage voller Musik, Spass und unvergesslichen Momenten mit Lebensfreu(n)den!
   tablist:
   - name: Musik
     title: Musik
     image: images/kulti19/music.jpg
-    content: '8 lokale Bands auf zwei Bühnen. Von Pop-Rock über Hiphop bis House ist
-      für jede*n etwas dabei. '
+    content: 'Als Höhepunkte des Kulti 22 gelten die Auftritte lokaler, aber auch
+      national gefeierter Musik- und Kulturschaffender, was bei allen Besucher:innen
+      den inneren Jubla-Funken tanzen lassen wird. Von Pop-Rock über Hiphop bis Techno
+      ist für jede:n etwas dabei. '
     button:
-      enable: true
+      enable: false
       label: Zum Programm
       link: how-it-works
   - name: Spass
     title: Spass
     image: images/kulti19/spass.jpg
-    content: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
-      eirmod tempor invidunt ut labore et dolore magna aliquyam erat sed. At vero
-      eos et accusam et justo duo dolores et ea rebum satet
+    content: |-
+      "Dä Funkä tanzt!" - Während drei Tagen zieht sich dieses Motto als roter Faden durch das Programm: Bei gestalterischen, musikalischen, actionreichen Ateliers können Besucher*innen selbst aktiv werden.
+      Bei organisierten Challenges und sportlichen Turnieren können sich Gruppen
+      messen, austauschen und das innere Kind mal wieder freilassen. Jubla-Emotionen leben kommt also auch am Kulti nicht zu kurz.
     button:
       enable: true
       label: View More
       link: how-it-works
   - name: Lebensfreu(n)de
-    title: Lebensfreunde
+    title: Lebensfreu(n)de
     image: images/kulti19/lebensfreude.jpg
-    content: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
-      eirmod tempor invidunt ut labore et dolore magna aliquyam erat sed. At vero
-      eos et accusam et justo duo dolores et ea rebum satet
+    content: 'Zusammen lachen, unvergessliche Augenblicke erleben, singen und geniessen
+      am Lagerfeuer, in abenteuerliche Geländespiele eintauchen, wandern und unter
+      dem Sternenhimmel übernachten, Zelte bauen und über dem Feuer kochen, eine Schatzkarte
+      zeichnen, sich verkleiden, die Köpfe zusammenstecken und Ideen entwickeln, Verantwortung
+      übernehmen, besondere Momente feiern, Freund:innen fürs Leben finden – das alles
+      und vieles mehr bietet Jungwacht Blauring. Das Kulti orientiert sich an den
+      Grundsätzen von Jungwacht Blauring, sei dies durch #mitbestimmen beim Programm,
+      #kreativsein bei diversen Ateliers oder ganz grundlegend #zusammensein, beim
+      Verweilen, Geniessen oder Feiern.'
     button:
-      enable: true
+      enable: false
       label: View More
       link: how-it-works
 tools:
-  enable: true
+  enable: false
   title: Herzlichen Dank an unsere **Sponsoren**
   content: Ohne sie wäre eine Umsetzung des Kultis undenkbar.
   logos:
@@ -81,7 +92,7 @@ tools:
   - images/tools/08.png
   - images/tools/05.png
 achivement:
-  enable: true
+  enable: false
   title: Das Kulti 22 in Zahlen
   content: ''
   funfacts:
@@ -101,13 +112,13 @@ achivement:
     name: Bands
   services: []
 workflow:
-  enable: true
+  enable: false
   title: Create an automated **workflow by setting**
   image: images/screenshots/03.png
   content: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
     eirmod tempor invidunt ut labore et dolore magna aliquyam erat sed.
 about_us:
-  enable: true
+  enable: false
   title: Who Are We And **What Is Our Identity?**
   image: images/about/01.jpg
   content: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
@@ -149,8 +160,8 @@ testimonial:
       stetclita
 call_to_action:
   enable: true
-  title: Hilf auch du, das Kulti 22 zum Erfolg zu machen.
+  title: ''
   button:
     enable: true
     label: Als Helfer*in melden
-    link: helfa
+    link: helfen

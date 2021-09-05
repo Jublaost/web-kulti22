@@ -5,36 +5,56 @@ description: Infos | Kulti 22 «Dä Funkä tanzt!» | Jungwacht Blauring Schweiz
 ---
 # Infos
 
-**Ticketverkauf**
-
-Der Ticketverkauf startet am Samstag, 4. September, 2021 um 09:00 Uhr. Tickets könnt ihr ausschliesslich über Eventfrog beziehen.
-
-Aktuell sind folgende Ticketkategorien im Angebot:
-
-Mit dem Gruppenpaket «Sparflammä» kannst für dich und deine Freund*innen vergünstigte Tickets kaufen, im Bundle ab mindestens 10 Tickets.
-
-Im regulären Earlybird-Ticket-Verkauf wird das «Early-Funkä-Ticket» für vorerst CHF&nbsp;62 statt CHF&nbsp;75 angeboten. Zugreifen solange sie noch heiss sind!
-
-Wer das Kulti zusätzlich finanziell unterstützen möchte, kann neben dem regulären Ticket das «Brandbeschleuniger-Ticket» für CHF&nbsp;20 zu kaufen. Dieses Ticket ist ein freiwilliges Supportticket und kein Eintrittsticket. Als Dankeschön erhältst du einen Getränkegutschein. Wir freuen uns über jede Unterstützung!
-
 **Einlass**
 
 Für das das Lieder- und Kulturfest 2022 gilt das Mindestalter von 16 Jahren. Es werden Ausweiskontrollen durchgeführt. Personen unter 16 Jahren erhalten keinen Zugang zum Gelände.
 
 Mit dem Ticketkauf verpflichtest du dich dazu, die Geländeregeln zu befolgen.
 
+<br />
+
 **Helfende**
 
-Du bist am nächsten Kulti als Helfer*in dabei? Grossartig! Im Helfendentool anmelden kannst du dich hier. Aus administrativen Gründen musst auch du ein Ticket kaufen. Nach deiner Schicht-Abrechnung wird dir der entsprechende Betrag zurückerstattet.
+Du bist am nächsten Kulti als Helfer*in dabei? Grossartig! Aus administrativen Gründen musst auch du ein Ticket kaufen und dich auf dem Helfendentool eintragen. Nach deiner Schicht-Abrechnung wird dir der entsprechende Betrag zurückerstattet.
+
+<br />
 
 **Ehemalige**
 
 Du hast deine aktive Zeit als Jubla-Leiter*in schon hinter dir und zählst dich zu den Ehemaligen? Auch du bist herzlich willkommen, mit uns im nächsten August den Funken tanzen zu lassen, denn auch du hast ein Dankeschön für dein (vergangenes) Engagement in der Jubla verdient!
 
-**Parkplätze**
+<br />
 
-Wenn du im Sinne hast, mit dem Privatfahrzeug ans Kulti 22 zu reisen, stehen dir folgende Möglichkeiten zur Verfügung: Anreise mit dem PKW: Das Gelände verfügt über eine Parkplatzanlage. Möchtest du diesen benutzen, musst du vor dem Kulti via Eventfrog das Parkplatz-Ticket für CHF 15 kaufen.
+**Ticketverkauf**
 
-**Caravan-Parking**
+Der Ticketverkauf startet am Samstag, 4. September, 2021 um 09:00 Uhr. Tickets könnt ihr ausschliesslich über Eventfrog beziehen.
 
-Du reist lieber noch gemütlicher mit dem Caravan/Büssli an? Dann besteht für dich die Möglichkeit, den Caravan-Parkplatz zu nutzen. Auch hierfür benötigst du ein spezielles Caravan-Parking-Ticket, welches du ebenfalls via Eventfrog für CHF 25 erwerben kannst.
+Aktuell sind folgende Ticketkategorien im Angebot:
+
+Mit dem Gruppenpaket **«Sparflammä»** kannst für dich und deine Mitleitenden oder Freund*innen vergünstigte Tickets kaufen, im Bundle ab mindestens 10 Stück. Die Sparflammä-Tickets gibt es nur als 3-Tages-Pässe. Das Angebot gilt nur für eine begrenzte Zeit.
+
+<br />
+
+Im regulären Earlybird-Ticket-Verkauf wird das **Early-Funkä-Ticket** (3-Tages-Pass) für vorerst CHF 62 statt CHF 75 angeboten. Zugreifen solange sie noch heiss sind!
+
+<br />
+
+Wer das Kulti zusätzlich finanziell unterstützen möchte, kann neben dem regulären Ticket das «**Brandbeschleuniger-Ticket**» für CHF 20 kaufen. Dieses Ticket ist ein freiwilliger Zustupf in die Kulti-Kasse und **kein Eintrittsticket.** Als Dankeschön erhältst du eine Überraschung, die du am Kulti einlösen kannst. Wir freuen uns über deine Unterstützung!
+
+<br />
+
+1-Tagespässe sind zu einem späteren Zeitpunkt verfügbar.
+
+<br />
+
+##### **Parkplatz-Tickets**
+
+Wenn du im Sinn hast, mit dem Privatfahrzeug ans Kulti 22 zu reisen, stehen dir folgende Möglichkeiten zur Verfügung:
+
+<br />
+
+Anreise mit dem PKW: Das Gelände verfügt über eine Parkplatzanlage. Möchtest du einen dieser Parkplätze benutzen, kannst du schon jetzt via Eventfrog das **Parkplatz-Ticket für CHF 20** kaufen. Natürlich kannst du das Ticket auch vor Ort bei deiner Ankunft kaufen. Das Ticket ist gültig für alle 3 Tage.
+
+<br />
+
+Du reist lieber _noch_ gemütlicher mit dem Caravan, Büssli, Wohnmobil, oder sonstigem grösseren Gefährt an? Dann besteht für dich die Möglichkeit, den Caravan-Parkplatz zu nutzen. Deine Vorteile: Du geniesst eine perfekte Lage, wenige Meter zum Geländeeingang und hast den gewünschten Komfort. Auch hierfür benötigst du ein spezielles **Caravan-Parking-Ticket**, das du ebenfalls schon jetzt via Eventfrog für **CHF 35** kaufen kannst. Das Ticket ist gültig für alle 3 Tage. **Die Caravan-Plätze sind begrenzt.**
