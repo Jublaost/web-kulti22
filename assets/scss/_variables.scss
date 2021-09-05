@@ -3,8 +3,8 @@
     src: url('/Jubla-Hand-16.ttf');
   }
 
-$font-headings: 'Jubla', sans-serif;
-$font-primary: 'Helvetica Neue', Helvetica, serif;
+$font-primary: 'Jubla', sans-serif;
+$font-headings: 'Helvetica LT', 'Helvetica Neue', Helvetica, serif;
 $font-text: Century Gothic, CenturyGothic, AppleGothic, sans-serif;
 
 $h1: 46px;
@@ -17,6 +17,7 @@ $h4: 20px;
 $h5: 18px;
 $h6: 15px;
 
+$headings: #F07100;
 $white:#ffffff;
 $black:#000000;
 $dark:#1D1C21;

@@ -10,11 +10,12 @@
     .navbar {
         padding-top: 25px;
         padding-bottom: 25px;
+        font-family: $font-headings;
     }
     .nav-item {
         .nav-link {
             font-weight: 600;
-            font-size: 15px;
+            font-size: 18px;
             color: $black-200 !important;
             padding-left: 17px !important;
             padding-right: 17px !important;
