@@ -43,7 +43,7 @@ homepage_tab:
       Bei organisierten Challenges und sportlichen Turnieren können sich Gruppen
       messen, austauschen und das innere Kind mal wieder freilassen. Jubla-Emotionen leben kommt also auch am Kulti nicht zu kurz.
     button:
-      enable: true
+      enable: false
       label: View More
       link: how-it-works
   - name: Lebensfreu(n)de
