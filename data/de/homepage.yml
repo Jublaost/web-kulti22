@@ -2,7 +2,7 @@
 banner:
   enable: true
   title: Lieder- und Kulturfest
-  content: Besuche das Kulti 2022 und erlebe grosses
+  content: Besuche das Kulti 2022 und lass dä Funkä mit uns tanzen!
   image: images/kulti19/tower01.jpg
   video:
     enable: true
@@ -18,7 +18,7 @@ banner:
     link: "#"
     content: Weiter zu Eventfrog
 clients_logo_slider:
-  enable: true
+  enable: false
   logos:
   - images/brands/01-colored.png
   - images/brands/02-colored.png
@@ -35,18 +35,16 @@ clients_logo_slider:
 homepage_tab:
   enable: true
   title: Was ist das **Kulti**?
-  content: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
-    eirmod tempor invidunt ut labore et dolore magna aliquyam erat sed.
+  content: Drei Tage voller Musik, Spass, guten Gesprächen und Lebensfreu(n)de!
   tablist:
   - name: Musik
     title: Musik
     image: images/kulti19/music.jpg
-    content: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
-      eirmod tempor invidunt ut labore et dolore magna aliquyam erat sed. At vero
-      eos et accusam et justo duo dolores et ea rebum satet
+    content: '8 lokale Bands auf zwei Bühnen. Von Pop-Rock über Hiphop bis House ist
+      für jede*n etwas dabei. '
     button:
       enable: true
-      label: View More
+      label: Zum Programm
       link: how-it-works
   - name: Spass
     title: Spass
@@ -71,8 +69,7 @@ homepage_tab:
 tools:
   enable: true
   title: Herzlichen Dank an unsere **Sponsoren**
-  content: Ohne die Hilfe dieser Sponsoren wäre eine Umsetzung des Kultis nicht möglich
-    gewesen.
+  content: Ohne sie wäre eine Umsetzung des Kultis undenkbar.
   logos:
   - images/tools/01.png
   - images/tools/02.png
@@ -85,29 +82,24 @@ tools:
   - images/tools/05.png
 achivement:
   enable: true
-  title: Average yearly growth rate **across our clients We able to achive**
-  content: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
-    eirmod tempor invidunt ut labore et dolore magna aliquyam erat sed. At vero eos
-    et
+  title: Das Kulti 22 in Zahlen
+  content: ''
   funfacts:
-  - name: Years Of <br> Experience
-    count: "24"
+  - name: Lebensfre(n)de
+    count: "∞"
+    extension: ''
+  - name: Besucher*innen
+    count: "2000"
     extension: "+"
-  - name: More Real <br> Active users
-    count: "10"
-    extension: M+
-  - name: Employees <br> Work Here
-    count: "3000"
-    extension: "+"
-  services:
-  - name: Fully Secure And Hacking Free
-    icon: ti-thumb-up
-  - name: Always Having A Great Supports
-    icon: ti-comments-smiley
-  - name: Build with Time Balanceing
-    icon: ti-video-clapper
-  - name: Fully Prepared with Safe Condition
-    icon: ti-shield
+  - name: Tage Spass
+    count: "3"
+    extension: ''
+  - name: Bühnen
+    count: "2"
+    extension: ''
+  - count: "8"
+    name: Bands
+  services: []
 workflow:
   enable: true
   title: Create an automated **workflow by setting**
@@ -157,8 +149,8 @@ testimonial:
       stetclita
 call_to_action:
   enable: true
-  title: Helfe auch DU mit dieses Kulti zum Erfolg zu machen!
+  title: Hilf auch du, das Kulti 22 zum Erfolg zu machen.
   button:
     enable: true
-    label: Melde dich als Helfer
+    label: Als Helfer*in melden
     link: helfa

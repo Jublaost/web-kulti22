@@ -1,6 +1,7 @@
 ---
 title: Was ist das Kulti?
-description: this is meta description
+description: Was ist das Kulti? | Kulti 22 «Dä Funkä tanzt!» | Jungwacht Blauring
+  Schweiz
 
 ---
 # Was ist das Kulti?

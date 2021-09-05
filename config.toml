@@ -60,7 +60,7 @@ contact_form_action = "#" # contact form works with https://formspree.io
 
 # Preloader
 [params.preloader]
-enable = false
+enable = true
 preloader = "images/fuenkli/flames_smile_loop_trans.gif" # use jpg, png, svg or gif format.
 text1 = "Wilkommen"
 text2 = "Kulti 22"
@@ -93,38 +93,33 @@ copyright = "Developed by Thomas"
 # main menu
 
 [[Languages.de.menu.main]]
-name = "Start"
+name = "Home"
 URL = ""
 weight = 1
 
 [[Languages.de.menu.main]]
-name = "Tickets"
-URL = "kaufa"
+name = "Infos"
+URL = "infos"
 weight = 1
-
-[[Languages.de.menu.main]]
-name = "Helfende"
-URL = "helfa"
-weight = 2
-
-[[Languages.de.menu.main]]
-name = "Kontakt"
-URL = "kontaktiara"
-weight = 3
 
 [[Languages.de.menu.main]]
 name = "Projekt"
 URL = "projekt"
-weight = 4
+weight = 2
 
 [[Languages.de.menu.main]]
 name = "Unterstützen"
-URL = "unterstuetza"
-weight = 5
+URL = "unterstuetzen"
+weight = 3
+
+[[Languages.de.menu.main]]
+name = "Kontakt"
+URL = "kontakt"
+weight = 4
 
 # Footer menu
 [[Languages.de.menu.footer]]
-name = "Hüfigi Froga"
+name = "Häufige Fragen"
 URL = "faq"
 weight = 1
 
