@@ -19,21 +19,6 @@ banner:
       src="https://embed.eventfrog.ch/de/embed/button-buy.html?eventId=6833845387129228352"
       frameborder="0" scrolling="no" width="260" height="47"></iframe>
     content: Weiter zu Eventfrog
-clients_logo_slider:
-  enable: false
-  logos:
-  - images/brands/01-colored.png
-  - images/brands/02-colored.png
-  - images/brands/03-colored.png
-  - images/brands/04-colored.png
-  - images/brands/05-colored.png
-  - images/brands/06-colored.png
-  - images/brands/01-colored.png
-  - images/brands/02-colored.png
-  - images/brands/03-colored.png
-  - images/brands/04-colored.png
-  - images/brands/05-colored.png
-  - images/brands/06-colored.png
 homepage_tab:
   enable: true
   title: Was ist das **Kulti**?
@@ -77,20 +62,6 @@ homepage_tab:
       enable: false
       label: View More
       link: how-it-works
-tools:
-  enable: false
-  title: Herzlichen Dank an unsere **Sponsoren**
-  content: Ohne sie wäre eine Umsetzung des Kultis undenkbar.
-  logos:
-  - images/tools/01.png
-  - images/tools/02.png
-  - images/tools/03.png
-  - images/tools/04.png
-  - images/tools/05.png
-  - images/tools/06.png
-  - images/tools/07.png
-  - images/tools/08.png
-  - images/tools/05.png
 achivement:
   enable: false
   title: Das Kulti 22 in Zahlen
@@ -111,53 +82,6 @@ achivement:
   - count: "8"
     name: Bands
   services: []
-workflow:
-  enable: false
-  title: Create an automated **workflow by setting**
-  image: images/screenshots/03.png
-  content: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
-    eirmod tempor invidunt ut labore et dolore magna aliquyam erat sed.
-about_us:
-  enable: false
-  title: Who Are We And **What Is Our Identity?**
-  image: images/about/01.jpg
-  content: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
-    eirmod tempor invidunt ut labore et dolore magna aliquyam erat sed. At vero eos
-    et accusam et justo duo dolores
-  bulletpoints:
-  - Habit building in essential steps choose habit Good Things
-  - Get an overview of Habit Calendars admiral general.
-  - Start building habit with Habitify on platform to new
-testimonial:
-  enable: false
-  title: What Our **Client says**
-  content: Lorem ipsum sadip dolor sit amet, consetetur sadip scing elitr, diam nonumy
-    eirmod tempor invi duntut labore et dolore magna aliquyam erat, sed diam
-  button:
-    enable: true
-    label: View All Testimonials
-    link: testimonial
-  testimonial_item:
-  - name: Angela Markel
-    image: images/users/01.jpg
-    designation: CEO, Angular Corporation
-    content: Lorem ipsum dolor sit amet, kasd gubergren, seatakimata dolores et rebum
-      stetclita
-  - name: Angela Markel
-    image: images/users/02.jpg
-    designation: CEO, Angular Corporation
-    content: Lorem ipsum dolor sit amet, kasd gubergren, seatakimata dolores et rebum
-      stetclita
-  - name: Angela Markel
-    image: images/users/03.jpg
-    designation: CEO, Angular Corporation
-    content: Lorem ipsum dolor sit amet, kasd gubergren, seatakimata dolores et rebum
-      stetclita
-  - name: Angela Markel
-    image: images/users/02.jpg
-    designation: CEO, Angular Corporation
-    content: Lorem ipsum dolor sit amet, kasd gubergren, seatakimata dolores et rebum
-      stetclita
 call_to_action:
   enable: true
   title: ''
