@@ -18,7 +18,7 @@ banner:
     link: <script src="https://embed.eventfrog.ch/api/scripts/embed/buybutton.js"></script><iframe
       src="https://embed.eventfrog.ch/de/embed/button-buy.html?eventId=6833845387129228352"
       frameborder="0" scrolling="no" width="260" height="47"></iframe>
-    content: Weiter zu Eventfrog
+    content: 
 homepage_tab:
   enable: true
   title: Was ist das **Kulti**?
