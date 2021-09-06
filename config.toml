@@ -128,7 +128,7 @@ weight = 6
 
 # Footer menu
 [[Languages.de.menu.footer]]
-name = "Häufige Fragen"
+name = "Infos"
 URL = "infos"
 weight = 1
 
