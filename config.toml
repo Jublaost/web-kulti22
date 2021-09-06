@@ -73,12 +73,12 @@ text2 = "Kulti 22"
 [[params.social]]
 name = "facebook"
 icon = "ti-facebook" # themify icon : https://themify.me/themify-icons
-link = "#"
+link = "https://www.facebook.com/kulti.jubla"
 
 [[params.social]]
 name = "instagram"
 icon = "ti-instagram" # themify icon : https://themify.me/themify-icons
-link = "#"
+link = "https://www.instagram.com/kulti22/"
 
 
 ################################### German language #####################################
