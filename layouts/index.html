@@ -37,7 +37,7 @@
         {{with .form }}
         <form id="newsletter-form" class="needs-validation mt-30" novalidate>
           <div class="input-group d-block d-sm-flex">
-            <input type="email" class="form-control bg-transparent" placeholder="name@email.com" required>
+            <input type="email" class="form-control bg-transparent" name="email" placeholder="name@email.com" required>
             <div class="input-group-append">
               <button type="submit" class="btn btn-primary has-icon ml-15">{{.button_label}}
                 <span class="icon"><svg width="32" height="32" viewBox="0 0 32 32" fill="none"
@@ -53,7 +53,11 @@
           <h3>Vielen Dank!</h3>
           <p>Du wirst von uns hören.</p>
         </div>
-
+        <div id="error-message" style="display: none">
+          <h3>Vielen Dank!</h3>
+          <p style="color: darkred;">Du bist bereits auf der Liste ;)</p>
+        </div>
+        
         <div class="divider-text mt-25 mb-25"><span class="bg-light-gray">ODER</span></div>
         {{ end }}
         {{ end }}

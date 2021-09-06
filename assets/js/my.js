@@ -9,7 +9,7 @@ function scrollFunction() {
 }
 
 var successMessage = document.getElementById("success-message");
-
+var errorMessage = document.getElementById("error-message");
 
 var contactForm = document.getElementById("contact-form");
 if (contactForm) {
@@ -55,7 +55,8 @@ if (newsletterForm) {
         body: JSON.stringify(payload)
     }).then(resp => {
         if (!resp.ok) {
-            console.error(resp);
+            errorMessage.style.display = "block";
+            newsletterForm.style.display = "none";
             return;
         }
         // Display success message.
@@ -83,6 +84,8 @@ if (registerHelfendeForm) {
         body: JSON.stringify(payload)
     }).then(resp => {
         if (!resp.ok) {
+            errorMessage.style.display = "block";
+            registerHelfendeForm.style.display = "none";
             console.error(resp);
             return;
         }
