@@ -1,7 +1,11 @@
 ---
 title: Tickets
 description: Tickets kaufen | Kulti 22 «Dä Funkä tanzt!» | Jungwacht Blauring Schweiz
-
+button:
+    enable: true
+    icon: /images/eventfrog.png
+    label: "Jetzt Tickets kaufen!"
+    link: https://eventfrog.ch/de/p/festivals/weitere-festivals/lieder-und-kulturfest-2022-6833845387129228352.html
 ---
 # Ticketverkauf Kulti 22
 

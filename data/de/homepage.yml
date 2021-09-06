@@ -8,16 +8,14 @@ banner:
     enable: true
     video_embed_link: https://www.youtube.com/embed/WEvBWiFnZT0
   form:
-    enable: false
+    enable: true
     form_acttion: "#"
-    button_label: Request Demo
+    button_label: Newsletter
   button:
     enable: true
     icon: images/eventfrog.png
-    label: " Jetzt Tickets kaufen!"
-    link: <script src="https://embed.eventfrog.ch/api/scripts/embed/buybutton.js"></script><iframe
-      src="https://embed.eventfrog.ch/de/embed/button-buy.html?eventId=6833845387129228352"
-      frameborder="0" scrolling="no" width="260" height="47"></iframe>
+    label: "Jetzt Tickets kaufen!"
+    link: https://eventfrog.ch/de/p/festivals/weitere-festivals/lieder-und-kulturfest-2022-6833845387129228352.html
     content: 
 homepage_tab:
   enable: true
@@ -37,7 +35,7 @@ homepage_tab:
       link: how-it-works
   - name: Spass
     title: Spass
-    image: images/kulti19/spass.jpg
+    image: images/kulti19/spass.jpgs
     content: |-
       "Dä Funkä tanzt!" - Während drei Tagen zieht sich dieses Motto als roter Faden durch das Programm: Bei gestalterischen, musikalischen, actionreichen Ateliers können Besucher*innen selbst aktiv werden.
       Bei organisierten Challenges und sportlichen Turnieren können sich Gruppen
@@ -84,8 +82,8 @@ achivement:
   services: []
 call_to_action:
   enable: true
-  title: ''
+  title: 'Helfe auch du...'
   button:
     enable: true
     label: Als Helfer*in melden
-    link: helfen
+    link: helfende

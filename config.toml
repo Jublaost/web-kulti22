@@ -59,6 +59,8 @@ author = "Thomas"
 contact_form_action = "#" # contact form works with https://formspree.io
 appinsights_instrumentationkey = "85ad0557-4954-4eef-ab02-9f4e0b8cad8b"
 
+eventfrog_link = "https://eventfrog.ch/de/p/festivals/weitere-festivals/lieder-und-kulturfest-2022-6833845387129228352.html"
+
 
 # Preloader
 [params.preloader]

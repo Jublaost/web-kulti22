@@ -35,7 +35,7 @@
 
         {{if .form.enable }}
         {{with .form }}
-        <form action="{{.form_action}}" method="post" class="needs-validation mt-30" novalidate>
+        <form id="newsletter-form" class="needs-validation mt-30" novalidate>
           <div class="input-group d-block d-sm-flex">
             <input type="email" class="form-control bg-transparent" placeholder="name@email.com" required>
             <div class="input-group-append">
@@ -49,14 +49,19 @@
             </div>
           </div>
         </form>
+        <div id="success-message" style="display: none">
+          <h3>Vielen Dank!</h3>
+          <p>Du wirst von uns hören.</p>
+        </div>
 
-        <div class="divider-text mt-25 mb-25"><span class="bg-light-gray">OR</span></div>
+        <div class="divider-text mt-25 mb-25"><span class="bg-light-gray">ODER</span></div>
         {{ end }}
         {{ end }}
 
         {{ if .button.enable }}
         {{ with .button }}
-        <a href="{{.link | absLangURL}}"
+        <br />
+        <a target="_blank" href="{{.link | absLangURL}}"
           class="btn btn-outline-secondary d-flex align-items-center justify-content-center">
           {{with .icon}} <img class="mr-2" src="{{ . }}">{{end}} {{.label}}</a>
 
