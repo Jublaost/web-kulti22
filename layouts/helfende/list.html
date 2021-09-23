@@ -13,13 +13,174 @@
       <div class="col-xl-6 col-lg-7">
         <form class="rounded shadow p-30" id="helfende-form">
           <div class="form-group mb-30">
-            <label class="text-black-200 h5 font-weight-600 mb-2" for="name">{{ i18n "name"}}</label>
-            <input class="form-control shadow-none" type="text" placeholder="Hans Muster" id="name" name="name" required>
+            <label class="text-black-200 h5 font-weight-600 mb-2" for="vorname">Vorname<strong style="color: darkred;">*</strong></label>
+            <input class="form-control shadow-none" type="text" placeholder="Hans" id="vorname" name="vorname" required>
           </div>
           <div class="form-group mb-30">
-            <label class="text-black-200 h5 font-weight-600 mb-2" for="email">{{i18n "mail"}}</label>
+            <label class="text-black-200 h5 font-weight-600 mb-2" for="nachname">Nachname<strong style="color: darkred;">*</strong></label>
+            <input class="form-control shadow-none" type="text" placeholder="Muster" id="nachname" name="nachname" required>
+          </div>
+          <div class="form-group mb-30">
+            <div class="form-check form-switch">
+              <input class="form-check-input" type="checkbox" id="age">
+              <label class="form-check-label" for="age">18+ (Ich bin volljährig)</label>
+            </div>
+          </div>
+          <div class="form-group mb-30">
+            <label class="text-black-200 h5 font-weight-600 mb-2" for="email">Email<strong style="color: darkred;">*</strong></label>
             <input class="form-control shadow-none" type="email" placeholder="name@email.com" id="email" name="email" required>
           </div>
+
+          <div class="form-group mb-30">
+            <label class="text-black-200 h5 font-weight-600 mb-2" for="phone">Handynummer<strong style="color: darkred;">*</strong></label>
+            <input class="form-control shadow-none" type="text" placeholder="079 123 45 67" id="phone" name="phone" required>
+          </div>
+          <div class="form-group mb-30">
+            <label class="text-black-200 h5 font-weight-600 mb-2" for="job">Beruf</label>
+            <input class="form-control shadow-none" type="text" placeholder="Matratzentester" id="job" name="job">
+          </div>
+
+          <div class="form-group mb-30">
+            <label class="text-black-200 h5 font-weight-600 mb-2" for="fiend">Ich möchte zusemmen arbeiten mit:</label>
+            <input class="form-control shadow-none" type="text" placeholder="Petra Sturzenegger" id="fiend" name="fiend">
+          </div>
+          <div class="row">
+            <div class="form-group col-sm-6 mb-30">
+              <label class="text-black-200 h5 font-weight-600 mb-2">T-Shirt Grösse</label>
+              <div class="form-check">
+                <input class="form-check-input" type="radio" name="shirt-size" id="size-s">
+                <label class="form-check-label" for="size-s">S</label>
+              </div>
+              <div class="form-check">
+                <input class="form-check-input" type="radio" name="shirt-size" id="size-m" checked>
+                <label class="form-check-label" for="size-m">M</label>
+              </div>
+              <div class="form-check">
+                <input class="form-check-input" type="radio" name="shirt-size" id="size-l">
+                <label class="form-check-label" for="size-l">L</label>
+              </div>
+              <div class="form-check">
+                <input class="form-check-input" type="radio" name="shirt-size" id="size-xl">
+                <label class="form-check-label" for="size-xl">XL</label>
+              </div>
+            </div>
+  
+            <div class="form-group col-sm-6 mb-30">
+              <label class="text-black-200 h5 font-weight-600 mb-2">Führerschein</label>
+              <div class="form-check">
+                <input class="form-check-input" type="radio" name="driver-license" id="no" checked>
+                <label class="form-check-label" for="no">Nein</label>
+              </div>
+              <div class="form-check">
+                <input class="form-check-input" type="radio" name="driver-license" id="normal">
+                <label class="form-check-label" for="normal">Ja</label>
+              </div>
+              <label class="text-black-200 h6 font-weight-400" for="license">Spezielle Kategorie</label>
+              <input class="form-control shadow-none" type="text" placeholder="BE" id="license" name="license">
+            </div>
+          </div>
+
+          <div class="row">
+            <div class="form-group col-sm-4 mb-30">
+              <label class="text-black-200 h5 font-weight-600 mb-2">Aufbau</label>
+              <div class="form-check">
+                <input class="form-check-input" type="checkbox" value="" id="aufbau-01">
+                <label class="form-check-label" for="aufbau-01">
+                  Datum 1
+                </label>
+              </div>
+              <div class="form-check">
+                <input class="form-check-input" type="checkbox" value="" id="aufbau-02">
+                <label class="form-check-label" for="aufbau-02">
+                  Datum 2
+                </label>
+              </div>
+            </div>
+  
+            <div class="form-group col-sm-4 mb-30">
+              <label class="text-black-200 h5 font-weight-600 mb-2">Am Kulti</label>
+              <div class="form-check">
+                <input class="form-check-input" type="checkbox" value="" id="kulti-01">
+                <label class="form-check-label" for="kulti-01">
+                  Datum 1
+                </label>
+              </div>
+              <div class="form-check">
+                <input class="form-check-input" type="checkbox" value="" id="kulti-02">
+                <label class="form-check-label" for="kulti-02">
+                  Datum 2
+                </label>
+              </div>
+              <div class="form-check">
+                <input class="form-check-input" type="checkbox" value="" id="kulti-03">
+                <label class="form-check-label" for="kulti-03">
+                  Datum 3
+                </label>
+              </div>
+            </div>
+  
+            <div class="form-group col-sm-4 mb-30">
+              <label class="text-black-200 h5 font-weight-600 mb-2">Abbau</label>
+              <div class="form-check">
+                <input class="form-check-input" type="checkbox" value="" id="abbau-01">
+                <label class="form-check-label" for="abbau-01">
+                  Datum 1
+                </label>
+              </div>
+              <div class="form-check">
+                <input class="form-check-input" type="checkbox" value="" id="abbau-02">
+                <label class="form-check-label" for="abbau-02">Datum 2</label>
+              </div>
+            </div>
+          </div>
+
+          <div class="row">
+            <div class="form-group col mb-30">
+              <label class="text-black-200 h5 font-weight-600 mb-2">Das kann ich</label>
+              <div class="form-check">
+                <input class="form-check-input" type="checkbox" value="" id="can-do-01">
+                <label class="form-check-label" for="can-do-01">Unterstützung Küche</label>
+              </div>
+              <div class="form-check">
+                <input class="form-check-input" type="checkbox" value="" id="can-do-02">
+                <label class="form-check-label" for="can-do-02">Unterstützung Barbetrieb</label>
+              </div>
+              <div class="form-check">
+                <input class="form-check-input" type="checkbox" value="" id="can-do-03">
+                <label class="form-check-label" for="can-do-03">Sanität</label>
+              </div>
+              <div class="form-check">
+                <input class="form-check-input" type="checkbox" value="" id="can-do-04">
+                <label class="form-check-label" for="can-do-04">Sicherheit</label>
+              </div>
+              <div class="form-check">
+                <input class="form-check-input" type="checkbox" value="" id="can-do-05">
+                <label class="form-check-label" for="can-do-05">Trash Hero</label>
+              </div>
+              <div class="form-check">
+                <input class="form-check-input" type="checkbox" value="" id="can-do-06">
+                <label class="form-check-label" for="can-do-06">Infrastruktur und Logistik</label>
+              </div>
+              <div class="form-check">
+                <input class="form-check-input" type="checkbox" value="" id="can-do-07">
+                <label class="form-check-label" for="can-do-07">Unterhaltung</label>
+              </div>
+              <div class="form-check">
+                <input class="form-check-input" type="checkbox" value="" id="can-do-08">
+                <label class="form-check-label" for="can-do-08">Unterstützung Ateliers</label>
+              </div>
+              <div class="form-check">
+                <input class="form-check-input" type="checkbox" value="" id="can-do-09">
+                <label class="form-check-label" for="can-do-09">Teilt mich einfach ein</label>
+              </div>
+            </div>
+          </div>
+
+          <div class="form-group mb-30">
+            <label class="text-black-200 h5 font-weight-600 mb-2" for="message">Kommentar</label>
+            <textarea class="form-control shadow-none" rows="5" id="message" name="message"></textarea>
+          </div>
+
           <button class="btn btn-primary w-100" type="submit">{{ i18n "submit"}}</button>
         </form>
         <div id="success-message" style="display: none">
@@ -27,8 +188,8 @@
           <p>Wir werden uns bei dir melden wenn wir mehr infos benötigen.</p>
         </div>
         <div id="error-message" style="display: none">
-          <h3>Vielen Dank!</h3>
-          <p style="color: darkred;">Du bist bereits registriert ;)</p>
+          <h3>Ups!</h3>
+          <p style="color: darkred;">Leider hat etwas nicht geklappt.. Bitte melde dich bei Simona Bosetti<a href="mailto:simi@kulti22.ch">simi@kulti22.ch</a></p>
         </div>
       </div>
     </div>
