@@ -13,8 +13,4 @@ Sei dies als Auf- und Abbauhilfskraft, Barmitglied, durch Betreuung eines Atelie
 
 <br />
 
-**Anmelden** kannst du dich schon jetzt über den untenstehenden Button. Anfangs 2022 erhältst du per E-Mail eine Aufforderung, dich für deine Wunsch-Ressorts und -Schichten einzutragen.
-
-<br />
-
 **Wir sind dankbar um jede und jeden, die uns dabei unterstützt, das Kulti 22 unvergesslich zu machen. Schon jetzt herzlichen Dank!**

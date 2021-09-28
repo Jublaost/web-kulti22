@@ -3039,3 +3039,6 @@ body {
 
 .hide {
   display: none; }
+
+form {
+  font-family: Century Gothic, CenturyGothic, AppleGothic, sans-serif; }
