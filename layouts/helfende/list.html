@@ -22,7 +22,7 @@
           </div>
           <div class="form-group mb-30">
             <div class="form-check form-switch">
-              <input class="form-check-input" type="checkbox" id="age" name="age">
+              <input class="form-check-input" type="checkbox" id="age" name="age" value="yes">
               <label class="form-check-label" for="age">18+ (Ich bin volljährig)</label>
             </div>
           </div>
@@ -68,16 +68,16 @@
             <div class="form-group col-sm-6 mb-30">
               <label class="text-black-200 h5 font-weight-600 mb-2">Führerschein</label>
               <div class="form-check">
-                <input class="form-check-input" type="radio" name="driver-license" value="no" id="driver-license-no" onchange="onLicenseCheck()" checked>
+                <input class="form-check-input" type="radio" name="driver-license" value="no" id="driver-license-no" onchange="onLicenseCheck(false)" checked>
                 <label class="form-check-label" for="driver-license-no">Nein</label>
               </div>
               <div class="form-check">
-                <input class="form-check-input" type="radio" name="driver-license" value="yes" id="driver-license-yes">
+                <input class="form-check-input" type="radio" name="driver-license" value="yes" id="driver-license-yes" onchange="onLicenseCheck(true)">
                 <label class="form-check-label" for="driver-license-yes">Ja</label>
               </div>
-              <div id="driver-license-category-div" class="form-check">
+              <div id="driver-license-category-div" class="form-check hide">
                 <label class="text-black-200 h6 font-weight-400" for="driver-license-category">Kategorie</label>
-                <input class="form-control shadow-none" type="text" placeholder="BE" id="driver-license-category" name="driver-license-category">
+                <input class="form-control shadow-none" type="text" placeholder="BE" id="driver-license-category" name="driver-license">
               </div>
             </div>
           </div>

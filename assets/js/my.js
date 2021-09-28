@@ -106,6 +106,10 @@ if (registerHelfendeForm) {
   }
 }
 
-function onLicenseCheck() {
-  document.getElementById("driver-license-category-div").classList.add("hide");
+function onLicenseCheck(show) {
+  if (show) {
+    document.getElementById("driver-license-category-div").classList.remove("hide");
+  } else {
+    document.getElementById("driver-license-category-div").classList.add("hide");
+  }
 }
