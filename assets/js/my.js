@@ -73,12 +73,6 @@ if (registerHelfendeForm) {
     event.preventDefault(); // Don't let the browser submit the form.
     var payload = {};
 
-    // Build JSON key-value pairs using the form fields.
-    registerHelfendeForm.querySelectorAll(".form-control").forEach(field => {
-        payload[field.name] = field.value;
-    });
-    //payload["age18"] = registerHelfendeForm.querySelectorAll("#age")[0].checked;
-
     registerHelfendeForm.querySelectorAll(".form-check-input").forEach(field => {
       if (field.checked) {
         if (payload[field.name]) {
@@ -88,6 +82,12 @@ if (registerHelfendeForm) {
         }
       }
     })
+
+    // Build JSON key-value pairs using the form fields.
+    registerHelfendeForm.querySelectorAll(".form-control").forEach(field => {
+        payload[field.name] = field.value;
+    });
+
     // Post the payload to the contact endpoint.
     fetch("http://localhost:7071/api/WebFormHelfende", {
         method: 'post',
