@@ -74,12 +74,22 @@ if (registerHelfendeForm) {
     var payload = {};
 
     // Build JSON key-value pairs using the form fields.
-    registerHelfendeForm.querySelectorAll("input, textarea").forEach(field => {
+    registerHelfendeForm.querySelectorAll(".form-control").forEach(field => {
         payload[field.name] = field.value;
     });
+    //payload["age18"] = registerHelfendeForm.querySelectorAll("#age")[0].checked;
 
+    registerHelfendeForm.querySelectorAll(".form-check-input").forEach(field => {
+      if (field.checked) {
+        if (payload[field.name]) {
+          payload[field.name] += ";" + field.value;
+        } else {
+          payload[field.name] = field.value;
+        }
+      }
+    })
     // Post the payload to the contact endpoint.
-    fetch("https://kulti22.azurewebsites.net/api/RegisterHelfende", {
+    fetch("http://localhost:7071/api/WebFormHelfende", {
         method: 'post',
         body: JSON.stringify(payload)
     }).then(resp => {
@@ -94,4 +104,8 @@ if (registerHelfendeForm) {
         registerHelfendeForm.style.display = "none";
     });
   }
+}
+
+function onLicenseCheck() {
+  document.getElementById("driver-license-category-div").classList.add("hide");
 }
