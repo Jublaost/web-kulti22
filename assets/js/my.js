@@ -89,7 +89,7 @@ if (registerHelfendeForm) {
     });
 
     // Post the payload to the contact endpoint.
-    fetch("http://localhost:7071/api/WebFormHelfende", {
+    fetch("https://kulti22.azurewebsites.net/api/WebFormHelfende", {
         method: 'post',
         body: JSON.stringify(payload)
     }).then(resp => {
