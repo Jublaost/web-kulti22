@@ -87,5 +87,5 @@ call_to_action:
   title: ''
   button:
     enable: true
-    label: Als Helfer*in melden
+    label: Als Helfer:in melden
     link: helfen
