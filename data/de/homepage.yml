@@ -84,7 +84,7 @@ achivement:
   services: []
 call_to_action:
   enable: true
-  title: ''
+  title: Hilf auch du mit
   button:
     enable: true
     label: Als Helfer:in melden
