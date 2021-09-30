@@ -2,20 +2,22 @@
 banner:
   enable: true
   title: Lieder- und Kulturfest 26.-28. August 2022
-  content: Besuche das Kulti 2022 und lass dä Funkä mit uns tanzen!
+  content: Besuche das Kulti 2022 und lass den Funkä mit uns tanzen!
   image: images/kulti19/tower01.jpg
   video:
     enable: true
     video_embed_link: https://www.youtube.com/embed/WEvBWiFnZT0
   form:
-    enable: true
+    enable: false
     form_acttion: "#"
-    button_label: Newsletter
+    button_label: Request Demo
   button:
     enable: true
     icon: images/eventfrog.png
-    label: "Jetzt Tickets kaufen!"
-    link: https://eventfrog.ch/de/p/festivals/weitere-festivals/lieder-und-kulturfest-2022-6833845387129228352.html
+    label: " Jetzt Tickets kaufen!"
+    link: <script src="https://embed.eventfrog.ch/api/scripts/embed/buybutton.js"></script><iframe
+      src="https://embed.eventfrog.ch/de/embed/button-buy.html?eventId=6833845387129228352"
+      frameborder="0" scrolling="no" width="260" height="47"></iframe>
     content: 
 homepage_tab:
   enable: true
@@ -25,17 +27,17 @@ homepage_tab:
   - name: Musik
     title: Musik
     image: images/kulti19/music.jpg
-    content: 'Als Höhepunkte des Kulti 22 gelten die Auftritte lokaler, aber auch
-      national gefeierter Musik- und Kulturschaffender, was bei allen Besucher:innen
-      den inneren Jubla-Funken tanzen lassen wird. Von Pop-Rock über Hiphop bis Techno
-      ist für jede:n etwas dabei. '
+    content: Als Höhepunkte des Kulti 22 gelten die Auftritte lokaler, aber auch national
+      gefeierter Musik- und Kulturschaffender, was bei allen Besucher:innen den inneren
+      Jubla-Funken tanzen lassen wird. Von Pop-Rock über Hiphop bis Techno ist für
+      jede:n etwas dabei.
     button:
       enable: false
       label: Zum Programm
       link: how-it-works
   - name: Spass
     title: Spass
-    image: images/kulti19/spass.jpgs
+    image: images/kulti19/spass.jpg
     content: |-
       "Dä Funkä tanzt!" - Während drei Tagen zieht sich dieses Motto als roter Faden durch das Programm: Bei gestalterischen, musikalischen, actionreichen Ateliers können Besucher*innen selbst aktiv werden.
       Bei organisierten Challenges und sportlichen Turnieren können sich Gruppen
@@ -82,8 +84,8 @@ achivement:
   services: []
 call_to_action:
   enable: true
-  title: 'Helfe auch du...'
+  title: ''
   button:
     enable: true
     label: Als Helfer*in melden
-    link: helfende
+    link: helfen
