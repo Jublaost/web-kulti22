@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://gray-sand-0ccb3e403.azurestaticapps.net/"
+baseURL = "https://www.kulti22.ch"
 title = "Kulti 22"
 theme = "hugo-theme-copper"
 # post pagination
