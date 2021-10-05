@@ -8,9 +8,8 @@ banner:
     enable: true
     video_embed_link: https://www.youtube.com/embed/WEvBWiFnZT0
   form:
-    enable: false
-    form_acttion: "#"
-    button_label: Request Demo
+    enable: true
+    button_label: Newsletter
   button:
     enable: true
     icon: images/eventfrog.png
