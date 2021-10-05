@@ -10,12 +10,12 @@ banner:
   form:
     enable: true
     button_label: Newsletter
-  button:
-    enable: true
-    icon: images/eventfrog.png
-    label: "Jetzt Tickets kaufen!"
-    link: "https://eventfrog.ch/de/p/festivals/weitere-festivals/lieder-und-kulturfest-2022-6833845387129228352.html"
-    content: 
+
+eventfrog_button:
+  icon: images/eventfrog.png
+  label: "Jetzt Tickets kaufen!"
+  link: "https://eventfrog.ch/de/p/festivals/weitere-festivals/lieder-und-kulturfest-2022-6833845387129228352.html"
+
 homepage_tab:
   enable: true
   title: Was ist das **Kulti**?
@@ -59,30 +59,24 @@ homepage_tab:
       enable: false
       label: View More
       link: how-it-works
-achivement:
-  enable: false
-  title: Das Kulti 22 in Zahlen
-  content: ''
-  funfacts:
-  - name: Lebensfre(n)de
-    count: "∞"
-    extension: ''
-  - name: Besucher*innen
-    count: "2000"
-    extension: "+"
-  - name: Tage Spass
-    count: "3"
-    extension: ''
-  - name: Bühnen
-    count: "2"
-    extension: ''
-  - count: "8"
-    name: Bands
-  services: []
-call_to_action:
-  enable: true
-  title: Hilf auch du mit
-  button:
-    enable: true
-    label: Als Helfer:in melden
-    link: helfende
+
+tickets:
+  enable : true
+  title : "Tickets"
+  content : "Sichere dir jetzt dein Ticket!"
+  item:
+  - name : "Earlybird: Funkä-Ticket"
+    icon : "ti-user"
+    content : "Im regulären Earlybird-Ticket-Verkauf wird das «Funkä-Ticket» (3-Tages-Pass) für vorerst CHF 62 statt CHF 75 angeboten. Zugreifen solange sie noch heiss sind!"
+    
+  - name : "Brandbeschleuniger-Ticket"
+    icon : "ti-money"
+    content : "Wer das Kulti zusätzlich finanziell unterstützen möchte, kann neben dem regulären Ticket das «Brandbeschleuniger-Ticket» für CHF 20 kaufen. Dieses Ticket ist ein freiwilliger Zustupf in die Kulti-Kasse und kein Eintrittsticket. Als Dankeschön erhältst du eine Überraschung, die du am Kulti einlösen kannst. Wir freuen uns über deine Unterstützung!"
+    
+  - name : "Parkplatz-Ticket"
+    icon : "ti-car"
+    content : "Anreise mit dem PKW: Das Gelände verfügt über eine Parkplatzanlage. Möchtest du einen dieser Parkplätze benutzen, kannst du schon jetzt via Eventfrog das Parkplatz-Ticket für CHF 20 kaufen. Natürlich kannst du das Ticket auch vor Ort bei deiner Ankunft kaufen. Das Ticket ist gültig für alle 3 Tage. Die Anzahl Parkplätze ist unbegrenzt."
+  
+  - name : "Caravan-Ticket"
+    icon : "ti-truck"
+    content : "Du reist lieber noch gemütlicher mit dem Caravan, Büssli, Wohnmobil, oder sonstigem grösseren Gefährt an? Dann besteht für dich die Möglichkeit, den Caravan-Parkplatz zu nutzen. Deine Vorteile: Du geniesst eine perfekte Lage wenige Meter zum Geländeeingang und hast den gewünschten Komfort. Auch hierfür benötigst du ein spezielles Caravan-Parking-Ticket, das du ebenfalls schon jetzt via Eventfrog für CHF 35 kaufen kannst. Das Ticket ist gültig für alle 3 Tage. Die Caravan-Plätze sind begrenzt."

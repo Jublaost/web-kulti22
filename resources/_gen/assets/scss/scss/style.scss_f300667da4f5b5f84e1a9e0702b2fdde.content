@@ -3046,3 +3046,11 @@ form {
 .btn {
   font-family: Century Gothic, CenturyGothic, AppleGothic, sans-serif;
   font-weight: bold; }
+
+.eventfrog-button {
+  background-color: white !important;
+  color: black;
+  border: 0.094rem solid #F07100; }
+
+.eventfrog-button:hover {
+  background-color: whitesmoke; }

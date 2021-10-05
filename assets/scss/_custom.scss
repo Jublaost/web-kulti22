@@ -34,3 +34,11 @@ form {
     font-family: $font-text;
     font-weight: bold;
 }
+.eventfrog-button {
+    background-color: white !important;
+    color: black;
+    border: 0.094rem solid $color-primary;
+}
+.eventfrog-button:hover {
+    background-color: whitesmoke;
+}
