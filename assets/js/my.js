@@ -23,7 +23,7 @@ if (contactForm) {
     });
 
     // Post the payload to the contact endpoint.
-    fetch("https://kulti22.azurewebsites.net/api/SendMailToInfo", {
+    fetch("https://kulti22.azurewebsites.net/api/WebFormKontakt", {
         method: 'post',
         body: JSON.stringify(payload)
     }).then(resp => {
