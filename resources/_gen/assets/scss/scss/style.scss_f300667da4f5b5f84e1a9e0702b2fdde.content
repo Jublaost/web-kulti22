@@ -3042,3 +3042,7 @@ body {
 
 form {
   font-family: Century Gothic, CenturyGothic, AppleGothic, sans-serif; }
+
+.btn {
+  font-family: Century Gothic, CenturyGothic, AppleGothic, sans-serif;
+  font-weight: bold; }
