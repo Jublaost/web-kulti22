@@ -23,7 +23,7 @@
           {{ end }}
           {{ end }}
           {{ $image := resources.GetMatch .image }}
-          {{ partial "image.html" (dict "Image" $image "Alt" "About us image" "Class" "img-fluid rounded-lg") }}
+          {{ partial "image.html" (dict "Image" $image "Alt" "video background image" "Class" "img-fluid rounded-lg") }}
 
           <div class="shape-lg bg-cyan rounded-circle"></div>
           <div class="shape-md bg-orange rounded-circle"></div>
@@ -33,7 +33,6 @@
       <div class="col-xl-5 col-lg-6 order-lg-0">
         <h2 class="h1 mb-20">{{ .title | markdownify }}</h2>
         <p>{{ .content | markdownify }}</p>
-
         {{if .form.enable }}
         {{with .form }}
         <form id="newsletter-form" class="needs-validation mt-30" novalidate>

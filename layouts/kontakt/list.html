@@ -43,8 +43,9 @@
       <div class="masonry-item team-item col-lg-4 col-sm-6 mt-4" data-groups="[&quot;{{.group | urlize}}&quot;]">
         <div class="text-center mb-30">
           <div class="team-image has-shapes d-inline-block mb-25">
-            <img class="img-fluid rounded-circle" src="{{.image | absURL}}" alt="">
-
+            {{ $image := resources.GetMatch .image }}
+            {{ partial "image.html" (dict "Image" $image "Alt" "{{.name}} image" "Class" "img-fluid rounded-circle") }}
+  
             <div class="team-shapes">
               <div class="shape-1 shape-xs bg-secondary rounded-circle"></div>
               <div class="shape-2 shape-sm bg-primary rounded-circle"></div>

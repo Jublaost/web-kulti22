@@ -5,7 +5,9 @@ html, body {
 body {
     position: relative;
 }
-
+.footer-logo {
+    max-width: 10em;
+}
 .sticky {
     position: fixed !important;
     top: 0;
