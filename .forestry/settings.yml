@@ -8,20 +8,20 @@ sections:
   path: data/de/homepage.yml
   label: Homepage
 - type: document
-  path: content/german/helfende/_index.md
-  label: Helfende
+  path: content/german/infos/_index.md
+  label: Info
 - type: document
   path: content/german/projekt/_index.md
   label: Projekt
+- type: document
+  path: content/german/helfende/_index.md
+  label: Helfende
 - type: document
   path: content/german/unterstuetzen/_index.md
   label: Unterstützen
 - type: document
   path: content/german/kontakt/_index.md
   label: Kontakt
-- type: document
-  path: content/german/infos/_index.md
-  label: Info
 - type: document
   path: content/german/impressum/_index.md
   label: Impressum
