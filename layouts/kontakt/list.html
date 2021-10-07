@@ -36,30 +36,6 @@
           <p style="color: darkred;">Leider hat etwas nicht geklappt... melde dich doch direkt bei <a href="mailto:thomas@kulti22.ch">thomas@kulti22.ch</a></p>
         </div>
       </div>
-
-      <div class="col-xl-4 col-lg-5 mt-5 mt-lg-0">
-        {{ if .Params.contact_info.enable }}
-        {{ with .Params.contact_info }}
-        <div class="rounded shadow p-30 mb-30">
-          <h3 class="font-weight-600">
-            <i class="ti-location-pin text-primary mr-2"></i>
-            {{ .title | markdownify }}
-          </h3>
-
-          <ul class="list-unstyled check-list-primary mt-30">
-            {{ range .address_list }}
-            <li class="mb-20">
-              <span><svg width="16" height="11" viewBox="0 0 18 13" fill="none" xmlns="http://www.w3.org/2000/svg">
-                  <path d="M2 6.125L6.91892 11L16 2" stroke="currentColor" stroke-width="3" stroke-linecap="round"
-                    stroke-linejoin="round" /></svg></span>
-              {{ . | markdownify }}
-            </li>
-            {{ end }}
-          </ul>
-        </div>
-        {{ end }}
-        {{ end }}
-      </div>
     </div>
     
     <div id="masonry" class="row team-members">

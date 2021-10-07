@@ -22,7 +22,8 @@
           </button>
           {{ end }}
           {{ end }}
-          <img class="img-fluid" src="{{ .image | absURL }}" alt="">
+          {{ $image := resources.GetMatch .image }}
+          {{ partial "image.html" (dict "Image" $image "Alt" "About us image" "Class" "img-fluid rounded-lg") }}
 
           <div class="shape-lg bg-cyan rounded-circle"></div>
           <div class="shape-md bg-orange rounded-circle"></div>
@@ -130,7 +131,8 @@
             aria-labelledby="pill-{{.name | urlize}}">
             <div class="row align-items-center">
               <div class="col-lg-8 anim-to-top">
-                <img class="img-fluid rounded-lg shadow" src="{{ .image | absURL }}" alt="">
+                {{ $image := resources.GetMatch .image }}
+                {{ partial "image.html" (dict "Image" $image "Alt" "image for section" "Class" "img-fluid rounded-lg shadow") }}
               </div>
               <div class="col-lg-4 mt-4 mt-lg-0 anim-to-bottom">
                 <h2 class="section-title">{{ .title | markdownify }}</h2>
