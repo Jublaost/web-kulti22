@@ -25,7 +25,7 @@ sections:
 - type: document
   path: content/german/impressum/_index.md
   label: Impressum
-upload_dir: static/images/uploads
+upload_dir: assets/images/uploads
 public_path: "/images/uploads"
 front_matter_path: ''
 use_front_matter_path: false
