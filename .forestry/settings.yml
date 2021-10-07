@@ -8,25 +8,22 @@ sections:
   path: data/de/homepage.yml
   label: Homepage
 - type: document
-  path: content/german/helfa/_index.md
+  path: content/german/helfende/_index.md
   label: Helfende
-- type: document
-  path: content/german/kaufa/_index.md
-  label: Ticket
 - type: document
   path: content/german/projekt/_index.md
   label: Projekt
 - type: document
-  path: content/german/unterstuetza/_index.md
+  path: content/german/unterstuetzen/_index.md
   label: Unterstützen
 - type: document
-  path: content/german/kontaktiara/_index.md
+  path: content/german/kontakt/_index.md
   label: Kontakt
 - type: document
-  path: content/german/faq/_index.md
-  label: FAQ
+  path: content/german/infos/_index.md
+  label: Info
 - type: document
-  path: content/german/impressum.md
+  path: content/german/impressum/_index.md
   label: Impressum
 upload_dir: static/images/uploads
 public_path: "/images/uploads"
