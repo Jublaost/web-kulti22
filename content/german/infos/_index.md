@@ -27,21 +27,19 @@ Du hast deine aktive Zeit als Jubla-Leiter*in schon hinter dir und zählst dich 
 
 **Ticketverkauf**
 
-Der Ticketverkauf startet am Samstag, 4. September, 2021 um 09:00 Uhr. Tickets könnt ihr ausschliesslich über Eventfrog beziehen.
-
 Aktuell sind folgende Ticketkategorien im Angebot:
-
-Mit dem Gruppenpaket **«Sparflammä»** kannst für dich und deine Mitleitenden oder Freund*innen vergünstigte Tickets kaufen, im Bundle ab mindestens 10 Stück. Die Sparflammä-Tickets gibt es nur als 3-Tages-Pässe. Das Angebot gilt nur für eine begrenzte Zeit.
 
 <br />
 
-Im regulären Earlybird-Ticket-Verkauf wird das **Early-Funkä-Ticket** (3-Tages-Pass) für vorerst CHF 62 statt CHF 75 angeboten. Zugreifen solange sie noch heiss sind!
+Im Earlybird-Ticket-Verkauf wird das **Early-Funkä-Ticket** (3-Tages-Pass) für vorerst CHF 62 statt CHF 75 angeboten. Die Earlybird-Ticket-Aktion ist zeitlich begrenzt, sobald das Early-Bird-Kontingent ausverkauft ist, sind nur noch die regulären Tickets für CHF erhältlich. Zugreifen lohnt sich also solange sie noch heiss sind!
 
 <br />
 
 Wer das Kulti zusätzlich finanziell unterstützen möchte, kann neben dem regulären Ticket das «**Brandbeschleuniger-Ticket**» für CHF 20 kaufen. Dieses Ticket ist ein freiwilliger Zustupf in die Kulti-Kasse und **kein Eintrittsticket.** Als Dankeschön erhältst du eine Überraschung, die du am Kulti einlösen kannst. Wir freuen uns über deine Unterstützung!
 
 <br />
+
+Das Gruppenangebot "Sparflammä" ist ausverkauft.
 
 1-Tagespässe sind zu einem späteren Zeitpunkt verfügbar.
 
