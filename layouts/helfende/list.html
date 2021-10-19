@@ -13,12 +13,15 @@
       <div class="col-xl-6 col-lg-7">
         <form class="rounded shadow p-30" id="helfende-form">
           <div class="form-group mb-30">
-            <label class="text-black-200 h5 font-weight-600 mb-2" for="vorname">Vorname<strong style="color: darkred;">*</strong></label>
+            <label class="text-black-200 h5 font-weight-600 mb-2" for="vorname">Vorname<strong
+                style="color: darkred;">*</strong></label>
             <input class="form-control shadow-none" type="text" placeholder="Hans" id="vorname" name="vorname" required>
           </div>
           <div class="form-group mb-30">
-            <label class="text-black-200 h5 font-weight-600 mb-2" for="nachname">Nachname<strong style="color: darkred;">*</strong></label>
-            <input class="form-control shadow-none" type="text" placeholder="Muster" id="nachname" name="nachname" required>
+            <label class="text-black-200 h5 font-weight-600 mb-2" for="nachname">Nachname<strong
+                style="color: darkred;">*</strong></label>
+            <input class="form-control shadow-none" type="text" placeholder="Muster" id="nachname" name="nachname"
+              required>
           </div>
           <div class="form-group mb-30">
             <div class="form-check form-switch">
@@ -27,13 +30,17 @@
             </div>
           </div>
           <div class="form-group mb-30">
-            <label class="text-black-200 h5 font-weight-600 mb-2" for="email">Email<strong style="color: darkred;">*</strong></label>
-            <input class="form-control shadow-none" type="email" placeholder="name@email.com" id="email" name="email" required>
+            <label class="text-black-200 h5 font-weight-600 mb-2" for="email">Email<strong
+                style="color: darkred;">*</strong></label>
+            <input class="form-control shadow-none" type="email" placeholder="name@email.com" id="email" name="email"
+              required>
           </div>
 
           <div class="form-group mb-30">
-            <label class="text-black-200 h5 font-weight-600 mb-2" for="phone">Handynummer<strong style="color: darkred;">*</strong></label>
-            <input class="form-control shadow-none" type="text" placeholder="079 123 45 67" id="phone" name="phone" required>
+            <label class="text-black-200 h5 font-weight-600 mb-2" for="phone">Handynummer<strong
+                style="color: darkred;">*</strong></label>
+            <input class="form-control shadow-none" type="text" placeholder="079 123 45 67" id="phone" name="phone"
+              required>
           </div>
           <div class="form-group mb-30">
             <label class="text-black-200 h5 font-weight-600 mb-2" for="job">Beruf</label>
@@ -42,7 +49,8 @@
 
           <div class="form-group mb-30">
             <label class="text-black-200 h5 font-weight-600 mb-2" for="fiend">Ich möchte zusemmen arbeiten mit:</label>
-            <input class="form-control shadow-none" type="text" placeholder="Petra Sturzenegger" id="fiend" name="fiend">
+            <input class="form-control shadow-none" type="text" placeholder="Petra Sturzenegger" id="friend"
+              name="friend">
           </div>
           <div class="row">
             <div class="form-group col-sm-6 mb-30">
@@ -64,20 +72,23 @@
                 <label class="form-check-label" for="size-xl">XL</label>
               </div>
             </div>
-  
+
             <div class="form-group col-sm-6 mb-30">
               <label class="text-black-200 h5 font-weight-600 mb-2">Führerschein</label>
               <div class="form-check">
-                <input class="form-check-input" type="radio" name="driver-license" value="no" id="driver-license-no" onchange="onLicenseCheck(false)" checked>
+                <input class="form-check-input" type="radio" name="driver-license" value="no" id="driver-license-no"
+                  onchange="onLicenseCheck(false)" checked>
                 <label class="form-check-label" for="driver-license-no">Nein</label>
               </div>
               <div class="form-check">
-                <input class="form-check-input" type="radio" name="driver-license" value="yes" id="driver-license-yes" onchange="onLicenseCheck(true)">
+                <input class="form-check-input" type="radio" name="driver-license" value="yes" id="driver-license-yes"
+                  onchange="onLicenseCheck(true)">
                 <label class="form-check-label" for="driver-license-yes">Ja</label>
               </div>
               <div id="driver-license-category-div" class="form-check hide">
                 <label class="text-black-200 h6 font-weight-400" for="driver-license-category">Kategorie</label>
-                <input class="form-control shadow-none" type="text" placeholder="BE" id="driver-license-category" name="driver-license">
+                <input class="form-control shadow-none" type="text" placeholder="BE" id="driver-license-category"
+                  name="driver-license">
               </div>
             </div>
           </div>
@@ -86,71 +97,86 @@
             <div class="form-group col-sm-3 mb-30">
               <label class="text-black-200 h5 font-weight-600 mb-2">Aufbau</label>
               <div class="form-check">
-                <input class="form-check-input" type="checkbox" value="19.08.22" name="aufbau-dates" id="aufbau-dates-01">
+                <input class="form-check-input" type="checkbox" value="19.08.22" name="aufbau-dates"
+                  id="aufbau-dates-01">
                 <label class="form-check-label" for="aufbau-dates-01">19.08.22</label>
               </div>
               <div class="form-check">
-                <input class="form-check-input" type="checkbox" value="20.08.22" name="aufbau-dates" id="aufbau-dates-02">
+                <input class="form-check-input" type="checkbox" value="20.08.22" name="aufbau-dates"
+                  id="aufbau-dates-02">
                 <label class="form-check-label" for="aufbau-dates-02">20.08.22</label>
               </div>
               <div class="form-check">
-                <input class="form-check-input" type="checkbox" value="21.08.22" name="aufbau-dates" id="aufbau-dates-03">
+                <input class="form-check-input" type="checkbox" value="21.08.22" name="aufbau-dates"
+                  id="aufbau-dates-03">
                 <label class="form-check-label" for="aufbau-dates-03">21.08.22</label>
-              </div>              
+              </div>
               <div class="form-check">
-                <input class="form-check-input" type="checkbox" value="22.08.22" name="aufbau-dates" id="aufbau-dates-04">
+                <input class="form-check-input" type="checkbox" value="22.08.22" name="aufbau-dates"
+                  id="aufbau-dates-04">
                 <label class="form-check-label" for="aufbau-dates-04">22.08.22</label>
               </div>
               <div class="form-check">
-                <input class="form-check-input" type="checkbox" value="23.08.22" name="aufbau-dates" id="aufbau-dates-05">
+                <input class="form-check-input" type="checkbox" value="23.08.22" name="aufbau-dates"
+                  id="aufbau-dates-05">
                 <label class="form-check-label" for="aufbau-dates-05">23.08.22</label>
               </div>
               <div class="form-check">
-                <input class="form-check-input" type="checkbox" value="24.08.22" name="aufbau-dates" id="aufbau-dates-06">
+                <input class="form-check-input" type="checkbox" value="24.08.22" name="aufbau-dates"
+                  id="aufbau-dates-06">
                 <label class="form-check-label" for="aufbau-dates-06">24.08.22</label>
-              </div>              
+              </div>
               <div class="form-check">
-                <input class="form-check-input" type="checkbox" value="25.08.22" name="aufbau-dates" id="aufbau-dates-07">
+                <input class="form-check-input" type="checkbox" value="25.08.22" name="aufbau-dates"
+                  id="aufbau-dates-07">
                 <label class="form-check-label" for="aufbau-dates-07">25.08.22</label>
-              </div>              
+              </div>
             </div>
-  
+
             <div class="form-group col-sm-6 mb-30">
               <label class="text-black-200 h5 font-weight-600 mb-2">Am Kulti</label>
               <div class="form-check">
-                <input class="form-check-input" type="checkbox" value="26.08.22 Vormittag" name="kulti-dates" id="kulti-dates-01">
+                <input class="form-check-input" type="checkbox" value="26.08.22 Vormittag" name="kulti-dates"
+                  id="kulti-dates-01">
                 <label class="form-check-label" for="kulti-dates-01">26.08.22 Vormittag</label>
               </div>
               <div class="form-check">
-                <input class="form-check-input" type="checkbox" value="26.08.22 Nachmittag" name="kulti-dates" id="kulti-dates-02">
+                <input class="form-check-input" type="checkbox" value="26.08.22 Nachmittag" name="kulti-dates"
+                  id="kulti-dates-02">
                 <label class="form-check-label" for="kulti-dates-02">26.08.22 Nachmittag</label>
-              </div>              
+              </div>
               <div class="form-check">
-                <input class="form-check-input" type="checkbox" value="26.08.22 Abend" name="kulti-dates" id="kulti-dates-03">
+                <input class="form-check-input" type="checkbox" value="26.08.22 Abend" name="kulti-dates"
+                  id="kulti-dates-03">
                 <label class="form-check-label" for="kulti-dates-03">26.08.22 Abend</label>
-              </div>              
+              </div>
               <div class="form-check">
-                <input class="form-check-input" type="checkbox" value="27.08.22 Vormittag" name="kulti-dates" id="kulti-dates-04">
+                <input class="form-check-input" type="checkbox" value="27.08.22 Vormittag" name="kulti-dates"
+                  id="kulti-dates-04">
                 <label class="form-check-label" for="kulti-dates-04">27.08.22 Vormittag</label>
-              </div>              
+              </div>
               <div class="form-check">
-                <input class="form-check-input" type="checkbox" value="27.08.22 Nachmittag" name="kulti-dates" id="kulti-dates-05">
+                <input class="form-check-input" type="checkbox" value="27.08.22 Nachmittag" name="kulti-dates"
+                  id="kulti-dates-05">
                 <label class="form-check-label" for="kulti-dates-05">27.08.22 Nachmittag</label>
-              </div>              
+              </div>
               <div class="form-check">
-                <input class="form-check-input" type="checkbox" value="27.08.22 Abend" name="kulti-dates" id="kulti-dates-06">
+                <input class="form-check-input" type="checkbox" value="27.08.22 Abend" name="kulti-dates"
+                  id="kulti-dates-06">
                 <label class="form-check-label" for="kulti-dates-06">27.08.22 Abend</label>
-              </div>              
+              </div>
               <div class="form-check">
-                <input class="form-check-input" type="checkbox" value="28.08.22 Vormittag" name="kulti-dates" id="kulti-dates-07">
+                <input class="form-check-input" type="checkbox" value="28.08.22 Vormittag" name="kulti-dates"
+                  id="kulti-dates-07">
                 <label class="form-check-label" for="kulti-dates-07">28.08.22 Vormittag</label>
-              </div>              
+              </div>
               <div class="form-check">
-                <input class="form-check-input" type="checkbox" value="28.08.22 Nachmittag" name="kulti-dates" id="kulti-dates-07">
+                <input class="form-check-input" type="checkbox" value="28.08.22 Nachmittag" name="kulti-dates"
+                  id="kulti-dates-07">
                 <label class="form-check-label" for="kulti-dates-08">28.08.22 Nachmittag</label>
               </div>
             </div>
-  
+
             <div class="form-group col-sm-3 mb-30">
               <label class="text-black-200 h5 font-weight-600 mb-2">Abbau</label>
               <div class="form-check">
@@ -160,7 +186,7 @@
               <div class="form-check">
                 <input class="form-check-input" type="checkbox" value="30.08.22" name="abbau-dates" id="abbau-dates-02">
                 <label class="form-check-label" for="abbau-dates-02">30.08.22</label>
-              </div>              
+              </div>
               <div class="form-check">
                 <input class="form-check-input" type="checkbox" value="31.08.22" name="abbau-dates" id="abbau-dates-03">
                 <label class="form-check-label" for="abbau-dates-03">31.08.22</label>
@@ -223,11 +249,11 @@
         </div>
         <div id="error-message" style="display: none">
           <h3>Ups!</h3>
-          <p style="color: darkred;">Leider hat etwas nicht geklappt.. Bitte melde dich bei Simona Bosetti<a href="mailto:simi@kulti22.ch">simi@kulti22.ch</a></p>
+          <p style="color: darkred;">Leider hat etwas nicht geklappt.. Bitte melde dich bei Simona Bosetti<a
+              href="mailto:simi@kulti22.ch">simi@kulti22.ch</a></p>
         </div>
       </div>
     </div>
   </div>
 </section>
 {{ end }}
-
