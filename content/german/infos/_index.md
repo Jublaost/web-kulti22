@@ -5,6 +5,8 @@ description: Infos | Kulti 22 «Dä Funkä tanzt!» | Jungwacht Blauring Schweiz
 ---
 # Infos
 
+<br />
+
 **Gelände**
 
 Das Kulti 22 findet auf der Allmend in Altstätten SG statt.
