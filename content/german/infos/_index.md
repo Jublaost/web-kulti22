@@ -9,7 +9,7 @@ description: Infos | Kulti 22 «Dä Funkä tanzt!» | Jungwacht Blauring Schweiz
 
 Das Kulti 22 findet auf dem Rhema-Gelände in Altstätten SG statt.
 
-    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4390.093620648018!2d9.549329429221917!3d47.364728723407794!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x479b179aeb06e26f%3A0xd477487af2a0cf3a!2sAllmend%20Rheintal!5e0!3m2!1sde!2sch!4v1636120669188!5m2!1sde!2sch" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4390.093620648018!2d9.549329429221917!3d47.364728723407794!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x479b179aeb06e26f%3A0xd477487af2a0cf3a!2sAllmend%20Rheintal!5e0!3m2!1sde!2sch!4v1636120669188!5m2!1sde!2sch" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
 **Einlass**
 
