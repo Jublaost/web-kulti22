@@ -61,4 +61,4 @@ Anreise mit dem PKW: Das Gelände verfügt über eine Parkplatzanlage. Möchtest
 
 <br />
 
-Du reist lieber _noch_ gemütlicher mit dem Caravan, Büssli, Wohnmobil, oder sonstigem grösseren Gefährt an? Dann besteht für dich die Möglichkeit, den Caravan-Parkplatz zu nutzen. Deine Vorteile: Du geniesst eine perfekte Lage, wenige Meter zum Geländeeingang und hast den gewünschten Komfort. Auch hierfür benötigst du ein spezielles **Caravan-Parking-Ticket**, das du ebenfalls schon jetzt via Eventfrog für **CHF 35** kaufen kannst. Das Ticket ist gültig für alle 3 Tage. **Die Caravan-Plätze sind begrenzt.**
+Du reist lieber noch gemütlicher mit dem Caravan, Büssli, Wohnmobil, oder sonstigem grösseren Gefährt an? Dann besteht für dich die Möglichkeit, den Caravan-Parkplatz zu nutzen. Deine Vorteile: Du geniesst eine perfekte Lage, wenige Meter zum Geländeeingang und hast den gewünschten Komfort. Auch hierfür benötigst du ein spezielles Caravan-Parking-Ticket, das du ebenfalls schon jetzt via Eventfrog für CHF 35 kaufen kannst. Das Ticket ist gültig für alle 3 Tage. Die Caravan-Plätze sind begrenzt.
