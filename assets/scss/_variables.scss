@@ -1,11 +1,19 @@
 @font-face {
-    font-family: 'Jubla';
-    src: url('/Jubla-Hand-16.ttf');
-  }
+  font-family: 'Jubla';
+  src: url('/Jubla-Hand-16.ttf');
+}
+@font-face {
+  font-family: 'Helvetica LT Std Black Condensed';
+  src: url('/Helvetica-LT-Std-Black-Condensed_22466.ttf');
+}
+@font-face {
+  font-family: 'Century Gothic';
+  src: url('/ufonts.com_century-gothic.ttf');
+}
 
 $font-primary: 'Jubla', sans-serif;
-$font-headings: 'Helvetica LT', 'Helvetica Neue', Helvetica, serif;
-$font-text: Century Gothic, CenturyGothic, AppleGothic, sans-serif;
+$font-headings: 'Helvetica LT Std Black Condensed', serif;
+$font-text: 'Century Gothic', sans-serif;
 
 $h1: 46px;
 $h1-md: 38px;
