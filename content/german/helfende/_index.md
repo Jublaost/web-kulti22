@@ -1,6 +1,6 @@
 ---
-title: Helfenden-Anmeldung
-description: Ich will helfen! | Kulti 22 «Dä Funkä tanzt!» | Jungwacht Blauring Schweiz
+title: Helfende
+description: Helfende | Kulti 22 «Dä Funkä tanzt!» | Jungwacht Blauring Schweiz
 
 ---
 # Helfenden-Anmeldung
