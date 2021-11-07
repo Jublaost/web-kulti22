@@ -59,7 +59,7 @@ team_member:
   - icon: ti-email
     link: mailto:stephi@kulti22.ch
 - name: Simona Bosetti
-  image: "/images/uploads/09_simona.jpg"
+  image: "/images/uploads/09_simona.jpeg"
   designation: Helfende
   group: OK
   social:
