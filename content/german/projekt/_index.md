@@ -6,7 +6,7 @@ description: Was ist das Kulti? | Kulti 22 «Dä Funkä tanzt!» | Jungwacht Bl
 ---
 # Was ist das Kulti?
 
-Über 9'000 junge Leitende von [Jungwacht Blauring Schweiz](https://www.jubla.ch) leisten jährlich rund 3 Millionen Stunden ehrenamtliches Engagement in Jungwacht Blauring. Als Dankeschön für ihren wertvollen Einsatz für unsere Gesellschaft und die Generation von morgen schenkt ihnen Jungwacht Blauring Schweiz mit dem Lieder- und Kulturfest – kurz Kulti – alle zwei Jahre eine wohlverdiente Auszeit in Form eines Festivals.
+Über 9'000 junge Leitende von [Jungwacht Blauring Schweiz](https://www.jubla.ch) leisten jährlich rund 3 Millionen Stunden ehrenamtliches Engagement in Jungwacht Blauring. Als Dankeschön für ihren wertvollen Einsatz für unsere Gesellschaft und die Generation von morgen schenken wir ihnen mit dem Lieder- und Kulturfest – kurz Kulti – alle zwei Jahre eine wohlverdiente Auszeit in Form eines Festivals.
 
 <br />
 
