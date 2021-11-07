@@ -58,13 +58,13 @@ team_member:
   social:
   - icon: ti-email
     link: mailto:stephi@kulti22.ch
-- name: Natascha Dedy
-  image: "/images/uploads/09_natascha.jpg"
+- name: Simona Bosetti
+  image: "/images/uploads/09_simona.jpg"
   designation: Helfende
   group: OK
   social:
   - icon: ti-email
-    link: mailto:tascha@kulti22.ch
+    link: mailto:simona@kulti22.ch
 
 ---
 ## Die Chefinnen und Chefs vom Ganzen
