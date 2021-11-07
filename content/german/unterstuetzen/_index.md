@@ -1,6 +1,6 @@
 ---
 title: Unterstützen
-description: this is meta description
+description: Unterstützen | Kulti 22 «Dä Funkä tanzt!» | Jungwacht Blauring Schweiz
 
 ---
 # Unterstützen
