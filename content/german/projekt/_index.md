@@ -10,11 +10,11 @@ description: Was ist das Kulti? | Kulti 22 «Dä Funkä tanzt!» | Jungwacht Bl
 
 <br />
 
-Das Kulti ist jedoch mehr als ein Musikfestival. Es ist ein Ort, an dem Jubla-Leitende und Ehemalige aus der ganzen Schweiz zusammen kommen und sich austauschen können. Eine Plattform, um kreative Ideen zu leben, und eine Umgebung für ausgelassene Stimmung und ruhige Momente. Dabei orientiert sich das Kulti und orientiert sich an den Grundsätzen von Jungwacht Blauring. So können die Teilnehmenden zum Beispiel schon im Vorfeld mitbestimmen, welche Ateliers und Künstler sie interessieren.
+Das Kulti ist jedoch mehr als ein Musikfestival. Es ist ein Ort, an dem Jubla-Leitende und Ehemalige aus der ganzen Schweiz zusammen kommen und sich austauschen können. Eine Plattform, um kreative Ideen zu leben, und eine Umgebung für ausgelassene Stimmung und ruhige Momente. Dabei orientiert sich das Kulti an den [Grundsätzen](https://www.jubla.ch/mitglieder/verband/leitbild/grundsaetze/ "Grundsätzen") von Jungwacht Blauring. So können die Teilnehmenden zum Beispiel schon im Vorfeld mitbestimmen, welche Ateliers und Künstler sie interessieren.
 
 <br />
 
-Nachdem das Kulti 19 im Kanton Solothurn stattgefunden hat, kommt das neue Organisationskomitee aus dem «Jubla-Kanton» SG/AI/AR/GL und bringt den Anlass in die Ostschweiz. Coronabedingt wurde aus dem ursprünglich geplanten Kulti 21 ein Kulti 22, welches nun mit viel Engagement organisiert und gestaltet wird. Das OK des öffentlichen Anlasses rechnet mit rund 2000 Besucher*innen ab 16 Jahren – gerne auch von ausserhalb von Jungwacht Blauring.
+Nachdem das Kulti 19 im Kanton Solothurn stattgefunden hat, kommt das neue Organisationskomitee aus dem «Jubla-Kanton» SG/AI/AR/GL und bringt den Anlass in die Ostschweiz. Coronabedingt wurde aus dem ursprünglich geplanten Kulti 21 ein Kulti 22, das nun mit viel Engagement organisiert und gestaltet wird. Das OK des öffentlichen Anlasses rechnet mit über 2000 Besucher*innen ab 16 Jahren – gerne auch von ausserhalb von Jungwacht Blauring.
 
 <br />
 
