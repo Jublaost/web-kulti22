@@ -60,7 +60,7 @@ homepage_tab:
 tickets:
   enable: true
   title: Tickets
-  content: Sichere dir jetzt dein Ticket!
+  content: Greif zu solange sie noch heiss sind
   item:
   - name: 'Earlybird: Funkä-Ticket'
     icon: ti-user
