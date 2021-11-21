@@ -43,7 +43,7 @@ Im Earlybird-Ticket-Verkauf wird das **Early-Funkä-Ticket** (3-Tages-Pass) für
 
 <br />
 
-Wer das Kulti zusätzlich finanziell unterstützen möchte, kann neben dem regulären Ticket das «**Brandbeschleuniger-Ticket**» für CHF 20 kaufen. Dieses Ticket ist ein freiwilliger Zustupf in die Kulti-Kasse und **kein Eintrittsticket.** Als Dankeschön erhältst du eine Überraschung, die du am Kulti einlösen kannst. Wir freuen uns über deine Unterstützung!
+Wer das Kulti zusätzlich finanziell unterstützen möchte, kann neben dem regulären Ticket das «**Brandbeschleuniger-Ticket**» für CHF 20 kaufen. Dieses Ticket ist ein freiwilliger Zustupf in die Kulti-Kasse und **kein Eintrittsticket.** Als Dankeschön erhältst du eine Überraschung, die du am Kulti einlösen kannst. Wir freuen uns über deine Unterstützung.
 
 <br />
 
