@@ -3,7 +3,7 @@ title: Infos
 description: Infos | Kulti 22 «Dä Funkä tanzt!» | Jungwacht Blauring Schweiz
 
 ---
-# Was? Wie? Wo? Hier gibts alles, was du über das Kulti 22 wissen musst.
+# Was? Wie? Wo? Alles, was du zum Kulti 22 wissen musst.
 
 <br />
 
