@@ -3,7 +3,7 @@ title: Unterstützen
 description: Unterstützen | Kulti 22 «Dä Funkä tanzt!» | Jungwacht Blauring Schweiz
 
 ---
-# Ein Dankeschön, das wirkt. Dank Ihnen.
+# Ein Dankeschön, das nachwirkt.
 
 Um das Projekt zu realisieren sind wir auf Unterstützer*innen angewiesen. Unterstützer*innen wie Sie. Was Sie damit ermöglichen? Einen unvergesslichen Dankesanlass für rund 2000 aktive und ehemalige Jubla-Leitende.
 
