@@ -5,7 +5,7 @@ description: Unterstützen | Kulti 22 «Dä Funkä tanzt!» | Jungwacht Blaurin
 ---
 # Ein Dankeschön, das wirkt. Dank Ihnen.
 
-    Um das Projekt zu realisieren sind wir auf Unterstützer*innen angewiesen. Unterstützer*innen wie Sie. Was Sie damit ermöglichen? Einen unvergesslichen Dankesanlass für rund 2000 aktive und ehemalige Jubla-Leitende.
+Um das Projekt zu realisieren sind wir auf Unterstützer*innen angewiesen. Unterstützer*innen wie Sie. Was Sie damit ermöglichen? Einen unvergesslichen Dankesanlass für rund 2000 aktive und ehemalige Jubla-Leitende.
 
 Längerfristig tragen Sie damit zur Kinder- und Sportförderung bei und stärken die Anerkennung ehrenamtlicher Arbeit in der Schweiz.
 
@@ -41,4 +41,4 @@ Falls die Spende anonym sein soll, bitte unter Zahlungszweck entsprechend vermer
 
 <br />
 
-    Ein grosses Dankeschön an die Partner*innen und Unterstützer*innen des Kulti 22!
+Ein grosses Dankeschön an die Partner*innen und Unterstützer*innen des Kulti 22!
