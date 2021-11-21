@@ -17,7 +17,7 @@ eventfrog_button:
 homepage_tab:
   enable: true
   title: Was ist das Kulti?
-  content: Drei Tage voller Musik, Spass und unvergesslichen Momenten mit Lebensfreu(n)den!
+  content: Drei Tage voller Musik, Spass und unvergesslichen Momenten mit Lebensfreu(n)den.
   tablist:
   - name: Musik
     title: Musik
@@ -60,7 +60,7 @@ homepage_tab:
 tickets:
   enable: true
   title: Tickets
-  content: Greif zu solange sie noch heiss sind
+  content: Greif zu solange sie noch heiss sind.
   item:
   - name: 'Earlybird: Funkä-Ticket'
     icon: ti-user
