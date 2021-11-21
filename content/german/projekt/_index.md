@@ -1,5 +1,5 @@
 ---
-title: Was ist das Kulti?
+title: Über das Projekt
 description: Was ist das Kulti? | Kulti 22 «Dä Funkä tanzt!» | Jungwacht Blauring
   Schweiz
 
