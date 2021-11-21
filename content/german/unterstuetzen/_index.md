@@ -5,7 +5,7 @@ description: Unterstützen | Kulti 22 «Dä Funkä tanzt!» | Jungwacht Blaurin
 ---
 # Unterstützen
 
-Um das Projekt zu realisieren sind wir auf Unterstützer angewiesen. Unterstützer wie Sie. Was Sie damit ermöglichen? Einen unvergesslichen Dankesanlass für rund 2000 aktive und ehemalige Jubla-Leitende.
+    Um das Projekt zu realisieren sind wir auf Unterstützer*innen angewiesen. Unterstützer*innen wie Sie. Was Sie damit ermöglichen? Einen unvergesslichen Dankesanlass für rund 2000 aktive und ehemalige Jubla-Leitende.
 
 Längerfristig tragen Sie damit zur Kinder- und Sportförderung bei und stärken die Anerkennung ehrenamtlicher Arbeit in der Schweiz.
 
@@ -35,10 +35,10 @@ Sie möchten uns finanziell unterstützen? Hier finden Sie unsere Kontoangaben:
 >
 > Raiffeisenbank am Ricken, 8733 Eschenbach
 
-Falls Sie uns mit Material oder Naturalien unterstützen möchten, wenden Sie sich bitte per Mail an Samuel samuel@kulti22.ch
+Falls Sie uns mit Material oder Naturalien unterstützen möchten, wenden Sie sich bitte per Mail an [Samuel](mailto:samuel@kulti22.ch).
 
 Falls die Spende anonym sein soll, bitte unter Zahlungszweck entsprechend vermerken. Ansonsten führen wir Sie gerne in der Gönnerliste auf (alphabetisch, ohne Betrag).
 
 <br />
 
-Ein grosses Dankeschön an die Partner:innen und Unterstützer:innen des Kulti 22!
+    Ein grosses Dankeschön an die Partner*innen und Unterstützer*innen des Kulti 22!
