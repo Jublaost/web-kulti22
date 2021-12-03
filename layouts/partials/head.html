@@ -43,8 +43,8 @@ AUTHOR WEBSITE: https://themefisher.com
   {{ $styles := resources.Get "scss/style.scss" | toCSS }}
   <link rel="stylesheet" href="{{ $styles.Permalink }}" media="screen">
 
-  <link rel="shortcut icon" href="{{ `images/favicon.png` | absURL }}" type="image/x-icon">
-  <link rel="icon" href="{{ `images/favicon.png` | absURL }}" type="image/x-icon">
+  <link rel="shortcut icon" href="{{ `images/favicon/Favicon_Kulti22_negativ.png` | absURL }}" type="image/x-icon">
+  <link rel="icon" href="{{ `images/favicon/Favicon_Kulti22_negativ.png` | absURL }}" type="image/x-icon">
 
   {{ with .Params.Image }}
   <meta property="og:image" content="{{ . | absURL }}" />
