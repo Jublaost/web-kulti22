@@ -10,39 +10,36 @@ function scrollFunction() {
 
 var successMessage = document.getElementById("success-message");
 var errorMessage = document.getElementById("error-message");
-var recaptchaMessage = document.getElementById("recaptcha-message");
-
 
 var contactForm = document.getElementById("contact-form");
 if (contactForm) {
-  contactForm.onsubmit = function (event) {
+  contactForm.onsubmit = (event) => {
     event.preventDefault(); // Don't let the browser submit the form.
-    var payload = {};
+    grecaptcha.ready(() => {
+      console.log(grecaptcha)
+      grecaptcha.execute('6LegN3YdAAAAAJ8yencSz1g_fB7W8zaDsfR9j4FK', { action: 'submit' }).then((token) => {
+        var payload = {};
+        console.log(token)
+        // Build JSON key-value pairs using the form fields.
+        contactForm.querySelectorAll("input, textarea").forEach(field => {
+          payload[field.name] = field.value;
+        });
 
-    // Build JSON key-value pairs using the form fields.
-    contactForm.querySelectorAll("input, textarea").forEach(field => {
-      payload[field.name] = field.value;
-    });
-    console.log(payload["g-recaptcha-response"])
-    if (payload["g-recaptcha-response"].length == 0) {
-      recaptchaMessage.style.display = "block";
-    } else {
-      console.log(payload)
-      // Post the payload to the contact endpoint.
-      fetch("https://kulti22.azurewebsites.net/api/WebFormKontakt", {
-        method: 'post',
-        body: JSON.stringify(payload)
-      }).then(resp => {
-        if (!resp.ok) {
-          console.error(resp);
-          return;
-        }
-        // Display success message.
-        recaptchaMessage.style.display = "none";
-        successMessage.style.display = "block";
-        contactForm.style.display = "none";
+        // Post the payload to the contact endpoint.
+        /*fetch("https://kulti22.azurewebsites.net/api/WebFormKontakt", {
+          method: 'post',
+          body: JSON.stringify(payload)
+        }).then(resp => {
+          if (!resp.ok) {
+            console.error(resp);
+            return;
+          }
+          // Display success message.
+          successMessage.style.display = "block";
+          contactForm.style.display = "none";
+        });*/
       });
-    }
+    });
   }
 }
 
