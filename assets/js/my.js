@@ -23,11 +23,9 @@ if (contactForm) {
     contactForm.querySelectorAll("input, textarea").forEach(field => {
       payload[field.name] = field.value;
     });
-    console.log(payload["g-recaptcha-response"])
     if (payload["g-recaptcha-response"].length == 0) {
       recaptchaMessage.style.display = "block";
     } else {
-      console.log(payload)
       // Post the payload to the contact endpoint.
       fetch("https://kulti22.azurewebsites.net/api/WebFormKontakt", {
         method: 'post',
