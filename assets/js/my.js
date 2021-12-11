@@ -112,6 +112,37 @@ if (registerHelfendeForm) {
   }
 }
 
+
+
+var competitionForm = document.getElementById("competition-form");
+if (competitionForm) {
+  competitionForm.onsubmit = function (event) {
+    event.preventDefault(); // Don't let the browser submit the form.
+    var payload = {};
+
+    // Build JSON key-value pairs using the form fields.
+    competitionForm.querySelectorAll(".form-control").forEach(field => {
+      payload[field.name] = field.value;
+    });
+
+    // Post the payload to the contact endpoint.
+    fetch("https://kulti22.azurewebsites.net/api/WebFormBandCompetition", {
+      method: 'post',
+      body: JSON.stringify(payload)
+    }).then(resp => {
+      if (!resp.ok) {
+        errorMessage.style.display = "block";
+        competitionForm.style.display = "none";
+        console.error(resp);
+        return;
+      }
+      // Display success message.
+      successMessage.style.display = "block";
+      competitionForm.style.display = "none";
+    });
+  }
+}
+
 function onLicenseCheck(show) {
   if (show) {
     document.getElementById("driver-license-category-div").classList.remove("hide");

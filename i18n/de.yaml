@@ -12,12 +12,18 @@
   
 - id: name
   translation: Name
+
+- id: bandname
+  translation: Bandname
   
 - id: mail
   translation: Mail
   
 - id: website
   translation: Website
+
+- id: description
+  translation: Beschreibung
   
 - id: submit
   translation: Bestätigen

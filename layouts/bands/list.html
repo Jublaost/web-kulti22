@@ -1,0 +1,66 @@
+{{ define "main" }}
+{{ $data := index .Site.Data .Site.Language.Lang }}
+
+<!-- start of team-section -->
+<section class="section-padding pb-40" data-aos="fade-in" data-aos-delay="150">
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-lg-6 col-md-9 text-center mb-40">
+        <div class="content">{{.Content}}</div>
+      </div>
+    </div>
+
+    <div class="row justify-content-center">
+      <div class="col-xl-6 col-lg-7">
+        <form class="rounded shadow p-30" id="competition-form">
+          <div class="form-group mb-30">
+            <label class="text-black-200 h5 font-weight-600 mb-2" for="bandname">{{ i18n "bandname"}}<strong
+                style="color: darkred;">*</strong></label>
+            <input class="form-control shadow-none" type="text" placeholder="Kulti Rockers" id="bandname"
+              name="bandname" required>
+          </div>
+          <div class="form-group mb-30">
+            <label class="text-black-200 h5 font-weight-600 mb-2" for="email">{{i18n "mail"}}<strong
+                style="color: darkred;">*</strong></label>
+            <input class="form-control shadow-none" type="email" placeholder="name@email.com" id="email" name="email"
+              required>
+          </div>
+          <div class="form-group mb-30">
+            <label class="text-black-200 h5 font-weight-600 mb-2" for="homepage">{{ i18n "website"}}</label>
+            <input class="form-control shadow-none" type="text" placeholder="https://www.kultirockers.band"
+              id="homepage" name="homepage">
+          </div>
+          <div class="form-group mb-30">
+            <label class="text-black-200 h5 font-weight-600 mb-2" for="description">{{ i18n "description"}}<strong
+                style="color: darkred;">*</strong></label>
+            <textarea class="form-control shadow-none" rows="5" id="description" name="description" required></textarea>
+          </div>
+
+          <div class="recaptcha" style="text-align: center;">
+            <div id="recaptcha-message" style="display: none">
+              <h3>Bitte fülle das reCAPTCHA aus</h3>
+              <p>Besten Dank.</p>
+            </div>
+            <div class="g-recaptcha" style="text-align: center;"
+              data-sitekey="6Le6UXYdAAAAAMYcjezTTrpkJ1TBudbmfHVyF9_4">
+            </div>
+          </div>
+
+          <br />
+          <button class="btn btn-primary w-100" type="submit">{{ i18n "submit"}}</button>
+        </form>
+        <div id="success-message" style="display: none">
+          <h3>Vielen Dank!</h3>
+          <p>Wir werden uns umgehend bei dir melden.</p>
+        </div>
+        <div id="error-message" style="display: none">
+          <h3 style="color: darkred;">Fehler!</h3>
+          <p style="color: darkred;">Leider hat etwas nicht geklappt... melde dich doch direkt bei <a
+              href="mailto:thomas@kulti22.ch">thomas@kulti22.ch</a></p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- end of team-section -->
+{{ end }}
