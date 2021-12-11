@@ -12,7 +12,6 @@ var successMessage = document.getElementById("success-message");
 var errorMessage = document.getElementById("error-message");
 var recaptchaMessage = document.getElementById("recaptcha-message");
 
-
 var contactForm = document.getElementById("contact-form");
 if (contactForm) {
   contactForm.onsubmit = function (event) {
@@ -121,25 +120,29 @@ if (competitionForm) {
     var payload = {};
 
     // Build JSON key-value pairs using the form fields.
-    competitionForm.querySelectorAll(".form-control").forEach(field => {
+    competitionForm.querySelectorAll("input, textarea").forEach(field => {
       payload[field.name] = field.value;
     });
 
-    // Post the payload to the contact endpoint.
-    fetch("https://kulti22.azurewebsites.net/api/WebFormBandCompetition", {
-      method: 'post',
-      body: JSON.stringify(payload)
-    }).then(resp => {
-      if (!resp.ok) {
-        errorMessage.style.display = "block";
+    if (payload["g-recaptcha-response"].length == 0) {
+      recaptchaMessage.style.display = "block";
+    } else {
+      // Post the payload to the contact endpoint.
+      fetch("https://kulti22.azurewebsites.net/api/WebFormBandCompetition", {
+        method: 'post',
+        body: JSON.stringify(payload)
+      }).then(resp => {
+        if (!resp.ok) {
+          errorMessage.style.display = "block";
+          competitionForm.style.display = "none";
+          console.error(resp);
+          return;
+        }
+        // Display success message.
+        successMessage.style.display = "block";
         competitionForm.style.display = "none";
-        console.error(resp);
-        return;
-      }
-      // Display success message.
-      successMessage.style.display = "block";
-      competitionForm.style.display = "none";
-    });
+      });
+    }
   }
 }
 
