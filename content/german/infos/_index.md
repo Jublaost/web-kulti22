@@ -7,7 +7,7 @@ description: Infos | Kulti 22 «Dä Funkä tanzt!» | Jungwacht Blauring Schweiz
 
 <br />
 
-**Gelände**
+##### **Gelände**
 
 Das Kulti 22 findet auf der Allmend in Altstätten SG statt.
 
@@ -15,31 +15,46 @@ Das Kulti 22 findet auf der Allmend in Altstätten SG statt.
 
 <br />
 
-**Einlass**
+##### **Einlass**
 
 Es gilt ein Mindestalter von 16 Jahren, das mit Ausweiskontrollen sichergestellt wird. Mit dem Ticketkauf verpflichtest du dich dazu, die Geländeregeln zu befolgen.
 
 <br />
 
-**Helfende**
+##### **Helfende**
 
 Du bist am nächsten Kulti als Helfer*in dabei? Grossartig! Aus administrativen Gründen musst auch du ein Ticket kaufen und dich im [Helfendentool](https://www.kulti22.ch/helfende "Helfendentool") eintragen. Nach deiner Schicht-Abrechnung wird dir der entsprechende Betrag zurückerstattet.
 
 <br />
 
-**Ehemalige**
+##### **Ehemalige**
 
 Du hast deine aktive Zeit als Jubla-Leiter*in schon hinter dir und zählst dich zu den Ehemaligen? Auch du bist herzlich willkommen, mit uns im nächsten August den Funken tanzen zu lassen, denn auch du hast ein Dankeschön für dein (vergangenes) Engagement in der Jubla verdient!
 
 <br />
 
-**Ticketverkauf**
+##### **Ticketverkauf**
 
 Aktuell sind folgende Ticketkategorien im Angebot:
 
 <br />
 
-Im Earlybird-Ticket-Verkauf wird das **Early-Funkä-Ticket** (3-Tages-Pass) für vorerst CHF 62 statt CHF 75 angeboten. Die Earlybird-Ticket-Aktion ist zeitlich begrenzt, sobald das Early-Bird-Kontingent ausverkauft ist, sind nur noch die regulären Tickets erhältlich. Zugreifen lohnt sich also solange sie noch heiss sind!
+Im Earlybird-Ticket-Verkauf wird das **Early-Funkä-Ticket** (3-Tages-Pass) für vorerst CHF 62 statt CHF 75 angeboten. Die Earlybird-Ticket-Aktion dauert noch bis Ende Dezember 2021, danach steigt der Ticketpreis auf die nächste Preisstufe.  
+Zugreifen lohnt sich also solange sie noch heiss sind!  
+  
+Ab Januar 2021 sind die Funkä-Tickets (3-Tages-Pass) zum regulären Preis von CHF 67 erhältlich.   
+  
+In Ticketpreis enthalten sind:
+
+\- 2x Frühstück (Samstag und Sonntag)
+
+\- 3-Tagespass Konzerte und Ateliers
+
+<br />
+
+In Ticketpreis **nicht** enthalten sind:
+
+Anfahrt, Parkplätze, Caravancamping, Verpflegung von den Essenständen und Bars
 
 <br />
 
@@ -53,7 +68,7 @@ Das Gruppenangebot "Sparflammä" ist ausverkauft.
 
 <br />
 
-##### **Parkplatz-Tickets**
+**Parkplatz-Tickets**
 
 Wenn du vorhast, mit dem Privatfahrzeug ans Kulti 22 zu reisen, stehen dir folgende Möglichkeiten zur Verfügung:
 
