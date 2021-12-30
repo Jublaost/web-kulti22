@@ -40,12 +40,12 @@ Aktuell sind folgende Ticketkategorien im Angebot:
 <br />
 
 Im Earlybird-Ticket-Verkauf wird das **Early-Funkä-Ticket** (3-Tages-Pass) für vorerst CHF 62 statt CHF 75 angeboten. Die Earlybird-Ticket-Aktion dauert noch bis Ende Dezember 2021, danach steigt der Ticketpreis auf die nächste Preisstufe.  
-Zugreifen lohnt sich also solange sie noch heiss sind!  
-  
-Ab Januar 2021 sind die Funkä-Tickets (3-Tages-Pass) zum regulären Preis von CHF 67 erhältlich. 
+Zugreifen lohnt sich also solange sie noch heiss sind!
 
-<br />  
-  
+Ab Januar 2021 sind die Funkä-Tickets (3-Tages-Pass) zum regulären Preis von CHF 67 erhältlich.
+
+<br />
+
 In Ticketpreis enthalten sind:
 
 \- 2x Frühstück (Samstag und Sonntag)
@@ -66,7 +66,7 @@ Wer das Kulti zusätzlich finanziell unterstützen möchte, kann neben dem regul
 
 **Das Gruppenangebot "Sparflammä" ist ausverkauft.**
 
-**1-Tagespässe sind zu einem späteren Zeitpunkt verfügbar.**
+**1-Tagespässe (Freitag oder Samstag) sind zu einem späteren Zeitpunkt verfügbar.**
 
 <br />
 
