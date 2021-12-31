@@ -62,11 +62,11 @@ tickets:
   title: Tickets
   content: Greif zu solange sie noch heiss sind.
   item:
-  - name: 'Earlybird: Funkä-Ticket'
+  - name: Funkä-Ticket
     icon: ti-user
-    content: Im regulären Earlybird-Ticket-Verkauf wird das «Funkä-Ticket» (3-Tages-Pass)
-      für vorerst CHF 62 statt CHF 75 angeboten. Zugreifen solange sie noch heiss
-      sind!
+    content: 'Das «Funkä-Ticket» (regulärer 3-Tages-Pass) wird für CHF 67 angeboten.
+      In Ticketpreis enthalten sind: 2x Frühstück (Samstag und Sonntag) sowie ein
+      3-Tagespass für alle Konzerte und Ateliers.'
   - name: Brandbeschleuniger-Ticket
     icon: ti-money
     content: Wer das Kulti zusätzlich finanziell unterstützen möchte, kann neben dem
