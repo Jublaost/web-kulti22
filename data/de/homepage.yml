@@ -65,8 +65,8 @@ tickets:
   - name: Funkä-Ticket
     icon: ti-user
     content: 'Das «Funkä-Ticket» (regulärer 3-Tages-Pass) wird für CHF 67 angeboten.
-      In Ticketpreis enthalten sind: 2x Frühstück (Samstag und Sonntag) sowie ein
-      3-Tagespass für alle Konzerte und Ateliers.'
+      In Ticketpreis enthalten sind: Zutritt zu allen Konzerten und Ateliers sowie
+      2x Frühstück (Samstag und Sonntag) auf dem Kulti-Gelände.'
   - name: Brandbeschleuniger-Ticket
     icon: ti-money
     content: Wer das Kulti zusätzlich finanziell unterstützen möchte, kann neben dem
