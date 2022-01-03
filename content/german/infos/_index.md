@@ -39,9 +39,7 @@ Aktuell im Angebot:
 
 <br />
 
-**Funkä-Ticket (3-Tages-Pass) für CHF 67.- statt CHF 75.-**
-
-[--> Jetzt zugreifen](https://eventfrog.ch/de/p/festivals/weitere-festivals/lieder-und-kulturfest-2022-6833845387129228352.html "Jetzt zugreifen")
+[**Funkä-Ticket (3-Tages-Pass) für CHF 67.- statt CHF 75.-**](https://eventfrog.ch/de/p/festivals/weitere-festivals/lieder-und-kulturfest-2022-6833845387129228352.html "Funkä-Ticket")
 
 <br />
 
@@ -64,9 +62,7 @@ Sobald das Kulti näher rückt, schalten wir auf das Spotzünder-Ticket für die
 
 ***
 
-**Brandbeschleuniger-Ticket für CHF 20.-**
-
-[--> Jetzt zugreifen](https://eventfrog.ch/de/p/festivals/weitere-festivals/lieder-und-kulturfest-2022-6833845387129228352.html "Jetzt zuschlagen")
+[**Brandbeschleuniger-Ticket für CHF 20.-**](https://eventfrog.ch/de/p/festivals/weitere-festivals/lieder-und-kulturfest-2022-6833845387129228352.html "Brandbeschleuniger-Ticket")
 
 Wer das Kulti finanziell unterstützen möchte, kann zusätzlich unseren Brandbeschleuniger für CHF 20 als frewilligen Zustupf in die Kulti-Kasse kaufen. Als Dankeschön erhältst du eine Überraschung, die du am Kulti einlösen kannst. Wir freuen uns über deine Unterstützung.
 
@@ -74,9 +70,7 @@ Wer das Kulti finanziell unterstützen möchte, kann zusätzlich unseren Brandbe
 
 ***
 
-**Parkplatz-Tickets**
-
-[--> Jetzt zugreifen](https://eventfrog.ch/de/p/festivals/weitere-festivals/lieder-und-kulturfest-2022-6833845387129228352.html "Jetzt zugriefne")
+[**Parkplatz-Tickets**](https://eventfrog.ch/de/p/festivals/weitere-festivals/lieder-und-kulturfest-2022-6833845387129228352.html "Parkplatz-Tickets")
 
 Wenn du vorhast, mit dem Auto ans Kulti 22 zu reisen, stehen dir folgende Möglichkeiten zur Verfügung:
 
@@ -94,8 +88,10 @@ Du reist lieber noch gemütlicher mit dem **Caravan, Büssli, Wohnmobil, oder so
 
 **Bereits ausverkauft sind:**
 
-\- Gruppenangebot «Sparflammä» für CHF 52.- pro Stk ab 10 Tickets.
+\- Gruppenangebot Sparflammä für CHF 52.- pro Stk ab 10 Tickets
 
-\- «Early-Funkä-Ticket» für CHF 62.-
+\- Early-Funkä-Ticket für CHF 62.-
+
+<br />
 
 **1-Tagespässe (Freitag oder Samstag) sind zu einem späteren Zeitpunkt verfügbar.**
