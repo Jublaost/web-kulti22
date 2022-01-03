@@ -35,16 +35,11 @@ Du hast deine aktive Zeit als Jubla-Leiter*in schon hinter dir und zählst dich 
 
 ##### **Ticketverkauf**
 
-Aktuell sind folgende Ticketkategorien im Angebot:
+Aktuell im Angebot:
 
 <br />
 
-Im Earlybird-Ticket-Verkauf wird das **Early-Funkä-Ticket** (3-Tages-Pass) für vorerst CHF 62 statt CHF 75 angeboten. Die Earlybird-Ticket-Aktion dauert noch bis Ende Dezember 2021, danach steigt der Ticketpreis auf die nächste Preisstufe.  
-Zugreifen lohnt sich also solange sie noch heiss sind!
-
-Ab Januar 2021 sind die Funkä-Tickets (3-Tages-Pass) zum regulären Preis von CHF 67 erhältlich.
-
-<br />
+**Funkä-Ticket (3-Tages-Pass) für CHF 67.- statt CHF 75.-**
 
 In Ticketpreis enthalten sind:
 
@@ -54,21 +49,25 @@ In Ticketpreis enthalten sind:
 
 <br />
 
-In Ticketpreis **nicht** enthalten sind:
+Sobald das Kulti näher rückt, schalten wir auf das Spotzünder-Ticket für die regulären CHF 75.- um. Jetzt zugreifen lohnt sich also.
+
+<br />
+
+Im Ticketpreis **nicht** enthalten sind:
 
 Anfahrt, Parkplätze, Caravancamping, Verpflegung von den Essenständen und Bars
 
 <br />
 
-Wer das Kulti zusätzlich finanziell unterstützen möchte, kann neben dem regulären Ticket das «**Brandbeschleuniger-Ticket**» für CHF 20 kaufen. Dieses Ticket ist ein freiwilliger Zustupf in die Kulti-Kasse und **kein Eintrittsticket.** Als Dankeschön erhältst du eine Überraschung, die du am Kulti einlösen kannst. Wir freuen uns über deine Unterstützung.
+***
+
+**Brandbeschleuniger-Ticket für CHF 20.-**
+
+Wer das Kulti finanziell unterstützen möchte, kann zusätzlich unseren Brandbeschleuniger für CHF 20 als frewilligen Zustupf in die Kulti-Kasse kaufen. Als Dankeschön erhältst du eine Überraschung, die du am Kulti einlösen kannst. Wir freuen uns über deine Unterstützung.
 
 <br />
 
-**Das Gruppenangebot "Sparflammä" ist ausverkauft.**
-
-**1-Tagespässe (Freitag oder Samstag) sind zu einem späteren Zeitpunkt verfügbar.**
-
-<br />
+***
 
 **Parkplatz-Tickets**
 
@@ -80,4 +79,15 @@ Anreise mit dem **PW**: Das Gelände verfügt über eine Parkplatzanlage. Möcht
 
 <br />
 
-Du reist lieber noch gemütlicher mit dem **Caravan, Büssli, Wohnmobil, oder sonstigem grösseren Gefährt** an? Dann besteht für dich die Möglichkeit, den Caravan-Parkplatz zu nutzen. Deine Vorteile: Du geniesst eine perfekte Lage, wenige Meter zum Geländeeingang und hast den gewünschten Komfort. Auch hierfür benötigst du ein spezielles Caravan-Parking-Ticket, das du ebenfalls schon jetzt via Eventfrog für CHF 35 kaufen kannst. Das Ticket ist gültig für alle 3 Tage. Die Caravan-Plätze sind begrenzt.
+Du reist lieber noch gemütlicher mit dem **Caravan, Büssli, Wohnmobil, oder sonstigem grösseren Gefährt** an? Dann kannst du auch unseren Caravan-Parkplatz  nutzen. Deine Vorteile: Du geniesst eine perfekte Lage, wenige Meter zum Geländeeingang und hast den gewünschten Komfort. Dafür benötigst du ein spezielles **Caravan-Parking-Ticket**, das du ebenfalls schon jetzt via Eventfrog **für CHF 35** kaufen kannst. Das Ticket ist gültig für alle 3 Tage. Die Caravan-Plätze sind begrenzt.
+
+<br />
+
+***
+
+**Bereits ausverkauft sind:**
+
+* Gruppenangebot «Sparflammä» für CHF 52.- pro Stk ab 10 Tickets.
+* «Early-Funkä-Ticket» für CHF 62.-
+
+**1-Tagespässe (Freitag oder Samstag) sind zu einem späteren Zeitpunkt verfügbar.**
