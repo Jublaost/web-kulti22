@@ -41,15 +41,14 @@ Aktuell im Angebot:
 
 **Funkä-Ticket (3-Tages-Pass) für CHF 67.- statt CHF 75.-**
 
-In Ticketpreis enthalten sind:
-
-\- 2x Frühstück (Samstag und Sonntag)
-
-\- 3-Tagespass Konzerte und Ateliers
+[--> Jetzt zugreifen](https://eventfrog.ch/de/p/festivals/weitere-festivals/lieder-und-kulturfest-2022-6833845387129228352.html "Jetzt zugreifen")
 
 <br />
 
-Sobald das Kulti näher rückt, schalten wir auf das Spotzünder-Ticket für die regulären CHF 75.- um. Jetzt zugreifen lohnt sich also.
+In Ticketpreis enthalten sind:
+
+\- 2x Frühstück (Samstag und Sonntag)  
+\- 3-Tagespass Konzerte und Ateliers
 
 <br />
 
@@ -59,9 +58,15 @@ Anfahrt, Parkplätze, Caravancamping, Verpflegung von den Essenständen und Bars
 
 <br />
 
+Sobald das Kulti näher rückt, schalten wir auf das Spotzünder-Ticket für die regulären CHF 75.- um. [Hol dir dein Ticket](https://eventfrog.ch/de/p/festivals/weitere-festivals/lieder-und-kulturfest-2022-6833845387129228352.html "Hol dir dein Ticket") also besser früher als später.
+
+<br />
+
 ***
 
 **Brandbeschleuniger-Ticket für CHF 20.-**
+
+[--> Jetzt zugreifen](https://eventfrog.ch/de/p/festivals/weitere-festivals/lieder-und-kulturfest-2022-6833845387129228352.html "Jetzt zuschlagen")
 
 Wer das Kulti finanziell unterstützen möchte, kann zusätzlich unseren Brandbeschleuniger für CHF 20 als frewilligen Zustupf in die Kulti-Kasse kaufen. Als Dankeschön erhältst du eine Überraschung, die du am Kulti einlösen kannst. Wir freuen uns über deine Unterstützung.
 
@@ -71,7 +76,9 @@ Wer das Kulti finanziell unterstützen möchte, kann zusätzlich unseren Brandbe
 
 **Parkplatz-Tickets**
 
-Wenn du vorhast, mit dem Privatfahrzeug ans Kulti 22 zu reisen, stehen dir folgende Möglichkeiten zur Verfügung:
+[--> Jetzt zugreifen](https://eventfrog.ch/de/p/festivals/weitere-festivals/lieder-und-kulturfest-2022-6833845387129228352.html "Jetzt zugriefne")
+
+Wenn du vorhast, mit dem Auto ans Kulti 22 zu reisen, stehen dir folgende Möglichkeiten zur Verfügung:
 
 <br />
 
@@ -87,7 +94,8 @@ Du reist lieber noch gemütlicher mit dem **Caravan, Büssli, Wohnmobil, oder so
 
 **Bereits ausverkauft sind:**
 
-* Gruppenangebot «Sparflammä» für CHF 52.- pro Stk ab 10 Tickets.
-* «Early-Funkä-Ticket» für CHF 62.-
+\- Gruppenangebot «Sparflammä» für CHF 52.- pro Stk ab 10 Tickets.
+
+\- «Early-Funkä-Ticket» für CHF 62.-
 
 **1-Tagespässe (Freitag oder Samstag) sind zu einem späteren Zeitpunkt verfügbar.**
