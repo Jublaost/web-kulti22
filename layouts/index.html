@@ -44,7 +44,8 @@
                     xmlns="http://www.w3.org/2000/svg">
                     <path
                       d="M12.5522 6.66669L20.5522 14.6667C21.0329 15.1473 21.0699 15.9036 20.6632 16.4267L20.5522 16.5523L12.5522 24.5523L10.6666 22.6667L17.7228 15.6095L10.6666 8.55231L12.5522 6.66669Z"
-                      fill="currentColor" /></svg></span>
+                      fill="currentColor" />
+                  </svg></span>
               </button>
             </div>
           </div>
@@ -55,9 +56,10 @@
         </div>
         <div id="error-message" style="display: none">
           <h3>Fehler!</h3>
-          <p style="color: darkred;">Leider hat etwas nicht geklappt... bitte melde dich bei <a href="mailto:thomas@kulti22.ch">Thomas</a></p>
+          <p style="color: darkred;">Leider hat etwas nicht geklappt... bitte melde dich bei <a
+              href="mailto:thomas@kulti22.ch">Thomas</a></p>
         </div>
-        
+
         <div class="divider-text mt-25 mb-25"><span class="bg-light-gray">ODER</span></div>
         {{ end }}
         {{ end }}
@@ -78,6 +80,39 @@
   <div class="shape-6 shape-xs bg-cyan rounded-circle"></div>
   <div class="shape-7 shape-xs-2 bg-cyan rounded-circle"></div>
   <div class="shape-8 shape-xs-2 bg-orange rounded-circle"></div>
+
+  <br>
+  <div class="container">
+    <!-- Place <div> tag where you want the feed to appear -->
+    <div id="curator-feed-default-layout"><a href="https://curator.io" target="_blank" class="crt-logo crt-tag">Powered
+        by
+        Curator.io</a></div><!-- The Javascript can be moved to the end of the html page before the </body> tag -->
+    <script type="text/javascript">
+      /* curator-feed-default-layout */
+      (function () {
+        var i, e, d = document, s = "script"; i = d.createElement("script"); i.async = 1; i.charset = "UTF-8";
+        i.src = "https://cdn.curator.io/published/087408c3-13e0-4fa8-95f4-8b2568941502.js";
+        e = d.getElementsByTagName(s)[0]; e.parentNode.insertBefore(i, e);
+      })();
+    </script>
+  </div>
+
+
+  <div class="row" style="text-align: center;">
+    <div class="col">
+      {{ $link := "news" }}
+      <a href="{{ $link | absURL }}">
+        <button type="submit" class="btn btn-primary has-icon ml-15">News
+          <span class="icon"><svg width="32" height="32" viewBox="0 0 32 32" fill="none"
+              xmlns="http://www.w3.org/2000/svg">
+              <path
+                d="M12.5522 6.66669L20.5522 14.6667C21.0329 15.1473 21.0699 15.9036 20.6632 16.4267L20.5522 16.5523L12.5522 24.5523L10.6666 22.6667L17.7228 15.6095L10.6666 8.55231L12.5522 6.66669Z"
+                fill="currentColor" />
+            </svg></span>
+        </button>
+      </a>
+    </div>
+  </div>
 </section>
 <!-- end of banner -->
 
@@ -105,7 +140,7 @@
 <!-- start of how-it-works tab -->
 {{ if $data.homepage.homepage_tab.enable }}
 {{ with $data.homepage.homepage_tab }}
-<section class="section-padding how-it-works-tab pt-0 overflow-hidden">
+<section class="section-padding pt-100 how-it-works-tab overflow-hidden">
   <div class="container">
     <div class="row justify-content-center">
       <div class="col-lg-6 col-md-9 text-center mb-40">
@@ -131,7 +166,8 @@
             <div class="row align-items-center">
               <div class="col-lg-8 anim-to-top">
                 {{ $image := resources.GetMatch .image }}
-                {{ partial "image.html" (dict "Image" $image "Alt" "image for section" "Class" "img-fluid rounded-lg shadow") }}
+                {{ partial "image.html" (dict "Image" $image "Alt" "sectionimg" "Class" "img-fluid rounded-lg shadow")
+                }}
               </div>
               <div class="col-lg-4 mt-4 mt-lg-0 anim-to-bottom">
                 <h2 class="section-title">{{ .title | markdownify }}</h2>
@@ -220,7 +256,7 @@
         <p>Schaue also bald wieder vorbei!</p>
       </div>
     </div>
-  </div>   
+  </div>
 </section>
 
 

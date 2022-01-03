@@ -1,0 +1,29 @@
+{{ define "main" }}
+
+{{ $data := index .Site.Data .Site.Language.Lang }}
+
+<section class="section-padding">
+  <div class="container">
+    <div class="row">
+      {{ .Content }}
+    </div>
+    <div class="row justify-content-center no-gutters">
+      <!-- Place <div> tag where you want the feed to appear -->
+      <!-- Place <div> tag where you want the feed to appear -->
+      <div id="curator-feed-news-layout"><a href="https://curator.io" target="_blank" class="crt-logo crt-tag">Powered
+          by
+          Curator.io</a></div><!-- The Javascript can be moved to the end of the html page before the </body> tag -->
+      <script type="text/javascript">
+        /* curator-feed-news-layout */
+        (function () {
+          var i, e, d = document, s = "script"; i = d.createElement("script"); i.async = 1; i.charset = "UTF-8";
+          i.src = "https://cdn.curator.io/published/04daa532-99a6-4b74-9049-9d774b2c50a5.js";
+          e = d.getElementsByTagName(s)[0]; e.parentNode.insertBefore(i, e);
+        })();
+      </script>
+    </div>
+  </div>
+</section>
+
+
+{{ end }}

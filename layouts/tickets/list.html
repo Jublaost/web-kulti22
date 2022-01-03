@@ -2,23 +2,22 @@
 
 {{ $data := index .Site.Data .Site.Language.Lang }}
 
-<section class="section-padding" data-aos="fade-in" data-aos-delay="150">
+<section class="section-padding">
   <div class="container">
     <div class="row justify-content-center no-gutters">
-        <a target="_blank" href="{{.Params.button.link | absLangURL}}"
+      <a target="_blank" href="{{.Params.button.link | absLangURL}}"
         class="btn btn-outline-secondary d-flex align-items-center justify-content-center">
         {{with .Params.button.icon}} <img class="mr-2" src="{{ . }}">{{end}} {{.Params.button.label}}</a>
-        <br />
+      <br />
       <div class="col-lg-10 mt-40">
         {{ .Content }}
       </div>
-      
+
     </div>
-    <br style="margin: 1em;"/>
-      <a target="_blank" href="{{.Params.button.link | absLangURL}}"
+    <br style="margin: 1em;" />
+    <a target="_blank" href="{{.Params.button.link | absLangURL}}"
       class="btn btn-outline-secondary d-flex align-items-center justify-content-center">
       {{with .Params.button.icon}} <img class="mr-2" src="{{ . }}">{{end}} {{.Params.button.label}}</a>
   </div>
 </section>
 {{ end }}
-
