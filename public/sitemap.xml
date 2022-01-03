@@ -2,7 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.kulti22.ch/bands/</loc>
+  </url><url>
     <loc>https://www.kulti22.ch/categories/</loc>
+  </url><url>
+    <loc>https://www.kulti22.ch/bands/ellas/</loc>
+  </url><url>
+    <loc>https://www.kulti22.ch/bands/femi-luna/</loc>
   </url><url>
     <loc>https://www.kulti22.ch/helfende/</loc>
   </url><url>
@@ -13,6 +19,8 @@
     <loc>https://www.kulti22.ch/kontakt/</loc>
   </url><url>
     <loc>https://www.kulti22.ch/</loc>
+  </url><url>
+    <loc>https://www.kulti22.ch/news/</loc>
   </url><url>
     <loc>https://www.kulti22.ch/tags/</loc>
   </url><url>

@@ -252,8 +252,21 @@
     <div class="row justify-content-center">
       <div class="col-lg-6 col-md-9 text-center mb-40">
         <h2 class="section-title">Bands</h2>
-        <p>Hier werden bald die Bands freigeschalten!</p>
-        <p>Schaue also bald wieder vorbei!</p>
+        <p>Die ersten Bands sind bekannt!</p>
+        <p>Schaue bald wieder vorbei um mehr zu sehen!</p>
+      </div>
+      <div class="bands-container col-lg-6 col-md-9 mb-40">
+
+        {{ range $i, $e:= (where .Site.RegularPages "Section" "bands") }}
+        {{ if ne .Params.draft true }}
+        {{ if .Params.title }}
+        <a class="nav-link {{if eq $i 0}}active{{end}}" id="band-{{.Params.title| urlize}}" href="{{ .Permalink }}">
+          <p class="circle-shape"></i>{{ .Params.title }}
+        </a>
+        {{ end }}
+        {{ end }}
+        {{ end }}
+
       </div>
     </div>
   </div>

@@ -47,3 +47,14 @@ form {
 .ok-img {
     width: 80%;
 }
+.bands-container {
+    border-left: 1em solid $color-primary;
+    a {
+        font-size: 3em;
+        font-family: $font-headings;
+        color: $color-primary;
+    }
+    a:hover {
+        color: $color-secondary;
+    }
+}

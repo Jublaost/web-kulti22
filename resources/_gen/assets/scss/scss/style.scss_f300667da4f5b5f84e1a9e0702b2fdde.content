@@ -3071,3 +3071,12 @@ form {
 
 .ok-img {
   width: 80%; }
+
+.bands-container {
+  border-left: 1em solid #F07100; }
+  .bands-container a {
+    font-size: 3em;
+    font-family: "Helvetica LT Std Black Condensed", serif;
+    color: #F07100; }
+  .bands-container a:hover {
+    color: #D6140B; }

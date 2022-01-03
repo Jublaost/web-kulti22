@@ -1,2 +1,311 @@
+<!DOCTYPE html>
+<html lang="de-ch">
+
+<head>
+  <meta charset="utf-8">
+  <title>Tickets</title>
+
+  <script type="text/javascript" cookie-consent="tracking">
+    !function (T, l, y) { var S = T.location, k = "script", D = "instrumentationKey", C = "ingestionendpoint", I = "disableExceptionTracking", E = "ai.device.", b = "toLowerCase", w = "crossOrigin", N = "POST", e = "appInsightsSDK", t = y.name || "appInsights"; (y.name || T[e]) && (T[e] = t); var n = T[t] || function (d) { var g = !1, f = !1, m = { initialize: !0, queue: [], sv: "5", version: 2, config: d }; function v(e, t) { var n = {}, a = "Browser"; return n[E + "id"] = a[b](), n[E + "type"] = a, n["ai.operation.name"] = S && S.pathname || "_unknown_", n["ai.internal.sdkVersion"] = "javascript:snippet_" + (m.sv || m.version), { time: function () { var e = new Date; function t(e) { var t = "" + e; return 1 === t.length && (t = "0" + t), t } return e.getUTCFullYear() + "-" + t(1 + e.getUTCMonth()) + "-" + t(e.getUTCDate()) + "T" + t(e.getUTCHours()) + ":" + t(e.getUTCMinutes()) + ":" + t(e.getUTCSeconds()) + "." + ((e.getUTCMilliseconds() / 1e3).toFixed(3) + "").slice(2, 5) + "Z" }(), iKey: e, name: "Microsoft.ApplicationInsights." + e.replace(/-/g, "") + "." + t, sampleRate: 100, tags: n, data: { baseData: { ver: 2 } } } } var h = d.url || y.src; if (h) { function a(e) { var t, n, a, i, r, o, s, c, u, p, l; g = !0, m.queue = [], f || (f = !0, t = h, s = function () { var e = {}, t = d.connectionString; if (t) for (var n = t.split(";"), a = 0; a < n.length; a++) { var i = n[a].split("="); 2 === i.length && (e[i[0][b]()] = i[1]) } if (!e[C]) { var r = e.endpointsuffix, o = r ? e.location : null; e[C] = "https://" + (o ? o + "." : "") + "dc." + (r || "services.visualstudio.com") } return e }(), c = s[D] || d[D] || "", u = s[C], p = u ? u + "/v2/track" : d.endpointUrl, (l = []).push((n = "SDK LOAD Failure: Failed to load Application Insights SDK script (See stack for details)", a = t, i = p, (o = (r = v(c, "Exception")).data).baseType = "ExceptionData", o.baseData.exceptions = [{ typeName: "SDKLoadFailed", message: n.replace(/\./g, "-"), hasFullStack: !1, stack: n + "\nSnippet failed to load [" + a + "] -- Telemetry is disabled\nHelp Link: https://go.microsoft.com/fwlink/?linkid=2128109\nHost: " + (S && S.pathname || "_unknown_") + "\nEndpoint: " + i, parsedStack: [] }], r)), l.push(function (e, t, n, a) { var i = v(c, "Message"), r = i.data; r.baseType = "MessageData"; var o = r.baseData; return o.message = 'AI (Internal): 99 message:"' + ("SDK LOAD Failure: Failed to load Application Insights SDK script (See stack for details) (" + n + ")").replace(/\"/g, "") + '"', o.properties = { endpoint: a }, i }(0, 0, t, p)), function (e, t) { if (JSON) { var n = T.fetch; if (n && !y.useXhr) n(t, { method: N, body: JSON.stringify(e), mode: "cors" }); else if (XMLHttpRequest) { var a = new XMLHttpRequest; a.open(N, t), a.setRequestHeader("Content-type", "application/json"), a.send(JSON.stringify(e)) } } }(l, p)) } function i(e, t) { f || setTimeout(function () { !t && m.core || a() }, 500) } var e = function () { var n = l.createElement(k); n.src = h; var e = y[w]; return !e && "" !== e || "undefined" == n[w] || (n[w] = e), n.onload = i, n.onerror = a, n.onreadystatechange = function (e, t) { "loaded" !== n.readyState && "complete" !== n.readyState || i(0, t) }, n }(); y.ld < 0 ? l.getElementsByTagName("head")[0].appendChild(e) : setTimeout(function () { l.getElementsByTagName(k)[0].parentNode.appendChild(e) }, y.ld || 0) } try { m.cookie = l.cookie } catch (p) { } function t(e) { for (; e.length;)!function (t) { m[t] = function () { var e = arguments; g || m.queue.push(function () { m[t].apply(m, e) }) } }(e.pop()) } var n = "track", r = "TrackPage", o = "TrackEvent"; t([n + "Event", n + "PageView", n + "Exception", n + "Trace", n + "DependencyData", n + "Metric", n + "PageViewPerformance", "start" + r, "stop" + r, "start" + o, "stop" + o, "addTelemetryInitializer", "setAuthenticatedUserContext", "clearAuthenticatedUserContext", "flush"]), m.SeverityLevel = { Verbose: 0, Information: 1, Warning: 2, Error: 3, Critical: 4 }; var s = (d.extensionConfig || {}).ApplicationInsightsAnalytics || {}; if (!0 !== d[I] && !0 !== s[I]) { var c = "onerror"; t(["_" + c]); var u = T[c]; T[c] = function (e, t, n, a, i) { var r = u && u(e, t, n, a, i); return !0 !== r && m["_" + c]({ message: e, url: t, lineNumber: n, columnNumber: a, error: i }), r }, d.autoExceptionInstrumented = !0 } return m }(y.cfg); function a() { y.onInit && y.onInit(n) } (T[t] = n).queue && 0 === n.queue.length ? (n.queue.push(a), n.trackPageView({})) : a() }(window, document, {
+      src: "https://js.monitor.azure.com/scripts/b/ai.2.min.js", 
+      
+      
+      
+      crossOrigin: "anonymous", 
+      
+      cfg: { 
+        instrumentationKey: "85ad0557-4954-4eef-ab02-9f4e0b8cad8b"
+      }
+    });
+  </script>
+
+  <script src="https://www.google.com/recaptcha/api.js" async defer></script>
+
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <meta name="description"
+    content="Tickets kaufen | Kulti 22 «Dä Funkä tanzt!» | Jungwacht Blauring Schweiz">
+  
+  <meta name="author" content="Thomas">
+  <meta name="generator" content="Hugo 0.81.0" />
 
 
+  
+  <link rel="stylesheet" href="https://www.kulti22.ch/plugins/bootstrap/bootstrap.min.css">
+  
+  <link rel="stylesheet" href="https://www.kulti22.ch/plugins/themify-icons/themify-icons.css">
+  
+  <link rel="stylesheet" href="https://www.kulti22.ch/plugins/slick/slick.css">
+  
+  <link rel="stylesheet" href="https://www.kulti22.ch/plugins/slick/slick-theme.css">
+  
+  <link rel="stylesheet" href="https://www.kulti22.ch/plugins/aos/aos.css">
+  
+
+
+  
+  <link rel="stylesheet" href="https://www.kulti22.ch/scss/style.css" media="screen">
+
+  <link rel="shortcut icon" href="https://www.kulti22.ch/images/favicon/Favicon_Kulti22_negativ.png" type="image/x-icon">
+  <link rel="icon" href="https://www.kulti22.ch/images/favicon/Favicon_Kulti22_negativ.png" type="image/x-icon">
+
+  
+  <meta property="og:title" content="Tickets" />
+<meta property="og:description" content="Tickets kaufen | Kulti 22 «Dä Funkä tanzt!» | Jungwacht Blauring Schweiz" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://www.kulti22.ch/tickets/" />
+
+
+  
+
+</head><body id="top" data-spy="scroll" data-target="#navbar-spy" class="position-relative"><!-- navigation -->
+<header id="sticky-header" class="header-nav position-relative bg-light-gray sticky">
+  <div class="container">
+    <nav class="navbar navbar-expand-xl navbar-light px-0">
+      <a class="navbar-brand p-0" href="https://www.kulti22.ch">
+        
+        <img id="header-img" class="logo img-fluid" src="https://www.kulti22.ch/images/logos/Logo_Kulti22_farbig.png" alt="Kulti 22">
+        
+      </a>
+
+      <button class="navbar-toggler bg-white rounded-0 p-0" type="button" data-toggle="collapse" data-target="#navlinks"
+        aria-controls="navlinks" aria-expanded="false" aria-label="Toggle navigation">
+        <svg class="nav-toggle-icon" viewBox="0 0 100 100" width="40" onclick="this.classList.toggle('active')">
+          <path class="line top"
+            d="m 70,33 h -40 c 0,0 -8.5,-0.149796 -8.5,8.5 0,8.649796 8.5,8.5 8.5,8.5 h 20 v -20" />
+          <path class="line middle" d="m 70,50 h -40" />
+          <path class="line bottom"
+            d="m 30,67 h 40 c 0,0 8.5,0.149796 8.5,-8.5 0,-8.649796 -8.5,-8.5 -8.5,-8.5 h -20 v 20" /></svg>
+      </button>
+      
+
+      <div class="collapse navbar-collapse" id="navlinks">
+        <ul class="navbar-nav mx-auto">
+          
+          
+          <li class="nav-item">
+            <a class="nav-link" href="https://www.kulti22.ch">Home</a>
+          </li>
+          
+          
+          
+          <li class="nav-item">
+            <a class="nav-link" href="https://www.kulti22.ch/infos">Infos</a>
+          </li>
+          
+          
+          
+          <li class="nav-item">
+            <a class="nav-link" href="https://www.kulti22.ch/projekt">Projekt</a>
+          </li>
+          
+          
+          
+          <li class="nav-item">
+            <a class="nav-link" href="https://www.kulti22.ch/helfende">Helfende</a>
+          </li>
+          
+          
+          
+          <li class="nav-item">
+            <a class="nav-link" href="https://www.kulti22.ch/unterstuetzen">Unterstützen</a>
+          </li>
+          
+          
+          
+          <li class="nav-item">
+            <a class="nav-link" href="https://www.kulti22.ch/kontakt">Kontakt</a>
+          </li>
+          
+          
+          <li class="nav-link">
+            
+            
+          </li>
+        </ul>
+        <div class="navbar-button">
+           <a target="_blank" href="https://eventfrog.ch/de/p/festivals/weitere-festivals/lieder-und-kulturfest-2022-6833845387129228352.html"><button class="btn btn-sm btn-outline-primary">Tickets</button></a>
+        </div>
+      </div>
+      
+    </nav>
+  </div>
+</header>
+<div class="bg-light-gray" style="height: 250px"></div>
+<!-- /navigation -->
+
+
+	
+<section class="page-header bg-light-gray has-shapes has-bg-brash bg-brash-bottom"
+  style="background-image:url('https://www.kulti22.ch/images/brushes/banner.svg')">
+  <div class="container h-100">
+    <div class="row d-flex align-items-center h-100">
+      <div class="col-md-12 text-center">
+        <h2 class="h1 font-weight-bold">Tickets</h2>
+      </div>
+    </div>
+  </div>
+
+  <div class="shape-1 bg-secondary shape-xs rounded-circle"></div>
+  <div class="shape-2 bg-primary shape-xs-2 rounded-circle"></div>
+  <div class="shape-3 bg-primary shape-sm-2 rounded-circle"></div>
+  <div class="shape-4 bg-tertiary shape-xs rounded-circle"></div>
+  <div class="shape-5 bg-tertiary shape-xs rounded-circle"></div>
+  <div class="shape-6 bg-primary shape-sm rounded-circle"></div>
+  <div class="shape-7 bg-primary shape-xs-2 rounded-circle"></div>
+  <div class="shape-8 bg-secondary shape-xs rounded-circle"></div>
+</section>
+
+	
+
+
+
+<section class="section-padding">
+  <div class="container">
+    <div class="row justify-content-center no-gutters">
+      <a target="_blank" href="https://eventfrog.ch/de/p/festivals/weitere-festivals/lieder-und-kulturfest-2022-6833845387129228352.html"
+        class="btn btn-outline-secondary d-flex align-items-center justify-content-center">
+         <img class="mr-2" src="/images/eventfrog.png"> Jetzt Tickets kaufen!</a>
+      <br />
+      <div class="col-lg-10 mt-40">
+        <h1 id="ticketverkauf-kulti-22">Ticketverkauf Kulti 22</h1>
+<h5 id="die-ersten-tickets-fürs-kulti-22-sind-ab-dem-4-september-2021-um-0900-uhr-erhältlich-alle-tickets-könnt-ihr-ausschliesslich-über-eventfrog-beziehen"><strong>Die ersten Tickets fürs Kulti 22 sind ab dem 4. September, 2021 um 09:00 Uhr erhältlich. Alle Tickets könnt ihr ausschliesslich über Eventfrog beziehen.</strong></h5>
+<p><br /></p>
+<h5 id="ticketkategorien"><strong>Ticketkategorien</strong></h5>
+<p>Aktuell sind folgende Ticketkategorien im Angebot:</p>
+<p><br /></p>
+<p>Mit dem Gruppenpaket <strong>«Sparflammä»</strong> kannst für dich und deine Mitleitenden oder Freund*innen vergünstigte Tickets kaufen, im Bundle ab mindestens 10 Stück. Die Sparflammä-Tickets gibt es nur als 3-Tages-Pässe. Das Angebot gilt nur für eine begrenzte Zeit.</p>
+<p><br /></p>
+<p>Im regulären Earlybird-Ticket-Verkauf wird das <strong>Early-Funkä-Ticket</strong> (3-Tages-Pass) für vorerst CHF 62 statt CHF 75 angeboten. Zugreifen solange sie noch heiss sind!</p>
+<p><br /></p>
+<p>Wer das Kulti zusätzlich finanziell unterstützen möchte, kann neben dem regulären Ticket das «<strong>Brandbeschleuniger-Ticket</strong>» für CHF 20 kaufen. Dieses Ticket ist ein freiwilliger Zustupf in die Kulti-Kasse und <strong>kein Eintrittsticket.</strong> Als Dankeschön erhältst du eine Überraschung, die du am Kulti einlösen kannst. Wir freuen uns über deine Unterstützung!</p>
+<p><br /></p>
+<p>1-Tagespässe sind zu einem späteren Zeitpunkt verfügbar.</p>
+<p><br /></p>
+<h5 id="parkplatz-tickets"><strong>Parkplatz-Tickets</strong></h5>
+<p>Wenn du im Sinn hast, mit dem Privatfahrzeug ans Kulti 22 zu reisen, stehen dir folgende Möglichkeiten zur Verfügung:</p>
+<p><br /></p>
+<p>Anreise mit dem PKW: Das Gelände verfügt über eine Parkplatzanlage. Möchtest du einen dieser Parkplätze benutzen, kannst du schon jetzt via Eventfrog das <strong>Parkplatz-Ticket für CHF 20</strong> kaufen. Natürlich kannst du das Ticket auch vor Ort bei deiner Ankunft kaufen. Das Ticket ist gültig für alle 3 Tage.</p>
+<p><br /></p>
+<p>Du reist lieber <em>noch</em> gemütlicher mit dem Caravan, Büssli, Wohnmobil, oder sonstigem grösseren Gefährt an? Dann besteht für dich die Möglichkeit, den Caravan-Parkplatz zu nutzen. Deine Vorteile: Du geniesst eine perfekte Lage, wenige Meter zum Geländeeingang und hast den gewünschten Komfort. Auch hierfür benötigst du ein spezielles <strong>Caravan-Parking-Ticket</strong>, das du ebenfalls schon jetzt via Eventfrog für <strong>CHF 35</strong> kaufen kannst. Das Ticket ist gültig für alle 3 Tage. <strong>Die Caravan-Plätze sind begrenzt.</strong></p>
+
+      </div>
+
+    </div>
+    <br style="margin: 1em;" />
+    <a target="_blank" href="https://eventfrog.ch/de/p/festivals/weitere-festivals/lieder-und-kulturfest-2022-6833845387129228352.html"
+      class="btn btn-outline-secondary d-flex align-items-center justify-content-center">
+       <img class="mr-2" src="/images/eventfrog.png"> Jetzt Tickets kaufen!</a>
+  </div>
+</section>
+
+
+
+<footer class="bg-light-gray has-shapes has-bg-brash bg-brash-top "
+  style="background-image: url('https://www.kulti22.ch/images/brushes/footer.svg')">
+  <div class="container">
+    
+    <div class="row pt-60 pb-60">
+      <div class="col-lg-4 col-md-6">
+        <div class="pr-0 pr-lg-4">
+          <a class="mb-25" href="https://www.kulti22.ch">
+            
+            
+            
+
+
+
+        
+        
+        
+        
+        <picture>
+                <source srcset="/images/logos/Logo_Kulti22_farbig_huc7a090a32e016a000417ddf6cda57a70_185477_480x0_resize_q70_box_2.png 480w,/images/logos/Logo_Kulti22_farbig_huc7a090a32e016a000417ddf6cda57a70_185477_768x0_resize_q70_box_2.png 768w,/images/logos/Logo_Kulti22_farbig_huc7a090a32e016a000417ddf6cda57a70_185477_1024x0_resize_q70_box_2.png 1024w,/images/logos/Logo_Kulti22_farbig_huc7a090a32e016a000417ddf6cda57a70_185477_1366x0_resize_q70_box_2.png 1366w">
+                <img
+                        src="/images/logos/Logo_Kulti22_farbig.png"
+                        alt="{{ site.Title }} image"
+                        class="img-fluid footer-logo">
+        </picture>
+
+
+
+            
+          </a>
+          
+        </div>
+      </div>
+      <div class="col-lg-4 col-md col-sm-6">
+        <div class="pl-0 pl-md-3 mt-5 mt-md-0">
+          <h5 class="font-weight-600 mb-20">Links</h5>
+          <ul class="list-unstyled footer-links">
+            
+            <li><a href="https://www.kulti22.ch/infos">Infos</a></li>
+            
+            <li><a href="https://www.kulti22.ch/impressum">Impressum</a></li>
+            
+          </ul>
+        </div>
+      </div>
+      <div class="col-lg-4 col-md col-sm-6">
+        <div class="pl-0 pl-md-3 mt-5 mt-md-0">
+          <h5 class="font-weight-600 mb-20">Social Media</h5>
+          <ul class="list-unstyled footer-links">
+            
+            <li><a target="_blank" href="https://www.facebook.com/kulti.jubla">facebook</a></li>
+            
+            <li><a target="_blank" href="https://www.instagram.com/kulti22/">instagram</a></li>
+            
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="footer-bottom">
+    <div class="container">
+      <div class="row">
+        <div class="col-12">
+          <div class="block border-top text-center content">Developed by Nilda</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="shape-1 shape-xs bg-orange rounded-circle"></div>
+  <div class="shape-2 shape-sm-2 bg-cyan rounded-circle"></div>
+  <div class="shape-3 shape-sm bg-yellow rounded-circle"></div>
+  <div class="shape-4 shape-xs-2 bg-cyan rounded-circle"></div>
+  <div class="shape-5 shape-sm-2 bg-yellow rounded-circle"></div>
+  <div class="shape-6 shape-sm-2 bg-orange rounded-circle"></div>
+</footer>
+
+
+
+<a href="#top" class="btn btn-primary scroll-to-top-btn smooth-scroll position-fixed"><svg
+    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32">
+    <path id="Layer" fill="currentColor"
+      d="M7.2 19.2L15.2 11.2C15.68 10.71 16.43 10.68 16.96 11.08L17.08 11.2L25.08 19.2L23.2 21.08L16.14 14.02L9.08 21.08L7.2 19.2Z" />
+    </svg></a>
+
+
+<!-- JS Plugins -->
+
+<script src="https://www.kulti22.ch/plugins/jQuery/jquery.min.js"></script>
+
+<script src="https://www.kulti22.ch/plugins/bootstrap/bootstrap.min.js"></script>
+
+<script src="https://www.kulti22.ch/plugins/slick/slick.min.js"></script>
+
+<script src="https://www.kulti22.ch/plugins/shuffle/shuffle.min.js"></script>
+
+<script src="https://www.kulti22.ch/plugins/aos/aos.js"></script>
+
+
+<!-- Main Script -->
+
+<script src="https://www.kulti22.ch/js/script.min.js"></script>
+
+<!-- My Script -->
+
+<script src="https://www.kulti22.ch/js/my.min.js"></script></body>
+
+</html>
