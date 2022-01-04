@@ -58,3 +58,13 @@ form {
         color: $color-secondary;
     }
 }
+
+.banner-img {
+    max-height: 30vh; 
+    object-fit: cover;
+}
+
+// disable load more button curator
+.crt-load-more {
+    display: none !important;
+}

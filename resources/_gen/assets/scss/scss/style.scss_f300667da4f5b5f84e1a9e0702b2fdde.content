@@ -3080,3 +3080,10 @@ form {
     color: #F07100; }
   .bands-container a:hover {
     color: #D6140B; }
+
+.banner-img {
+  max-height: 30vh;
+  object-fit: cover; }
+
+.crt-load-more {
+  display: none !important; }

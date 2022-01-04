@@ -7,39 +7,19 @@
 <!-- start of banner -->
 <section class="banner bg-cover-bottom has-shapes bg-light-gray has-bg-brash bg-brash-bottom"
   style="background-image: url('{{`images/brushes/banner.svg` | absURL }}')">
-  <div class="container h-100">
+  <div class="container h-100" style="text-align: center;">
     <div class="d-block d-lg-flex no-gutters align-items-center h-100">
-      <div class="col-12 col-xl-8 col-lg-6 order-lg-1">
-        <div class="banner-image has-video-popup has-shapes mb-4 mb-md-5 mb-lg-0">
-          {{ if .video.enable }}
-          {{ with .video }}
-          <button type="button" class="video-play-btn" data-toggle="modal" data-src="{{ .video_embed_link }}"
-            data-target="#videoModal"><svg width="1.8em" height="1.8em" viewBox="0 0 16 16" fill="currentColor"
-              xmlns="http://www.w3.org/2000/svg">
-              <path
-                d="M11.596 8.697l-6.363 3.692c-.54.313-1.233-.066-1.233-.697V4.308c0-.63.692-1.01 1.233-.696l6.363 3.692a.802.802 0 0 1 0 1.393z" />
-            </svg>
-          </button>
-          {{ end }}
-          {{ end }}
-          {{ $image := resources.GetMatch .image }}
-          {{ partial "image.html" (dict "Image" $image "Alt" "video background image" "Class" "img-fluid rounded-lg") }}
 
-          <div class="shape-lg bg-cyan rounded-circle"></div>
-          <div class="shape-md bg-orange rounded-circle"></div>
-          <div class="shape-sm bg-yellow rounded-circle"></div>
-        </div>
-      </div>
-      <div class="col-xl-5 col-lg-6 order-lg-0">
-        <h2 class="h1 mb-20">{{ .title | markdownify }}</h2>
-        <p>{{ .content | markdownify }}</p>
-        <br>
+      <div class="col-lg-6 offset-lg-3">
+        <h1 class="h1 mb-20">{{ .title | markdownify }}</h2>
+          <p>{{ .content | markdownify }}</p>
+          <br>
 
-        {{ with $data.homepage.eventfrog_button }}
-        <a target="_blank" href="{{.link | absLangURL}}"
-          class="btn eventfrog-button d-flex align-items-center justify-content-center">
-          {{with .icon}} <img class="mr-2" src="{{ . }}">{{end}} {{.label}}</a>
-        {{ end }}
+          {{ with $data.homepage.eventfrog_button }}
+          <a target="_blank" href="{{.link | absLangURL}}"
+            class="btn eventfrog-button d-flex align-items-center justify-content-center">
+            {{with .icon}} <img class="mr-2" src="{{ . }}">{{end}} {{.label}}</a>
+          {{ end }}
       </div>
     </div>
   </div>
@@ -52,41 +32,22 @@
   <div class="shape-7 shape-xs-2 bg-cyan rounded-circle"></div>
   <div class="shape-8 shape-xs-2 bg-orange rounded-circle"></div>
 
-  <br>
-  <div class="container">
-    <!-- Place <div> tag where you want the feed to appear -->
-    <div id="curator-feed-default-layout"><a href="https://curator.io" target="_blank" class="crt-logo crt-tag">Powered
-        by
-        Curator.io</a></div><!-- The Javascript can be moved to the end of the html page before the </body> tag -->
-    <script type="text/javascript">
-      /* curator-feed-default-layout */
-      (function () {
-        var i, e, d = document, s = "script"; i = d.createElement("script"); i.async = 1; i.charset = "UTF-8";
-        i.src = "https://cdn.curator.io/published/087408c3-13e0-4fa8-95f4-8b2568941502.js";
-        e = d.getElementsByTagName(s)[0]; e.parentNode.insertBefore(i, e);
-      })();
-    </script>
-  </div>
-
-
-  <div class="row" style="text-align: center;">
-    <div class="col">
-      {{ $link := "news" }}
-      <a href="{{ $link | absURL }}">
-        <button type="submit" class="btn btn-primary has-icon ml-15">News
-          <span class="icon"><svg width="32" height="32" viewBox="0 0 32 32" fill="none"
-              xmlns="http://www.w3.org/2000/svg">
-              <path
-                d="M12.5522 6.66669L20.5522 14.6667C21.0329 15.1473 21.0699 15.9036 20.6632 16.4267L20.5522 16.5523L12.5522 24.5523L10.6666 22.6667L17.7228 15.6095L10.6666 8.55231L12.5522 6.66669Z"
-                fill="currentColor" />
-            </svg></span>
-        </button>
-      </a>
-    </div>
+  <div class="section-padding has-video-popup has-shapes mb-4 mb-md-5 mb-lg-0">
+    {{ if .video.enable }}
+    {{ with .video }}
+    <button type="button" class="video-play-btn" data-toggle="modal" data-src="{{ .video_embed_link }}"
+      data-target="#videoModal"><svg width="1.8em" height="1.8em" viewBox="0 0 16 16" fill="currentColor"
+        xmlns="http://www.w3.org/2000/svg">
+        <path
+          d="M11.596 8.697l-6.363 3.692c-.54.313-1.233-.066-1.233-.697V4.308c0-.63.692-1.01 1.233-.696l6.363 3.692a.802.802 0 0 1 0 1.393z" />
+      </svg>
+    </button>
+    {{ end }}
+    {{ end }}
+    {{ $image := resources.GetMatch .image }}
+    {{ partial "image.html" (dict "Image" $image "Alt" "video background image" "Class" "img-fluid banner-img") }}
   </div>
 </section>
-<!-- end of banner -->
-
 <!-- start of videoModal -->
 {{ if .video.enable }}
 <div class="modal fade rounded" id="videoModal" tabindex="-1" role="dialog" aria-hidden="true">
@@ -107,6 +68,80 @@
 <!-- end of videoModal -->
 {{ end }}
 {{ end }}
+<!-- end of Banner -->
+
+<section class="section-padding">
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-lg-6 col-md-9 text-center mb-40">
+        <h2 class="section-title">Acts</h2>
+        <p>Die ersten Acts sind bekannt!</p>
+        <p>Schaue bald wieder vorbei um mehr zu sehen!</p>
+      </div>
+      <div class="bands-container col-lg-6 col-md-9 mb-40">
+
+        {{ range $i, $e:= (where .Site.RegularPages "Section" "acts") }}
+        {{ if ne .Params.draft true }}
+        {{ if .Params.title }}
+        <a class="nav-link {{if eq $i 0}}active{{end}}" id="band-{{.Params.title| urlize}}" href="{{ .Permalink }}">
+          <p class="circle-shape"></i>{{ .Params.title }}
+        </a>
+        {{ end }}
+        {{ end }}
+        {{ end }}
+
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<section class="section-padding pt-100 horizontal-accordion bg-light-gray has-shapes has-bg-brash bg-brash-y"
+  style="background-image: url('{{`images/brushes/section-top.svg` | absURL}}'), url('{{`images/brushes/section-bottom.svg` | absURL}}');">
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-lg-6 col-md-9 text-center mb-40">
+        <h2 class="section-title">Neues aus unserem Instagram Feed</h2>
+      </div>
+    </div>
+    <!-- Place <div> tag where you want the feed to appear -->
+    <div id="curator-feed-default-layout"><a href="https://curator.io" target="_blank" class="crt-logo crt-tag">Powered
+        by
+        Curator.io</a></div><!-- The Javascript can be moved to the end of the html page before the </body> tag -->
+    <script type="text/javascript">
+      /* curator-feed-default-layout */
+      (function () {
+        var i, e, d = document, s = "script"; i = d.createElement("script"); i.async = 1; i.charset = "UTF-8";
+        i.src = "https://cdn.curator.io/published/087408c3-13e0-4fa8-95f4-8b2568941502.js";
+        e = d.getElementsByTagName(s)[0]; e.parentNode.insertBefore(i, e);
+      })();
+    </script>
+  </div>
+
+
+  <div class="row" style="text-align: center;">
+    <div class="col">
+      {{ $link := "news" }}
+      <a href="{{ $link | absURL }}">
+        <button type="submit" class="btn btn-primary has-icon ml-15">Zu allen News
+          <span class="icon"><svg width="32" height="32" viewBox="0 0 32 32" fill="none"
+              xmlns="http://www.w3.org/2000/svg">
+              <path
+                d="M12.5522 6.66669L20.5522 14.6667C21.0329 15.1473 21.0699 15.9036 20.6632 16.4267L20.5522 16.5523L12.5522 24.5523L10.6666 22.6667L17.7228 15.6095L10.6666 8.55231L12.5522 6.66669Z"
+                fill="currentColor" />
+            </svg></span>
+        </button>
+      </a>
+    </div>
+  </div>
+  <div class="shape-1 shape-sm bg-secondary rounded-circle d-none d-sm-block"></div>
+  <div class="shape-2 shape-sm bg-primary rounded-circle d-none d-sm-block"></div>
+  <div class="shape-3 shape-sm bg-tertiary rounded-circle d-none d-sm-block"></div>
+  <div class="shape-4 shape-sm bg-secondary rounded-circle d-none d-sm-block"></div>
+  <div class="shape-5 shape-xs bg-primary rounded-circle d-none d-sm-block"></div>
+  <div class="shape-6 shape-xs-2 bg-tertiary rounded-circle d-none d-sm-block"></div>
+</section>
+
 
 <!-- start of how-it-works tab -->
 {{ if $data.homepage.homepage_tab.enable }}
@@ -217,31 +252,5 @@
 {{ end }}
 {{ end }}
 <!-- end of horizontal-accordion -->
-
-<section class="section-padding">
-  <div class="container">
-    <div class="row justify-content-center">
-      <div class="col-lg-6 col-md-9 text-center mb-40">
-        <h2 class="section-title">Acts</h2>
-        <p>Die ersten Acts sind bekannt!</p>
-        <p>Schaue bald wieder vorbei um mehr zu sehen!</p>
-      </div>
-      <div class="bands-container col-lg-6 col-md-9 mb-40">
-
-        {{ range $i, $e:= (where .Site.RegularPages "Section" "acts") }}
-        {{ if ne .Params.draft true }}
-        {{ if .Params.title }}
-        <a class="nav-link {{if eq $i 0}}active{{end}}" id="band-{{.Params.title| urlize}}" href="{{ .Permalink }}">
-          <p class="circle-shape"></i>{{ .Params.title }}
-        </a>
-        {{ end }}
-        {{ end }}
-        {{ end }}
-
-      </div>
-    </div>
-  </div>
-</section>
-
 
 {{ end }}
