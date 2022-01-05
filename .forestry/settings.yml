@@ -11,11 +11,15 @@ sections:
   path: content/german/infos/_index.md
   label: Info
 - type: document
-  path: content/german/projekt/_index.md
-  label: Projekt
-- type: document
   path: content/german/helfende/_index.md
   label: Helfende
+- type: document
+  path: content/german/acts/_index.md
+  label: Acts
+  match: "**/*"
+- type: document
+  path: content/german/projekt/_index.md
+  label: Projekt
 - type: document
   path: content/german/unterstuetzen/_index.md
   label: Unterstützen
