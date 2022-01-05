@@ -3087,3 +3087,6 @@ form {
 
 .crt-load-more {
   display: none !important; }
+
+.shifttopbrnd {
+  display: none !important; }
