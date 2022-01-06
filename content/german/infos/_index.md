@@ -45,9 +45,11 @@ Aktuell im Angebot:
 
 In Ticketpreis enthalten sind:
 
-* 2x Frühstück (Samstag und Sonntag)
-* 3-Tagespass Konzerte und Ateliers
-* Kulti-Becher
+\- 2x Frühstück (Samstag und Sonntag)
+
+\- 3-Tagespass Konzerte und Ateliers
+
+\- Kulti-Becher
 
 <br />
 

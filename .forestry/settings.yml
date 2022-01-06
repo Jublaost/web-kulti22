@@ -16,7 +16,6 @@ sections:
 - type: document
   path: content/german/acts/_index.md
   label: Acts
-  match: "**/*"
 - type: document
   path: content/german/projekt/_index.md
   label: Projekt
