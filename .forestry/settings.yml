@@ -15,7 +15,13 @@ sections:
   label: Helfende
 - type: document
   path: content/german/acts/_index.md
+  label: Acts Seite
+- type: directory
+  path: content/german/acts
   label: Acts
+  create: documents
+  match: "**/*"
+  exclude: _index.md
 - type: document
   path: content/german/projekt/_index.md
   label: Projekt
