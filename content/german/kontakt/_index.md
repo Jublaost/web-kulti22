@@ -44,8 +44,8 @@ team_member:
   social:
   - icon: ti-email
     link: mailto:glausi@kulti22.ch
-- name: Simon Gschwend
-  image: "/images/uploads/07_gschwend.jpg"
+- name: Fabian «Sail» Wenger
+  image: "/images/uploads/07_sail.jpg"
   designation: Sicherheit/Prävention
   group: OK
   social:
