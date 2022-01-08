@@ -50,7 +50,7 @@ team_member:
   group: OK
   social:
   - icon: ti-email
-    link: mailto:gschwend@kulti22.ch
+    link: mailto:sail@kulti22.ch
 - name: Stephanie Artho
   image: "/images/uploads/HomepageSteffi.JPG"
   designation: Finanzen
