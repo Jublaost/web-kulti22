@@ -3090,3 +3090,6 @@ form {
 
 .shifttopbrnd {
   display: none !important; }
+
+.content ul {
+  font-family: "Century Gothic", sans-serif; }

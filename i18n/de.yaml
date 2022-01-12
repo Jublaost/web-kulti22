@@ -48,3 +48,9 @@
 
 - id: subscribe
   translation: Melde dich für den Newsletter an!
+
+- id: motivationsbeschrieb
+  translation: Motivationsbeschreibung
+
+- id: links
+  translation: Link(s) - (OneDrive, SharePoint, DropBox, Youtube...)
