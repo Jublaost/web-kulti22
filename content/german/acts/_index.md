@@ -14,7 +14,8 @@ Wir vergeben 2 Konzert-Slots am Lieder- und Kulturfest 2022. Gesucht sind Jubla-
 * Ein kurzes Bewerbungsvideo mit Band/Musiker*innen-Vorstellung
 * Songbeispiele, Musikvideos, Live-Ausschnitte (falls vorhanden) als Link
 * Ein Foto von euch/dir
-* Infos: Jubla-Zusammenhang, Vorstellung der Mitglieder, Motivation
+* Infos: Jubla-Zusammenhang, Vorstellung der Mitglieder
+* Ein kurzes Motivationsschreiben
 
 Am besten packt ihr alles in eine Cloud (Google Drive oder Ähnliches) und teilt mit uns den dazugehörigen Link im untenstehenden Formular.
 
