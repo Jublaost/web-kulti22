@@ -153,9 +153,12 @@ if (competitionFormVote) {
     var payload = {};
 
     // Build JSON key-value pairs using the form fields.
-    competitionFormVote.querySelectorAll("input, select").forEach(field => {
+    competitionFormVote.querySelectorAll("input, select, textarea").forEach(field => {
       payload[field.name] = field.value;
     });
+
+    console.log(payload);
+    console.log(event);
 
     if (payload["g-recaptcha-response"].length == 0) {
       recaptchaMessage.style.display = "block";
