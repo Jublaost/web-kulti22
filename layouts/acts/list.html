@@ -47,36 +47,25 @@
   <div class="container">
     <div class="row justify-content-center">
       <div class="col-xl-6 col-lg-7">
-        <h2>Hier könnt ihr euch für den Band-Wettbewerb anmelden:</h2>
-        <form class="rounded shadow p-30" id="competition-form">
+        <h2>Ich gebe meine Stimme:</h2>
+        <form class="rounded shadow p-30" id="competition-form-vote">
           <div class="form-group mb-30">
-            <label class="text-black-200 h5 font-weight-600 mb-2" for="bandname">{{ i18n "bandname"}}<strong
+            <label class="text-black-200 h5 font-weight-600 mb-2" for="act">Der Act<strong
                 style="color: darkred;">*</strong></label>
-            <input class="form-control shadow-none" type="text" placeholder="Kulti Rockers" id="bandname"
-              name="bandname" required>
+            <select class="form-control shadow-none" type="text" placeholder="Kulti Rockers" id="act" name="act"
+              required>
+              <option value="none" selected disabled>-- Wähle den Act --</option>
+              <option value="1">Band 1</option>
+              <option value="2">Band 2</option>
+              <option value="3">Band 3</option>
+              <option value="4">Band 4</option>
+            </select>
           </div>
           <div class="form-group mb-30">
             <label class="text-black-200 h5 font-weight-600 mb-2" for="email">{{i18n "mail"}}<strong
                 style="color: darkred;">*</strong></label>
-            <input class="form-control shadow-none" type="email" placeholder="chef@kultirockers.band" id="email"
+            <input class="form-control shadow-none" type="email" placeholder="chuck.norris@nüt.ch" id="email"
               name="email" required>
-          </div>
-          <div class="form-group mb-30">
-            <label class="text-black-200 h5 font-weight-600 mb-2" for="homepage">{{ i18n "website"}}</label>
-            <input class="form-control shadow-none" type="text" placeholder="https://www.kultirockers.band"
-              id="homepage" name="homepage">
-          </div>
-          <div class="form-group mb-30">
-            <label class="text-black-200 h5 font-weight-600 mb-2" for="motivationsbeschrieb">{{ i18n
-              "motivationsbeschrieb"}}<strong style="color: darkred;">*</strong></label>
-            <textarea class="form-control shadow-none" rows="5" id="motivationsbeschrieb" name="motivationsbeschrieb"
-              required></textarea>
-          </div>
-
-          <div class="form-group mb-30">
-            <label class="text-black-200 h5 font-weight-600 mb-2" for="links">{{ i18n "links"}}</label>
-            <p><i>(OneDrive, SharePoint, DropBox, Youtube...)</i></p>
-            <textarea class="form-control shadow-none" rows="2" id="links" name="links" required></textarea>
           </div>
 
           <div class="recaptcha" style="text-align: center;">
