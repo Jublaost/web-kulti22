@@ -157,9 +157,6 @@ if (competitionFormVote) {
       payload[field.name] = field.value;
     });
 
-    console.log(payload);
-    console.log(event);
-
     if (payload["g-recaptcha-response"].length == 0) {
       recaptchaMessage.style.display = "block";
     } else {
