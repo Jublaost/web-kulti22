@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="{{ with .Site.LanguageCode }}{{ . }}{{ else }}de-CH{{ end }}">
+{{- partial "head.html" . -}}
+{{ $data := index .Site.Data .Site.Language.Lang }}
+
+<body id="top" data-spy="scroll" data-target="#navbar-spy" class="position-relative">
+    {{- partial "preloader.html" . -}}
+    {{- partial "header.html" . -}}
+
+    <!-- strat of blog-details -->
+    <section class="section-padding pt-50">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-lg-9 col-md-12 mb-60">
+                    <div class="col-8 offset-2">
+                        {{ $image := resources.GetMatch .Params.image }}
+                        {{ partial "image.html"
+                        (dict "Image" $image "Alt" "{{ .Title }} image" "Class" "img-fluid rounded-lg") }}
+                    </div>
+                    <br>
+                    <h2 class="font-weight-bold mb-30">{{.Title}}</h2>
+
+                    <div class="content">{{.Content}}</div>
+                </div>
+            </div>
+            <div class="row" style="text-align: center;">
+                <div class="col">
+                    <a target="_blank" href="{{ .Params.link }}">
+                        <button type="submit" class="btn btn-primary has-icon ml-15">Mehr zu {{ .Title }}
+                            <span class="icon"><svg width="32" height="32" viewBox="0 0 32 32" fill="none"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <path
+                                        d="M12.5522 6.66669L20.5522 14.6667C21.0329 15.1473 21.0699 15.9036 20.6632 16.4267L20.5522 16.5523L12.5522 24.5523L10.6666 22.6667L17.7228 15.6095L10.6666 8.55231L12.5522 6.66669Z"
+                                        fill="currentColor" />
+                                </svg></span>
+                        </button>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- end of blog-details -->
+
+    {{- partial "footer.html" . -}}
+</body>
+
+</html>

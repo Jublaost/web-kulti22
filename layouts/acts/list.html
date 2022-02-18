@@ -17,7 +17,7 @@
         {{ if ne .Params.draft true }}
         {{ if .Params.title }}
         <a class="nav-link {{if eq $i 0}}active{{end}}" id="band-{{.Params.title| urlize}}" href="{{ .Permalink }}">
-          <p class="circle-shape"></i>{{ .Params.title }}
+          {{ .Params.title }}
         </a>
         {{ end }}
         {{ end }}
@@ -46,6 +46,56 @@
 <section class="section-padding">
   <div class="container">
     <div class="row justify-content-center">
+      <h1>Gib deine Stimme!</h1>
+      <br />
+    </div>
+
+    <div class="row justify-content-center">
+
+      {{ range (where .Site.RegularPages "Section" "act-contest").Reverse }}
+      {{ if ne .Params.draft true }}
+      {{ if .Params.title }}
+
+      <div class="col-md-5 col-sm-6 mb-30">
+        <div class="justify-content-center">
+          {{ $image := resources.GetMatch .Params.image }}
+          {{ partial "image.html"
+          (dict "Image" $image "Alt" "{{.Params.title}} image" "Class" "img-fluid contest-act-img") }}
+        </div>
+        <div class="bg-white shadow rounded p-30">
+
+          <div class="d-flex justify-content-between mb-2 mb-lg-3">
+            <h3 class="mb-2 mb-lg-4 font-weight-600">{{ .Params.title }}</h3>
+            <div class="has-text-color h2">
+              <i class="ti-user"></i>
+            </div>
+          </div>
+          <div class="accordion-panel">
+            <p>{{ .Content | markdownify }}</p>
+          </div>
+          <br />
+          <div class="row" style="text-align: center;">
+            <div class="col">
+              <a target="_blank" href="{{ .Permalink }}">
+                <button type="submit" class="btn btn-primary has-icon ml-15">Mehr zu {{ .Params.title }}
+                  <span class="icon"><svg width="32" height="32" viewBox="0 0 32 32" fill="none"
+                      xmlns="http://www.w3.org/2000/svg">
+                      <path
+                        d="M12.5522 6.66669L20.5522 14.6667C21.0329 15.1473 21.0699 15.9036 20.6632 16.4267L20.5522 16.5523L12.5522 24.5523L10.6666 22.6667L17.7228 15.6095L10.6666 8.55231L12.5522 6.66669Z"
+                        fill="currentColor" />
+                    </svg></span>
+                </button>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+      {{ end }}
+      {{ end }}
+      {{ end }}
+
+    </div>
+    <div class="row justify-content-center">
       <div class="col-xl-6 col-lg-7">
         <h2>Ich gebe meine Stimme:</h2>
         <form class="rounded shadow p-30" id="competition-form-vote">
@@ -55,10 +105,10 @@
             <select class="form-control shadow-none" type="text" placeholder="Kulti Rockers" id="act" name="act"
               required>
               <option value="none" selected disabled>-- Wähle den Act --</option>
-              <option value="1">Band 1</option>
-              <option value="2">Band 2</option>
-              <option value="3">Band 3</option>
-              <option value="4">Band 4</option>
+              <option value="Hülsetätscher">Hülsetätscher</option>
+              <option value="Luzomat voll parat">Luzomat voll parat</option>
+              <option value="Holzbläser Clairongarde">Holzbläser Clairongarde</option>
+              <option value="Pingu">Pingu</option>
             </select>
           </div>
           <div class="form-group mb-30">
@@ -82,8 +132,7 @@
           <button class="btn btn-primary w-100" type="submit">{{ i18n "submit"}}</button>
         </form>
         <div id="success-message" style="display: none">
-          <h3>Vielen Dank!</h3>
-          <p>Wir werden uns umgehend bei dir melden.</p>
+          <p>Vielen Dank! für deine stimme.</p>
         </div>
         <div id="error-message" style="display: none">
           <h3 style="color: darkred;">Fehler!</h3>
