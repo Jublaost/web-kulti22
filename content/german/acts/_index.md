@@ -5,28 +5,10 @@ description: Übersicht Acts
 ---
 # Jubla-Band-Wettbewerb
 
-Das Kulti 22-Line-Up füllt sich so langsam aber sicher und lockt mit hochkarätigen und vielversprechenden Acts. Aber etwas fehlt uns noch… und zwar IHR!
+In den letzten Wochen konnten sich Jubla-Acts im Rahmen des Kulti-Bandcontests für 2 Konzert-Slots am Lieder- und Kulturfest im August bewerben. Zusammengekommen ist ein grossartiges Bouquet an tollen und vielversprechenden Musikern mit Jubla-Hintergrund. Am liebsten würden wir alle auf die Hauptbühne packen und euch die Stage rocken lassen.
 
-Wir vergeben 2 Konzert-Slots am Lieder- und Kulturfest 2022. Gesucht sind Jubla-Bands oder Solo-Acts mit Jubla-Hintergrund, die Lust haben, am Samstag, 27. August die Kulti-Bühne zu rocken! Als Gage bieten wir ein 45-minütiges Set sowie gratis Eintritt und eine Verpflegung vor oder nach eurem Set.
+Doch jetzt habt ihr das Sagen!
 
-## Was wir von euch brauchen?
+Ganz im Sinne von #mitbestimmen überlassen wir euch die Wahl, welche Jubla-Band ihr am Kulti-Samstag auf der Bühne sehen möchtet. Ab sofort könnt ihr für eure Lieblingsband voten. Daumen drücken und weitersagen!
 
-* Ein kurzes Bewerbungsvideo mit Band/Musiker*innen-Vorstellung
-* Songbeispiele, Musikvideos, Live-Ausschnitte (falls vorhanden) als Link
-* Ein Foto von euch/dir
-* Infos: Jubla-Zusammenhang, Vorstellung der Mitglieder
-* Ein kurzes Motivationsschreiben
-
-Am besten packt ihr alles in eine Cloud (OneDrive, SharePoint, DropBox, Google Drive oder Ähnliches) und teilt den dazugehörigen Link im untenstehenden Formular.
-
-## Ablauf Bandcontest
-
-Insgesamt stehen zwei Slots zur Verfügung. Es gibt zwei Möglichkeiten, euch einen davon zu sichern. Ganz im Sinne von #mitbestimmen kommen zunächst alle eure Bewerbungen in ein Publikums-Voting, bei dem ihr die Chance habt eure Fans und Bekannten zu mobilisieren. Die Band mit den meisten Stimmen gewinnt einen Slot.
-
-Der zweite Slot wird vom Ressort Booking vergeben. Die Band mit der überzeugendsten Bewerbung bekommt die Chance die Kulti-Bühne zu rocken.
-
-Nach eurer Bewerbung werdet ihr rechtzeitig informiert, sodass ihr eure Fan-Base zum Voten animieren könnt. Den Link zum Voting werden wir pünktlich am 26. Februar 2022 mit euch sowie auf unseren Social-Media-Kanälen teilen.
-
-In beiden Fällen (Jury- und Publikums-Voting) erhält ihr vom Ressort Booking zeitnah den Entscheid zu eurer Bewerbung.
-
-Wir freuen uns über eure Teilnahme und wünschen euch viel Glück!
+Das Voting endet am 19. März, die Gewinner*innen werden anschliessend von uns informiert. Wir wünschen viel Glück!

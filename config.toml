@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://www.kulti22.ch"
+baseURL = "/"
 title = "Kulti 22"
 theme = "hugo-theme-copper"
 # post pagination

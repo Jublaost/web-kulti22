@@ -146,6 +146,40 @@ if (competitionForm) {
   }
 }
 
+var competitionFormVote = document.getElementById("competition-form-vote");
+if (competitionFormVote) {
+  competitionFormVote.onsubmit = function (event) {
+    event.preventDefault(); // Don't let the browser submit the form.
+    var payload = {};
+
+    // Build JSON key-value pairs using the form fields.
+    competitionFormVote.querySelectorAll("input, select, textarea").forEach(field => {
+      payload[field.name] = field.value;
+    });
+
+    if (payload["g-recaptcha-response"].length == 0) {
+      recaptchaMessage.style.display = "block";
+    } else {
+      // Post the payload to the contact endpoint.
+      fetch("https://kulti22.azurewebsites.net/api/WebFormBandCompetitionVote", {
+        method: 'post',
+        body: JSON.stringify(payload)
+      }).then(resp => {
+        if (!resp.ok) {
+          errorMessage.style.display = "block";
+          competitionFormVote.style.display = "none";
+          console.error(resp);
+          return;
+        }
+        // Display success message.
+        successMessage.style.display = "block";
+        competitionFormVote.style.display = "none";
+      });
+    }
+  }
+}
+
+
 function onLicenseCheck(show) {
   if (show) {
     document.getElementById("driver-license-category-div").classList.remove("hide");

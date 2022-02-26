@@ -1,5 +1,5 @@
 +++
-draft = true
+draft = false
 image = "/images/uploads/friorite.jpg"
 link = "https://youtube.com/playlist?list=OLAK5uy_lG-q-f1MrzST4aWu-9Juep6JqNm8tGJfA"
 title = "FRIORITÉ"

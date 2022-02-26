@@ -1,5 +1,5 @@
 +++
-draft = true
+draft = false
 image = "/images/uploads/taktlos.jpeg"
 link = "https://taktlos-band.ch/"
 title = "TAKTLOS"

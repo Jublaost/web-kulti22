@@ -1,5 +1,5 @@
 +++
-draft = true
+draft = false
 image = "/images/uploads/leoforpresident.jpg"
 link = ""
 title = "LEO FOR PRESIDENT"

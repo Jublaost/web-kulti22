@@ -17,7 +17,7 @@
         {{ if ne .Params.draft true }}
         {{ if .Params.title }}
         <a class="nav-link {{if eq $i 0}}active{{end}}" id="band-{{.Params.title| urlize}}" href="{{ .Permalink }}">
-          <p class="circle-shape"></i>{{ .Params.title }}
+          {{ .Params.title }}
         </a>
         {{ end }}
         {{ end }}
@@ -42,41 +42,78 @@
   <div class="shape-4 shape-sm bg-secondary rounded-circle d-none d-sm-block"></div>
   <div class="shape-5 shape-xs bg-primary rounded-circle d-none d-sm-block"></div>
   <div class="shape-6 shape-xs-2 bg-tertiary rounded-circle d-none d-sm-block"></div>
-</section>
-<section class="section-padding">
   <div class="container">
     <div class="row justify-content-center">
+      <h1>Gib deine Stimme!</h1>
+      <br />
+    </div>
+
+    <div class="row justify-content-center">
+
+      {{ range (where .Site.RegularPages "Section" "act-contest") }}
+      {{ if ne .Params.draft true }}
+      {{ if .Params.title }}
+
+      <div class="col-md-5 col-sm-6 mb-30">
+        <div class="justify-content-center">
+          {{ $image := resources.GetMatch .Params.image }}
+          {{ partial "image.html"
+          (dict "Image" $image "Alt" "{{.Params.title}} image" "Class" "img-fluid contest-act-img") }}
+        </div>
+        <div class="bg-white shadow rounded p-30">
+
+          <div class="d-flex justify-content-between mb-2 mb-lg-3">
+            <h3 class="mb-2 mb-lg-4 font-weight-600">{{ .Params.title }}</h3>
+          </div>
+          <div class="accordion-panel">
+            <p>{{ .Summary | markdownify }}</p>
+          </div>
+          <br />
+          <div class="row" style="text-align: center;">
+            <div class="col">
+              <a target="_blank" href="{{ .Permalink }}">
+                <button type="submit" class="btn btn-primary has-icon ml-15">Mehr zu {{ .Params.title }}
+                  <span class="icon"><svg width="32" height="32" viewBox="0 0 32 32" fill="none"
+                      xmlns="http://www.w3.org/2000/svg">
+                      <path
+                        d="M12.5522 6.66669L20.5522 14.6667C21.0329 15.1473 21.0699 15.9036 20.6632 16.4267L20.5522 16.5523L12.5522 24.5523L10.6666 22.6667L17.7228 15.6095L10.6666 8.55231L12.5522 6.66669Z"
+                        fill="currentColor" />
+                    </svg></span>
+                </button>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+      {{ end }}
+      {{ end }}
+      {{ end }}
+
+    </div>
+    <div class="row justify-content-center">
       <div class="col-xl-6 col-lg-7">
-        <h2>Hier könnt ihr euch für den Band-Wettbewerb anmelden:</h2>
-        <form class="rounded shadow p-30" id="competition-form">
+        <h2>Ich gebe meine Stimme:</h2>
+        <form class="rounded shadow p-30" id="competition-form-vote" style="background-color: white;">
           <div class="form-group mb-30">
-            <label class="text-black-200 h5 font-weight-600 mb-2" for="bandname">{{ i18n "bandname"}}<strong
+            <label class="text-black-200 h5 font-weight-600 mb-2" for="act">Der Act<strong
                 style="color: darkred;">*</strong></label>
-            <input class="form-control shadow-none" type="text" placeholder="Kulti Rockers" id="bandname"
-              name="bandname" required>
+            <select class="form-control shadow-none" type="text" placeholder="Kulti Rockers" id="act" name="act"
+              required>
+              <option value="none" selected disabled>-- Wähle den Act --</option>
+              {{ range (where .Site.RegularPages "Section" "act-contest") }}
+              {{ if ne .Params.draft true }}
+              {{ if .Params.title }}
+              <option value="{{ .Params.title }}">{{ .Params.title }}</option>
+              {{ end }}
+              {{ end }}
+              {{ end }}
+            </select>
           </div>
           <div class="form-group mb-30">
             <label class="text-black-200 h5 font-weight-600 mb-2" for="email">{{i18n "mail"}}<strong
                 style="color: darkred;">*</strong></label>
-            <input class="form-control shadow-none" type="email" placeholder="chef@kultirockers.band" id="email"
+            <input class="form-control shadow-none" type="email" placeholder="chuck@norris-mail.ch" id="email"
               name="email" required>
-          </div>
-          <div class="form-group mb-30">
-            <label class="text-black-200 h5 font-weight-600 mb-2" for="homepage">{{ i18n "website"}}</label>
-            <input class="form-control shadow-none" type="text" placeholder="https://www.kultirockers.band"
-              id="homepage" name="homepage">
-          </div>
-          <div class="form-group mb-30">
-            <label class="text-black-200 h5 font-weight-600 mb-2" for="motivationsbeschrieb">{{ i18n
-              "motivationsbeschrieb"}}<strong style="color: darkred;">*</strong></label>
-            <textarea class="form-control shadow-none" rows="5" id="motivationsbeschrieb" name="motivationsbeschrieb"
-              required></textarea>
-          </div>
-
-          <div class="form-group mb-30">
-            <label class="text-black-200 h5 font-weight-600 mb-2" for="links">{{ i18n "links"}}</label>
-            <p><i>(OneDrive, SharePoint, DropBox, Youtube...)</i></p>
-            <textarea class="form-control shadow-none" rows="2" id="links" name="links" required></textarea>
           </div>
 
           <div class="recaptcha" style="text-align: center;">
@@ -91,13 +128,21 @@
 
           <br />
           <button class="btn btn-primary w-100" type="submit">{{ i18n "submit"}}</button>
+          * deine Stimme zählt erst wenn du den erhaltenen Besätigungslink via Mail geklickt hast.
         </form>
         <div id="success-message" style="display: none">
-          <h3>Vielen Dank!</h3>
-          <p>Wir werden uns umgehend bei dir melden.</p>
+          <h3 style="color: green;">Vielen Dank!</h3>
+          <p>Bitte bestätige deine Stimme im Bestätigungsmail. (schaue unter umständen
+            auch im SPAM)</p>
+          <p>Bei Problemen oder nicht erhalten des Mails melde dich doch bei Thomas: <a
+              href="mailto:thomas@kulti22.ch">thomas@kulti22.ch</a></p>
+
         </div>
         <div id="error-message" style="display: none">
           <h3 style="color: darkred;">Fehler!</h3>
+          <strong>
+            <p>Beachte, dass du nur EINE Stimme geben kannst.</p>
+          </strong>
           <p style="color: darkred;">Leider hat etwas nicht geklappt... melde dich doch direkt bei <a
               href="mailto:thomas@kulti22.ch">thomas@kulti22.ch</a></p>
         </div>
