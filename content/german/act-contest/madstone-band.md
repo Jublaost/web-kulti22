@@ -1,7 +1,6 @@
 +++
-draft = false
 image = "/images/uploads/madstone-band-12.jpg"
-link = "www.madstone.ch"
+link = "https://madstone.ch/"
 title = "MADSTONE & BAND"
 
 +++
