@@ -5,12 +5,14 @@ link = "https://youtu.be/Md5ugrOz3mw  https://youtu.be/s8LdObSuuDA  https://yout
 title = "NIGHTHAWK HARRY"
 
 +++
-NIGHTHAWK HARRY
-
 Warum würde mich ein Aufritt am Kulti riesig freuen?
 
-\- das Publikum stammt aus allen Ecken des Landes
+* das Publikum stammt aus allen Ecken des Landes
+* mein Ziel ist es, handgemachte Musik aus vergangenen Zeiten wieder unter die jungen Leute zu bringen. Mit einem Auftritt am Kulti würde ich diesem Ziel einen schönen Schritt näher rücken
+* Es gibt kein besseres Publikum als Jubla-Leute :-)
 
-\- mein Ziel ist es, handgemachte Musik aus vergangenen Zeiten wieder unter die jungen Leute zu bringen. Mit einem Auftritt am Kulti würde ich diesem Ziel einen schönen Schritt näher rücken
+Weitere Links:
 
-\- Es gibt kein besseres Publikum als Jubla-Leute :-)
+[https://youtu.be/s8LdObSuuDA](https://youtu.be/s8LdObSuuDA "https://youtu.be/s8LdObSuuDA")
+
+[https://youtu.be/5gJkw-hrdb0](https://youtu.be/5gJkw-hrdb0 "https://youtu.be/5gJkw-hrdb0")
