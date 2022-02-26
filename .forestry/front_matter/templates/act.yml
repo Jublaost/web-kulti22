@@ -12,4 +12,5 @@ fields:
   name: link
   label: link
 pages:
+- content/german/act-contest/test.md
 - content/german/acts/geilerasdu.md
