@@ -1,12 +1,12 @@
 +++
 draft = false
 image = "/images/uploads/branefive.jpg"
-link = ""
+link = "https://branefive.com"
 title = "BRANEFIVE"
 
 +++
-Spass an der Musik und an Live-Auftritten <!--more-->
+Aus Spass an der Musik und an Live-Auftritten<!--more-->
 
-https://branefive.com
+Weitere Links:
 
 https://youtu.be/ojeFN2xTFvs
