@@ -23,6 +23,7 @@
                     <div class="content">{{.Content}}</div>
                 </div>
             </div>
+            {{ if .Params.link }}
             <div class="row" style="text-align: center;">
                 <div class="col">
                     <a target="_blank" href="{{ .Params.link }}">
@@ -37,6 +38,7 @@
                     </a>
                 </div>
             </div>
+            {{ end }}
         </div>
     </section>
     <!-- end of blog-details -->
