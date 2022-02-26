@@ -5,6 +5,10 @@ description: Übersicht Acts
 ---
 # Jubla-Band-Wettbewerb
 
-Das Kulti 22-Line-Up füllt sich so langsam aber sicher und lockt mit hochkarätigen und vielversprechenden Acts. Aber etwas fehlt uns noch… und zwar IHR!
+In den letzten Wochen konnten sich Jubla-Acts im Rahmen des Kulti-Bandcontests für 2 Konzert-Slots am Lieder- und Kulturfest im August bewerben. Zusammengekommen ist ein grossartiges Bouquet an tollen und vielversprechenden Musikern mit Jubla-Hintergrund. Am liebsten würden wir alle auf die Hauptbühne packen und euch die Stage rocken lassen.
 
-Wir vergeben 2 Konzert-Slots am Lieder- und Kulturfest 2022. Gesucht sind Jubla-Bands oder Solo-Acts mit Jubla-Hintergrund, die Lust haben, am Samstag, 27. August die Kulti-Bühne zu rocken! Als Gage bieten wir ein 45-minütiges Set sowie gratis Eintritt und eine Verpflegung vor oder nach eurem Set.
+Doch jetzt habt ihr das Sagen!
+
+Ganz im Sinne von #mitbestimmen überlassen wir euch die Wahl, welche Jubla-Band ihr am Kulti-Samstag auf der Bühne sehen möchtet. Ab sofort könnt ihr für eure Lieblingsband voten. Daumen drücken und weitersagen!
+
+Das Voting endet am 19. März, die Gewinner*innen werden anschliessend von uns informiert. Wir wünschen viel Glück!
