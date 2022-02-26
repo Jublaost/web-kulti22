@@ -1,5 +1,5 @@
 +++
-draft = true
+draft = false
 image = "/images/uploads/taktlos.jpeg"
 link = "https://youtu.be/-8RL6D_dWCY https://www.youtube.com/watch?v=-8RL6D_dWCY&feature=youtu.be"
 title = "TAKTLOS"

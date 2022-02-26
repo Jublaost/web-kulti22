@@ -1,5 +1,5 @@
 +++
-draft = true
+draft = false
 image = "/images/uploads/madstone-band-12.jpg"
 link = "www.madstone.ch  www.youtube.com/channel/UCXRLwjo9-OduljFQH-q4Jyg"
 title = "MADSTONE & BAND"

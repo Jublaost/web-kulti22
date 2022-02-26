@@ -52,7 +52,7 @@
 
     <div class="row justify-content-center">
 
-      {{ range (where .Site.RegularPages "Section" "act-contest").Reverse }}
+      {{ range (where .Site.RegularPages "Section" "act-contest") }}
       {{ if ne .Params.draft true }}
       {{ if .Params.title }}
 
@@ -66,12 +66,9 @@
 
           <div class="d-flex justify-content-between mb-2 mb-lg-3">
             <h3 class="mb-2 mb-lg-4 font-weight-600">{{ .Params.title }}</h3>
-            <div class="has-text-color h2">
-              <i class="ti-user"></i>
-            </div>
           </div>
           <div class="accordion-panel">
-            <p>{{ .Content | markdownify }}</p>
+            <p>{{ .Summary | markdownify }}</p>
           </div>
           <br />
           <div class="row" style="text-align: center;">
@@ -105,16 +102,19 @@
             <select class="form-control shadow-none" type="text" placeholder="Kulti Rockers" id="act" name="act"
               required>
               <option value="none" selected disabled>-- Wähle den Act --</option>
-              <option value="huelsentaetscher">Hülsetätscher</option>
-              <option value="luzomat">Luzomat voll parat</option>
-              <option value="clairongarde">Holzbläser Clairongarde</option>
-              <option value="pingu">Pingu</option>
+              {{ range (where .Site.RegularPages "Section" "act-contest") }}
+              {{ if ne .Params.draft true }}
+              {{ if .Params.title }}
+              <option value="{{ .Params.title }}">{{ .Params.title }}</option>
+              {{ end }}
+              {{ end }}
+              {{ end }}
             </select>
           </div>
           <div class="form-group mb-30">
             <label class="text-black-200 h5 font-weight-600 mb-2" for="email">{{i18n "mail"}}<strong
                 style="color: darkred;">*</strong></label>
-            <input class="form-control shadow-none" type="email" placeholder="chuck.norris@nüt.ch" id="email"
+            <input class="form-control shadow-none" type="email" placeholder="chuck@norris-mail.ch" id="email"
               name="email" required>
           </div>
 
@@ -132,10 +132,18 @@
           <button class="btn btn-primary w-100" type="submit">{{ i18n "submit"}}</button>
         </form>
         <div id="success-message" style="display: none">
-          <p>Vielen Dank! für deine stimme. Bitte bestätige deine Stimme im Bestätigungsmail.</p>
+          <h3 style="color: green;">Vielen Dank!</h3>
+          <p>Bitte bestätige deine Stimme im Bestätigungsmail. (schaue unter umständen
+            auch im SPAM)</p>
+          <p>Bei Problemen oder nicht erhalten des Mails melde dich doch bei Thomas: <a
+              href="mailto:thomas@kulti22.ch">thomas@kulti22.ch</a></p>
+
         </div>
         <div id="error-message" style="display: none">
           <h3 style="color: darkred;">Fehler!</h3>
+          <strong>
+            <p>Beachte, dass du nur EINE Stimme geben kannst.</p>
+          </strong>
           <p style="color: darkred;">Leider hat etwas nicht geklappt... melde dich doch direkt bei <a
               href="mailto:thomas@kulti22.ch">thomas@kulti22.ch</a></p>
         </div>
