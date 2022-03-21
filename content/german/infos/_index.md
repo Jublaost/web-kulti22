@@ -17,7 +17,7 @@ Das Kulti 22 findet auf der Allmend in Altstätten SG statt.
 
 ##### **Einlass**
 
-Es gilt ein Mindestalter von 16 Jahren, das mit Ausweiskontrollen sichergestellt wird. Mit dem Ticketkauf verpflichtest du dich dazu, die Geländeregeln zu befolgen.
+Es gilt das **Mindestalter von 16 Jahren,** das mit Ausweiskontrollen beim Einlass kontrolliert wird. Mit dem Ticketkauf bestätigst du, dass du das Mindestalter von 16 Jahren hast und verpflichtest du dich dazu, die Geländeregeln zu befolgen.
 
 <br />
 
