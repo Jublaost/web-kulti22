@@ -35,7 +35,7 @@ Sie möchten uns finanziell unterstützen? Hier finden Sie unsere Kontoangaben:
 >
 > Raiffeisenbank am Ricken, 8733 Eschenbach
 
-Falls Sie uns mit Material oder Naturalien unterstützen möchten, wenden Sie sich bitte per Mail an [Samuel](mailto:samuel@kulti22.ch).
+Falls Sie uns mit Material oder Naturalien unterstützen möchten, wenden Sie sich bitte per Mail an [Samuel Weibel ]( "samuel@kulti22.ch")(Ressort Fundraising).
 
 Falls die Spende anonym sein soll, bitte unter Zahlungszweck entsprechend vermerken. Ansonsten führen wir Sie gerne in der Gönnerliste auf (alphabetisch, ohne Betrag).
 
