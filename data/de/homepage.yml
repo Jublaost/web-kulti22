@@ -60,7 +60,7 @@ homepage_tab:
       link: how-it-works
 tickets:
   enable: true
-  title: Tickets
+  title: Tickets – für alle ab 16 Jahren
   content: Greif zu solange sie noch heiss sind.
   item:
   - name: Funkä-Ticket
