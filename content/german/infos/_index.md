@@ -98,3 +98,9 @@ Du reist lieber noch gemütlicher mit dem **Caravan, Büssli, Wohnmobil, oder so
 <br />
 
 **1-Tagespässe (Freitag oder Samstag) sind zu einem späteren Zeitpunkt verfügbar.**
+
+<br />
+
+##### **KulturLegi – 70 % günstiger ans Kulti**
+
+Du hast eine KulturLegi? Dann übernimmt die Stiftung Pro Jungwacht Blauring 70 % deiner Ticket-Kosten! Wie das Ganze funktioniert, erklären wir dir auf [jubla.ch](https://www.jubla.ch/mitglieder/verband/stiftung/kulturlegi/ "jubla.ch").
