@@ -18,14 +18,15 @@ homepage_tab:
   enable: true
   title: Was ist das Kulti?
   content: Drei Tage voller Musik, Spass und unvergesslichen Momenten mit Lebensfreu(n)den.
+    Für alle ab 16 Jahren.
   tablist:
   - name: Musik
     title: Musik
     image: images/kulti19/music.jpg
     content: Als Höhepunkte des Kulti 22 gelten die Auftritte lokaler, aber auch national
       gefeierter Musik- und Kulturschaffender, was bei allen den inneren Jubla-Funken
-      tanzen lassen wird. Von Pop-Rock über Hiphop bis Techno ist für jede und etwas
-      dabei.
+      tanzen lassen wird. Von Pop-Rock über Hiphop bis Techno ist für jede und jeden
+      etwas dabei.
     button:
       enable: false
       label: Zum Programm
@@ -44,7 +45,7 @@ homepage_tab:
   - name: Lebensfreu(n)de
     title: Lebensfreu(n)de
     image: images/kulti19/lebensfreude.jpg
-    content: 'Zusammen lachen, unvergessliche Augenblicke erleben, singen und geniessen
+    content: 'Zusammen lachen, unvergessliche Momente erleben, singen und geniessen
       am Lagerfeuer, in abenteuerliche Geländespiele eintauchen, wandern und unter
       dem Sternenhimmel übernachten, Zelte bauen und über dem Feuer kochen, eine Schatzkarte
       zeichnen, sich verkleiden, die Köpfe zusammenstecken und Ideen entwickeln, Verantwortung
@@ -59,14 +60,16 @@ homepage_tab:
       link: how-it-works
 tickets:
   enable: true
-  title: Tickets
+  title: Tickets – für alle ab 16 Jahren
   content: Greif zu solange sie noch heiss sind.
   item:
   - name: Funkä-Ticket
     icon: ti-user
-    content: 'Das «Funkä-Ticket» (regulärer 3-Tages-Pass) wird für CHF 67 angeboten.
-      Im Ticketpreis enthalten sind: Zutritt zu allen Konzerten und Ateliers, ein  legendärer
-      Kulti-Becher sowie 2x Frühstück (Samstag und Sonntag) auf dem Kulti-Gelände.'
+    content: |-
+      Das «Funkä-Ticket» (regulärer 3-Tages-Pass) wird für CHF 67 angeboten. Im Ticketpreis enthalten sind: Zutritt zu allen Konzerten und Ateliers, ein  legendärer Kulti-Becher sowie 2x Frühstück (Samstag und Sonntag) auf dem Kulti-Gelände.
+
+
+      Hast du eine KulturLegi? Dann bezahlt dir die Stiftung Pro Jungwacht Blauring 70 % zurück. Details: www.jubla.ch/mitglieder/verband/stiftung/kulturlegi/
   - name: Brandbeschleuniger-Ticket
     icon: ti-money
     content: Wer das Kulti zusätzlich finanziell unterstützen möchte, kann neben dem

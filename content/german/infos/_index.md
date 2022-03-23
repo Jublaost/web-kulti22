@@ -17,7 +17,7 @@ Das Kulti 22 findet auf der Allmend in Altstätten SG statt.
 
 ##### **Einlass**
 
-Es gilt ein Mindestalter von 16 Jahren, das mit Ausweiskontrollen sichergestellt wird. Mit dem Ticketkauf verpflichtest du dich dazu, die Geländeregeln zu befolgen.
+Es gilt das **Mindestalter von 16 Jahren,** das mit Ausweiskontrollen beim Einlass kontrolliert wird. Mit dem Ticketkauf bestätigst du, dass du das Mindestalter von 16 Jahren hast und verpflichtest du dich dazu, die Geländeregeln zu befolgen.
 
 <br />
 
@@ -98,3 +98,9 @@ Du reist lieber noch gemütlicher mit dem **Caravan, Büssli, Wohnmobil, oder so
 <br />
 
 **1-Tagespässe (Freitag oder Samstag) sind zu einem späteren Zeitpunkt verfügbar.**
+
+<br />
+
+##### **KulturLegi – 70 % günstiger ans Kulti**
+
+Du hast eine KulturLegi? Dann übernimmt die Stiftung Pro Jungwacht Blauring 70 % deiner Ticket-Kosten! Wie das Ganze funktioniert, erklären wir dir auf [jubla.ch](https://www.jubla.ch/mitglieder/verband/stiftung/kulturlegi/ "jubla.ch").
