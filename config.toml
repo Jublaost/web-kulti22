@@ -52,6 +52,7 @@ link = "plugins/aos/aos.js"
 #################### default parameters ################################
 [params]
 logo = "images/logos/Logo_Kulti22_farbig.png"
+jubla_logo = "images/logos/Jubla_Logo_blau_01.png"
 # Meta data
 description = "Jubla: Lieder- und Kulturfest 2022"
 author = "Thomas"

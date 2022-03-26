@@ -3036,6 +3036,10 @@ body {
 .footer-logo {
   max-width: 10em; }
 
+.footer-jubla-logo {
+  max-width: 10em;
+  padding: 1.2rem; }
+
 .sticky {
   position: fixed !important;
   top: 0;
