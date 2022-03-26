@@ -76,6 +76,9 @@ var registerHelfendeForm = document.getElementById("helfende-form");
 if (registerHelfendeForm) {
   registerHelfendeForm.onsubmit = function (event) {
     event.preventDefault(); // Don't let the browser submit the form.
+
+    document.getElementById("submit-button").disabled = true; // disable submit button
+
     var payload = {};
 
     registerHelfendeForm.querySelectorAll(".form-check-input").forEach(field => {
