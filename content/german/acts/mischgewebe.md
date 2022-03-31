@@ -1,5 +1,4 @@
 +++
-draft = true
 image = "/images/uploads/band_ankundigung_mischgewebe_22.jpeg"
 link = "https://mischgewebemusic.com/"
 title = "mischgewebe"
