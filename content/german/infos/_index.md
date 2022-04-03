@@ -43,23 +43,37 @@ Aktuell im Angebot:
 
 <br />
 
-In Ticketpreis enthalten sind:
-
-\- 2x Frühstück (Samstag und Sonntag)
+Im Ticketpreis enthalten sind:
 
 \- 3-Tagespass Konzerte und Ateliers
+
+\- 2x Frühstück (Samstag und Sonntag)
 
 \- Kulti-Becher
 
 <br />
 
-Im Ticketpreis **nicht** enthalten sind:
+**1-Tagespässe (Freitag oder Samstag) für CHF 40.- / 50.-**
+
+<br />
+
+Im Ticketpreis enthalten sind:
+
+\- 1-Tagespass Konzerte und Ateliers
+
+\- 1x Frühstück (Samstag oder Sonntag)
+
+\- Kulti-Becher
+
+<br />
+
+In den Ticketpreis **nicht** enthalten sind:
 
 Anfahrt, Parkplätze, Caravancamping, Verpflegung von den Essenständen und Bars
 
 <br />
 
-Sobald das Kulti näher rückt, schalten wir auf das Spotzünder-Ticket für die regulären CHF 75.- um. [Hol dir dein Ticket](https://eventfrog.ch/de/p/festivals/weitere-festivals/lieder-und-kulturfest-2022-6833845387129228352.html "Hol dir dein Ticket") also besser früher als später.
+Sobald das Kulti näher rückt, schalten wir auf die Spotzünder-Tickets für die regulären Abendkasse-Preise (CHF 75.- / 45.- / um. [Hol dir dein Ticket](https://eventfrog.ch/de/p/festivals/weitere-festivals/lieder-und-kulturfest-2022-6833845387129228352.html "Hol dir dein Ticket") also besser früher als später.
 
 <br />
 
@@ -94,10 +108,6 @@ Du reist lieber noch gemütlicher mit dem **Caravan, Büssli, Wohnmobil, oder so
 \- Gruppenangebot Sparflammä für CHF 52.- pro Stk ab 10 Tickets
 
 \- Early-Funkä-Ticket für CHF 62.-
-
-<br />
-
-**1-Tagespässe (Freitag oder Samstag) sind zu einem späteren Zeitpunkt verfügbar.**
 
 <br />
 
