@@ -9,7 +9,7 @@ Du möchtest am Kulti 22 als Helfer*in dabei sein und Grosses bewirken? Wir dan
 
 <br />
 
-Deine Vorteile? Vergünstigter Eintritt ans Kulti 22, Konsumationsgutscheine im Wert von 15-75 Franken (je nach Anzahl Helfendenstunden), Helfendenshirt, Kultibecher, Helfendenfest und unsere ewige Dankbarkeit!
+Deine Vorteile? Eintritt ans Kulti 22, Konsumationsgutscheine im Wert von 15-75 Franken (je nach Anzahl Helfendenstunden), Helfendenshirt, Kultibecher, Helfendenfest und unsere ewige Dankbarkeit!
 Auf-/Abbauschichten zählen als doppelte Schichten. Alle, die sich beim Abbau beteiligen, können die Gutscheine im Voraus, während dem Kulti beim Helfendenpoint abholen. 
 
 <br />
