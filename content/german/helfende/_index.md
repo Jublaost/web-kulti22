@@ -9,7 +9,7 @@ Du möchtest am Kulti 22 als Helfer*in dabei sein und Grosses bewirken? Sei die
 
 <br />
 
-**Deine Vorteile?** 
+Deine Vorteile? 
 
 * Konsumationsgutscheine
 * Helfendenshirt
