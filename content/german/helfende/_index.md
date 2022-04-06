@@ -11,20 +11,27 @@ Du möchtest am Kulti 22 als Helfer*in dabei sein und Grosses bewirken? Sei die
 
 Deine Vorteile? 
 
-* Konsumationsgutscheine
-* Helfendenshirt
-* Kultibecher
-* Einladung fürs Helfendenfest 
-* und unsere ewige Dankbarkeit!
+\- Konsumationsgutscheine
+
+\- Helfendenshirt
+
+\- Kultibecher
+
+\- Einladung fürs Helfendenfest 
+
+und unsere ewige Dankbarkeit!
 
 <br />
 
 Je nach Anzahl Stunden, die du mithilfst, erhältst du folgende Konsumationsgutscheine als Entschädigung: 
 
-* 4.0 h (mini Schicht) - Konsumationsgutschein Fr. 15.00 
-* 6.5 h (eine Schicht) - Konsumationsgutschein Fr. 25.00 
-* 13.0 h (zwei Schichten) - Konsumationsgutschein Fr. 45.00 
-* 19.5 h (drei oder mehr Schichten) – Konsumationsgutschein Fr. 70.00 (im Wert eines 3-Tages Ticket)
+\- 4.0 h (mini Schicht) - Konsumationsgutschein Fr. 15.00 
+
+\- 6.5 h (eine Schicht) - Konsumationsgutschein Fr. 25.00 
+
+\- 13.0 h (zwei Schichten) - Konsumationsgutschein Fr. 45.00 
+
+\- 19.5 h (drei oder mehr Schichten) – Konsumationsgutschein Fr. 70.00 (im Wert eines 3-Tages Ticket)
 
 <br />
 
