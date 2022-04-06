@@ -28,8 +28,8 @@ Je nach Anzahl Stunden, die du mithilfst, erhältst du folgende Konsumationsguts
 
 <br />
 
-Auf-/Abbauschichten zählen als doppelte Schichten. Alle, die sich beim Abbau beteiligen, können die Gutscheine im Voraus, während dem Kulti beim Helfendenpoint abholen. **Sollten die Konsumations-Gutscheine nicht ausgeschöpft werden, wird der Restbeitrag beim Info-Point bis Sonntag-Nachmittag ausbezahlt.**
+Auf-/Abbauschichten zählen als doppelte Schichten. Alle, die sich beim Abbau beteiligen, können die Gutscheine im Voraus, während dem Kulti beim Helfendenpoint abholen. Sollten die Konsumations-Gutscheine nicht ausgeschöpft werden, wird der Restbeitrag beim Info-Point bis Sonntag-Nachmittag ausbezahlt.
 
 <br />
 
-**Wir sind dankbar um jede und jeden, die uns dabei unterstützt, das Kulti 22 unvergesslich zu machen. Schon jetzt herzlichen Dank!**
+Wir sind dankbar um jede und jeden, die uns dabei unterstützt, das Kulti 22 unvergesslich zu machen. Schon jetzt herzlichen Dank!
