@@ -67,9 +67,9 @@ tickets:
     icon: ti-user
     content: |-
       Das «Funkä-Ticket» (regulärer 3-Tages-Pass) wird für CHF 67 angeboten. Im Ticketpreis enthalten sind: Zutritt zu allen Konzerten und Ateliers, ein  legendärer Kulti-Becher sowie 2x Frühstück (Samstag und Sonntag) auf dem Kulti-Gelände.
+      <br/>
 
-
-      Hast du eine KulturLegi? Dann bezahlt dir die Stiftung Pro Jungwacht Blauring 70 % zurück. Details: www.jubla.ch/mitglieder/verband/stiftung/kulturlegi/
+      Hast du eine KulturLegi? Dann bezahlt dir die Stiftung Pro Jungwacht Blauring 70% zurück. Details: www.jubla.ch/mitglieder/verband/stiftung/kulturlegi/
   - name: Brandbeschleuniger-Ticket
     icon: ti-money
     content: Wer das Kulti zusätzlich finanziell unterstützen möchte, kann neben dem
