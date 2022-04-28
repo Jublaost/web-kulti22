@@ -66,11 +66,11 @@ tickets:
   item:
   - name: Funkä-Ticket
     icon: ti-user
-    content: 'Du möchstest das volle Kulti-Erlebnis? Dann ist das «Funkä-Ticket» das
-      Richtige für dich! Das Funkä-Ticket (regulärer 3-Tages-Pass) wird für CHF 67
-      angeboten. Im Ticketpreis enthalten sind: Zutritt zu allen Konzerten und Ateliers,
-      der legendäre Kulti-Becher sowie 2x Frühstück (Samstag und Sonntag) auf dem
-      Kulti-Gelände.'
+    content: 'Du möchstest das komplette Kulti-Erlebnis? Dann ist das «Funkä-Ticket»
+      das Richtige für dich! Das Funkä-Ticket (regulärer 3-Tages-Pass) wird für CHF
+      67 angeboten. Im Ticketpreis enthalten sind: Zutritt zu allen Konzerten und
+      Ateliers, der legendäre Kulti-Becher sowie 2x Frühstück (Samstag und Sonntag)
+      auf dem Kulti-Gelände.'
   - name: 1-Tagespässe
     icon: ti-user
     content: |2-
