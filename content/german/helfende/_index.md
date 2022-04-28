@@ -9,7 +9,7 @@ Du möchtest am Kulti 22 als Helfer*in dabei sein und Grosses bewirken? Sei die
 
 <br />
 
-Deine Vorteile? 
+Deine Vorteile?
 
 \- Konsumationsgutscheine
 
@@ -17,26 +17,26 @@ Deine Vorteile?
 
 \- Kultibecher
 
-\- Einladung fürs Helfendenfest 
+\- Einladung fürs Helfendenfest
 
 und unsere ewige Dankbarkeit!
 
 <br />
 
-Je nach Anzahl Stunden, die du mithilfst, erhältst du folgende Konsumationsgutscheine als Entschädigung: 
+Je nach Anzahl Stunden, die du mithilfst, erhältst du folgende Konsumationsgutscheine als Entschädigung:
 
-\- 4.0 h (mini Schicht) - Konsumationsgutschein Fr. 15.00 
+\- 4.0 h (mini Schicht) - Konsumationsgutschein Fr. 15.00
 
-\- 6.5 h (eine Schicht) - Konsumationsgutschein Fr. 25.00 
+\- 6.5 h (eine Schicht) - Konsumationsgutschein Fr. 25.00
 
-\- 13.0 h (zwei Schichten) - Konsumationsgutschein Fr. 45.00 
+\- 13.0 h (zwei Schichten) - Konsumationsgutschein Fr. 45.00
 
 \- 19.5 h (drei oder mehr Schichten) – Konsumationsgutschein Fr. 70.00 (im Wert eines 3-Tages Ticket)
 
 <br />
 
-Auf-/Abbauschichten zählen als doppelte Schichten. Alle, die sich beim Abbau beteiligen, können die Gutscheine im Voraus, während dem Kulti beim Helfendenpoint abholen. Sollten die Konsumations-Gutscheine nicht ausgeschöpft werden, wird der Restbeitrag beim Info-Point bis Sonntag-Nachmittag ausbezahlt.
+Auf- und Abbauschichten zählen als doppelte Schichten. Alle, die sich beim Abbau beteiligen, können die Gutscheine im Voraus, während dem Kulti beim Helfendenpoint abholen. **Sollten die Konsumations-Gutscheine nicht ausgeschöpft werden, wird der Restbeitrag beim Info-Point bis Sonntag-Nachmittag ausbezahlt.**
 
 <br />
 
-Wir sind dankbar um jede und jeden, die uns dabei unterstützt, das Kulti 22 unvergesslich zu machen. Schon jetzt herzlichen Dank!
+Wir sind dankbar um alle, die uns dabei unterstützen, das Kulti 22 unvergesslich zu machen. Schon jetzt herzlichen Dank!
