@@ -63,6 +63,11 @@ tickets:
   title: Tickets – für alle ab 16 Jahren
   content: Greif zu solange sie noch heiss sind.
   item:
+  - name: 1-Tagespass (Samstag oder Sonntag)
+    icon: ''
+    content: |2-
+
+      Ab sofort sind die 1-Tagespässe für Samstag oder Sonntag erhältlich. Der Freitagspass wird für CHF 40 angeboten, der Samstagspass für CHF 50. Im Angebot enthalten sind Zutritt zu Konzerten und Ateliers, ein Frühstück (Samstag oder Sonntag) sowie der legendäre Kulti-Becher. Das Kontingent ist limitiert.
   - name: Funkä-Ticket
     icon: ti-user
     content: |-
