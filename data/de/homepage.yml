@@ -61,7 +61,8 @@ homepage_tab:
 tickets:
   enable: true
   title: Tickets – für alle ab 16 Jahren
-  content: Greif zu solange sie noch heiss sind.
+  content: Du möchtest das Kulti 22 auf keinen Fall verpassen? Dann greif zu solange
+    sie noch heiss sind!
   item:
   - name: KulturLegi
     icon: ti-money
