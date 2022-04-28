@@ -64,21 +64,21 @@ tickets:
   content: Du möchtest das Kulti 22 auf keinen Fall verpassen? Dann greif zu solange
     sie noch heiss sind!
   item:
-  - name: KulturLegi
-    icon: ti-money
-    content: Mit der KulturLegi kommst du günstiger ans Kulti 22! Die Stiftung Pro
-      Jungwacht Blauring übernimmt nach dem Ticketkauf 70% deiner Kulti-Ticketkosten,
-      gegen Vorweisen deiner KulturLegi. Details zum Vorgehen findest du auf jubla.ch/mitglieder/verband/stiftung/kulturlegi/
-  - name: 1-Tagespass (Samstag oder Sonntag)
-    icon: ti-user
-    content: |2-
-
-      Ab sofort sind die 1-Tagespässe für Samstag oder Sonntag erhältlich. Der Freitagspass wird für CHF 40 angeboten, der Samstagspass für CHF 50. Im Angebot enthalten sind Zutritt zu Konzerten und Ateliers, ein Frühstück (Samstag oder Sonntag) sowie der legendäre Kulti-Becher. Das Kontingent ist limitiert.
   - name: Funkä-Ticket
     icon: ti-user
     content: 'Das «Funkä-Ticket» (regulärer 3-Tages-Pass) wird für CHF 67 angeboten.
       Im Ticketpreis enthalten sind: Zutritt zu allen Konzerten und Ateliers, ein  legendärer
       Kulti-Becher sowie 2x Frühstück (Samstag und Sonntag) auf dem Kulti-Gelände.'
+  - name: 1-Tagespass (Samstag oder Sonntag)
+    icon: ti-user
+    content: |2-
+
+      Ab sofort sind die 1-Tagespässe für Samstag oder Sonntag erhältlich. Der Freitagspass wird für CHF 40 angeboten, der Samstagspass für CHF 50. Im Angebot enthalten sind Zutritt zu Konzerten und Ateliers, ein Frühstück (Samstag oder Sonntag) sowie der legendäre Kulti-Becher. Das Kontingent ist limitiert.
+  - name: KulturLegi
+    icon: ti-money
+    content: Mit der KulturLegi kommst du günstiger ans Kulti 22! Die Stiftung Pro
+      Jungwacht Blauring übernimmt nach dem Ticketkauf 70% deiner Kulti-Ticketkosten,
+      gegen Vorweisen deiner KulturLegi. Details zum Vorgehen findest du auf jubla.ch/mitglieder/verband/stiftung/kulturlegi/
   - name: Brandbeschleuniger-Ticket
     icon: ti-money
     content: Wer das Kulti zusätzlich finanziell unterstützen möchte, kann neben dem
