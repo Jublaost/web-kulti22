@@ -1,5 +1,4 @@
 +++
-draft = true
 image = "/images/uploads/act_ankundigung_dachs.jpg"
 link = "https://www.dachsmusic.ch/"
 title = "Dachs"
