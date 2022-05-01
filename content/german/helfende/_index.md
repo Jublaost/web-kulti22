@@ -24,40 +24,6 @@ und unsere ewige Dankbarkeit!
 <br />
 
 ***
-
-**Ressortbeschriebe**
-
-**WC-Crew**: Ihr seid als Gruppe dafür zuständig, die WCs zu kontrollieren: Hat es noch genügend WC-Papier? Funktionieren die WCs? Gibt es Verschmutzungen oder Beschädigungen? **Wichtig**: Die WCs werden von einer externen Firma geputzt.  
-<br />
-
-**Putzfee** **oder -elf**: Wir sind ehrlich: Der Job ist hart, aber alle werden dich lieben! Du bist dafür zuständig, Verschmutzungen (z.B. eine schlammverschmierte Blache oder eine Getränkepfütze) aufzuputzen. Die Ausrüstung dafür stellen wir zur Verfügung.
-
-<br />
-
-**Trash Heroes (Abfallheld*innen)**: Alle freuen sich über ein sauberes Gelände. Dafür bist du zuständig: fätzeln, recyclen und entsorgen. Das Positive: Du musst nicht viel überlegen und kannst in einer witzigen Gruppe arbeiten.
-
-<br />
-
-**Infrastruktur**: Vor allem für den Aufbau (ab 19.8.) und den Abbau (ab 29.8.) suchen wir noch Leute! Du bist zuständig für: Errichtung, Instandhaltung und Abbau diverser Jubla-Bauten, Blachen knüpfen oder Deko aufhängen.
-
-<br />
-
-**Küchenteam Aufbauwochenende**: Fürs Aufbauwochenende suchen wir ein Team von ca. 3 Leuten, welches die Aufbaucrew am Mittag und am Abend bekocht. Wir rechnen mit je ca. 50-70 Personen.
-
-<br />
-
-**Betreuung Ateliers:** Du betreust oder leitest ein Atelier (z.B Spike Ball, Henna-Tattoo, Bändeliknüpfen etc.), aber musst kein Material organisieren.
-
-<br />
-
-**Aufbau Atelier (Kurzeinsatz):** Du holst das vorbereitete Material beim Infopoint und baust das Atelier auf.
-
-<br />
-
-**Speaker*in**: Redest du gerne und magst es, im Mittelpunkt zu stehen? Dann bist du der / die Richtige für diesen Job! Du stehst auf der Bühne und moderierst die Bands an.
-
-***
-
   
 Je nach Anzahl Stunden, die du mithilfst, erhältst du folgende Konsumationsgutscheine als Entschädigung:
 
