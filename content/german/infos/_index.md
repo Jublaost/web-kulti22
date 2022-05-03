@@ -23,7 +23,7 @@ Es gilt das **Mindestalter von 16 Jahren,** das mit Ausweiskontrollen beim Einla
 
 ##### **Helfende**
 
-Du bist am nächsten Kulti als Helfer*in dabei? Grossartig! Aus administrativen Gründen musst auch du ein Ticket kaufen und dich im [Helfendentool](https://www.kulti22.ch/helfende "Helfendentool") eintragen. Nach deiner Schicht-Abrechnung wird dir der entsprechende Betrag zurückerstattet.
+Du bist am nächsten Kulti als Helfer*in dabei? Grossartig! Aus administrativen Gründen musst auch du ein Ticket kaufen und dich im [Helfendentool](https://www.kulti22.ch/helfende "Helfendentool") eintragen. Direkt nach deinem Einsatz erhältst du Konsumationsgutscheine. Alle Details dazu findest du [hier](www.kulti22.ch/helfende)
 
 <br />
 
