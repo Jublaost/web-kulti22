@@ -8,4 +8,4 @@ title = "Šuma Čovjek"
 
 Auch auf der neuen Platte bleibt der Sound von Šuma Čovjek mit ihren liebevoll inszenierten Songs, die von melancholischen Balladen bis hin zu rhythmischem Balkan-Pop reichen, unverkennbar. Sprachlich darf man sich erneut auf akrobatische Sprachsprünge zwischen Französisch, Kroatisch und Arabisch freuen.
 
-Wir sind begeistert, dass die Band wieder mit frischem Sound am Start ist und schon bald mit uns den Funken überspringen lässt! Wir versprechen nicht zu viel, wenn wir sagen: Das wird ein Fest!
+Wir sind begeistert, dass die Band wieder mit frischem Sound am Start ist und schon bald mit uns den Funken überspringen lässt! Wir versprechen nicht zu viel, wenn wir sagen: Das wird ein Fest! 
