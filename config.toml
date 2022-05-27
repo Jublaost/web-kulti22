@@ -120,6 +120,12 @@ weight = 2
 parent = "Infos"
 
 [[Languages.de.menu.main]]
+name = "Ticketinfo"
+URL = "tickets"
+weight = 2
+parent = "Infos"
+
+[[Languages.de.menu.main]]
 name = "Helfende"
 URL = "helfende"
 weight = 3
