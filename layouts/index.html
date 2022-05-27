@@ -47,28 +47,45 @@
     {{ $image := resources.GetMatch .image }}
     {{ partial "image.html" (dict "Image" $image "Alt" "video background image" "Class" "img-fluid banner-img") }}
   </div>
-</section>
-<!-- start of videoModal -->
-{{ if .video.enable }}
-<div class="modal fade rounded" id="videoModal" tabindex="-1" role="dialog" aria-hidden="true">
-  <div class="modal-dialog modal-dialog-centered border-0" role="document">
-    <div class="modal-content">
-      <div class="modal-body p-0 bg-transparent">
-        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span
-            aria-hidden="true">&times;</span></button>
-        <div class="embed-responsive embed-responsive-16by9">
-          <iframe class="embed-responsive-item" src="" id="showVideo" allowscriptaccess="always"
-            allow="autoplay"></iframe>
+  <!-- start of videoModal -->
+  {{ if .video.enable }}
+  <div class="modal fade rounded" id="videoModal" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered border-0" role="document">
+      <div class="modal-content">
+        <div class="modal-body p-0 bg-transparent">
+          <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span
+              aria-hidden="true">&times;</span></button>
+          <div class="embed-responsive embed-responsive-16by9">
+            <iframe class="embed-responsive-item" src="" id="showVideo" allowscriptaccess="always"
+              allow="autoplay"></iframe>
+          </div>
         </div>
       </div>
     </div>
   </div>
-</div>
-{{ end }}
-<!-- end of videoModal -->
-{{ end }}
-{{ end }}
-<!-- end of Banner -->
+  {{ end }}
+  <!-- end of videoModal -->
+  {{ end }}
+  {{ end }}
+  <!-- end of Banner -->
+  <!-- sponsors -->
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <div class="brand-carousel">
+          {{ range (where .Site.RegularPages "Section" "sponsors") }}
+          <a target="_blank" href="{{ .Params.link }}">
+            <div class="brand-item d-flex align-items-center justify-content-center">
+              {{ $image := resources.GetMatch .Params.image }}
+              {{ partial "image.html" (dict "Image" $image "Alt" "img" "Class" "img-fluid") }}
+            </div>
+          </a>
+          {{ end }}
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
 
 <section class="section-padding">
   <div class="container">

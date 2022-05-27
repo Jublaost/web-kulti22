@@ -3057,7 +3057,8 @@ footer {
       transform: scale(2); }
 
 /* SideScroll Fix */
-html, body {
+html,
+body {
   overflow-x: hidden; }
 
 body {
@@ -3138,3 +3139,6 @@ form {
   font-style: italic;
   color: #696969;
   padding-left: 1em; }
+
+.brand-item {
+  height: 9em; }

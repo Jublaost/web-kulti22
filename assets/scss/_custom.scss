@@ -1,17 +1,22 @@
 /* SideScroll Fix */
-html, body {
+html,
+body {
     overflow-x: hidden;
 }
+
 body {
     position: relative;
 }
+
 .footer-logo {
     max-width: 10em;
 }
+
 .footer-jubla-logo {
     max-width: 10em;
     padding: 1.2rem;
 }
+
 .sticky {
     position: fixed !important;
     top: 0;
@@ -30,41 +35,50 @@ body {
     width: 100px;
     transition: 0.5s;
 }
+
 .hide {
     display: none;
 }
+
 form {
     font-family: $font-text;
 }
+
 .btn {
     font-family: $font-text;
     font-weight: bold;
 }
+
 .eventfrog-button {
     background-color: white !important;
     color: black;
     border: 0.094rem solid $color-primary;
 }
+
 .eventfrog-button:hover {
     background-color: whitesmoke;
 }
+
 .ok-img {
     width: 80%;
 }
+
 .bands-container {
     border-left: 1em solid $color-primary;
+
     a {
         font-size: 3em;
         font-family: $font-headings;
         color: $color-primary;
     }
+
     a:hover {
         color: $color-secondary;
     }
 }
 
 .banner-img {
-    max-height: 30vh; 
+    max-height: 30vh;
     object-fit: cover;
 }
 
@@ -76,6 +90,7 @@ form {
 .shifttopbrnd {
     display: none !important;
 }
+
 .content ul {
     font-family: $font-text;
 }
@@ -91,4 +106,8 @@ form {
     font-style: italic;
     color: #696969;
     padding-left: 1em;
+}
+
+.brand-item {
+    height: 9em;
 }
