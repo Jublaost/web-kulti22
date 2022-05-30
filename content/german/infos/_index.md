@@ -31,52 +31,6 @@ Du bist am nächsten Kulti als Helfer*in dabei? Grossartig! Aus administrativen 
 
 Du hast deine aktive Zeit als Jubla-Leiter*in schon hinter dir und zählst dich zu den Ehemaligen? Auch du bist herzlich willkommen, mit uns im nächsten August den Funken tanzen zu lassen, denn auch du hast ein Dankeschön für dein (vergangenes) Engagement in der Jubla verdient!
 
-<br />
-
-##### **Ticketverkauf**
-
-Aktuell im Angebot:
-
-<br />
-
-[**Funkä-Ticket (3-Tages-Pass) für CHF 67.- statt CHF 75.-**](https://eventfrog.ch/de/p/festivals/weitere-festivals/lieder-und-kulturfest-2022-6833845387129228352.html "Funkä-Ticket")
-
-<br />
-
-Im Ticketpreis enthalten sind:
-
-\- 3-Tagespass Konzerte und Ateliers
-
-\- 2x Frühstück (Samstag und Sonntag)
-
-\- Kulti-Becher
-
-<br />
-
-**1-Tagespässe (Freitag oder Samstag) für CHF 40.- / 50.-**
-
-<br />
-
-Im Ticketpreis enthalten sind:
-
-\- 1-Tagespass Konzerte und Ateliers
-
-\- 1x Frühstück (Samstag oder Sonntag)
-
-\- Kulti-Becher
-
-<br />
-
-In den Ticketpreis **nicht** enthalten sind:
-
-Anfahrt, Parkplätze, Caravancamping, Verpflegung von den Essenständen und Bars
-
-<br />
-
-Sobald das Kulti näher rückt, schalten wir auf die Spotzünder-Tickets für die regulären Abendkasse-Preise (CHF 75.- / 45.- / um. [Hol dir dein Ticket](https://eventfrog.ch/de/p/festivals/weitere-festivals/lieder-und-kulturfest-2022-6833845387129228352.html "Hol dir dein Ticket") also besser früher als später.
-
-<br />
-
 ***
 
 [**Brandbeschleuniger-Ticket für CHF 20.-**](https://eventfrog.ch/de/p/festivals/weitere-festivals/lieder-und-kulturfest-2022-6833845387129228352.html "Brandbeschleuniger-Ticket")
@@ -108,11 +62,3 @@ Du reist lieber noch gemütlicher mit dem **Caravan, Büssli, Wohnmobil, oder so
 Du hast eine KulturLegi? Dann übernimmt die Stiftung Pro Jungwacht Blauring 70 % deiner Ticket-Kosten! Wie das Ganze funktioniert, erklären wir dir auf [jubla.ch](https://www.jubla.ch/mitglieder/verband/stiftung/kulturlegi/ "jubla.ch").
 
 ***
-
-**Bereits ausverkauft sind:**
-
-\- Gruppenangebot Sparflammä für CHF 52.- pro Stk ab 10 Tickets
-
-\- Early-Funkä-Ticket für CHF 62.-
-
-<br />
