@@ -31,34 +31,30 @@ Du bist am nächsten Kulti als Helfer*in dabei? Grossartig! Aus administrativen 
 
 Du hast deine aktive Zeit als Jubla-Leiter*in schon hinter dir und zählst dich zu den Ehemaligen? Auch du bist herzlich willkommen, mit uns im nächsten August den Funken tanzen zu lassen, denn auch du hast ein Dankeschön für dein (vergangenes) Engagement in der Jubla verdient!
 
-***
+<br />
 
-[**Brandbeschleuniger-Ticket für CHF 20.-**](https://eventfrog.ch/de/p/festivals/weitere-festivals/lieder-und-kulturfest-2022-6833845387129228352.html "Brandbeschleuniger-Ticket")
+##### **Brandbeschleuniger-Ticket**
 
 Wer das Kulti finanziell unterstützen möchte, kann zusätzlich unseren Brandbeschleuniger für CHF 20 als frewilligen Zustupf in die Kulti-Kasse kaufen. Als Dankeschön erhältst du eine Überraschung, die du am Kulti einlösen kannst. Wir freuen uns über deine Unterstützung.
 
 <br />
 
-***
-
-[**Parkplatz-Tickets**](https://eventfrog.ch/de/p/festivals/weitere-festivals/lieder-und-kulturfest-2022-6833845387129228352.html "Parkplatz-Tickets")
+##### **Parkplatz-Tickets**
 
 Wenn du vorhast, mit dem Auto ans Kulti 22 zu reisen, stehen dir folgende Möglichkeiten zur Verfügung:
 
 <br />
 
-Anreise mit dem **PW**: Das Gelände verfügt über eine Parkplatzanlage. Möchtest du einen dieser Parkplätze benutzen, kannst du schon jetzt via Eventfrog das **Parkplatz-Ticket für CHF 20** kaufen. Natürlich kannst du das Ticket auch vor Ort bei deiner Ankunft kaufen. Das Ticket ist gültig für alle 3 Tage.
+Anreise mit dem **PW**: Das Gelände verfügt über eine Parkplatzanlage. Möchtest du einen dieser Parkplätze benutzen, musst du ein Ticket kaufen. Das kannst du schon jetzt via Eventfrog das **Parkplatz-Ticket für CHF 20** tun. Natürlich kannst du das Ticket auch vor Ort bei deiner Ankunft kaufen. Das Ticket ist gültig für alle 3 Tage.
 
 <br />
 
-Du reist lieber noch gemütlicher mit dem **Caravan, Büssli, Wohnmobil, oder sonstigem grösseren Gefährt** an? Dann kannst du auch unseren Caravan-Parkplatz  nutzen. Deine Vorteile: Du geniesst eine perfekte Lage, wenige Meter zum Geländeeingang und hast den gewünschten Komfort. Dafür benötigst du ein spezielles **Caravan-Parking-Ticket**, das du ebenfalls schon jetzt via Eventfrog **für CHF 35** kaufen kannst. Das Ticket ist gültig für alle 3 Tage. Die Caravan-Plätze sind begrenzt.
+##### **Caravan-Parkplatz**
+
+Du reist lieber noch gemütlicher mit dem **Caravan, Büssli, Wohnmobil, oder sonstigem grösseren Gefährt** an? Dann kannst du unseren Caravan-Parkplatz  nutzen. Deine Vorteile: Du geniesst eine perfekte Lage, wenige Meter zum Geländeeingang und hast den gewünschten Komfort. Dafür benötigst du ein spezielles **Caravan-Parking-Ticket**, das du ebenfalls schon jetzt via Eventfrog **für CHF 35** kaufen kannst. Das Ticket ist gültig für alle 3 Tage. Die Caravan-Plätze sind begrenzt.
 
 <br />
-
-***
 
 ##### **KulturLegi – 70 % günstiger ans Kulti**
 
 Du hast eine KulturLegi? Dann übernimmt die Stiftung Pro Jungwacht Blauring 70 % deiner Ticket-Kosten! Wie das Ganze funktioniert, erklären wir dir auf [jubla.ch](https://www.jubla.ch/mitglieder/verband/stiftung/kulturlegi/ "jubla.ch").
-
-***
