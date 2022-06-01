@@ -73,7 +73,7 @@
     <div class="row">
       <div class="col-md-12">
         <div class="brand-carousel">
-          {{ range (where .Site.RegularPages "Section" "sponsors") }}
+          {{ range sort (where .Site.RegularPages "Section" "sponsors") "Params.priority" }}
           <a target="_blank" href="{{ .Params.link }}">
             <div class="brand-item d-flex align-items-center justify-content-center">
               {{ $image := resources.GetMatch .Params.image }}
