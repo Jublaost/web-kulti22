@@ -14,7 +14,7 @@ banner:
     button_label: Newsletter
 eventfrog_button:
   icon: images/eventfrog.png
-  label: Jetzt Tickets kaufen
+  label: TICKETS VORERST AUSVERKAUFT
   link: https://eventfrog.ch/de/p/festivals/weitere-festivals/lieder-und-kulturfest-2022-6833845387129228352.html
 homepage_tab:
   enable: true
