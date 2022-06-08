@@ -15,7 +15,7 @@ Das Kulti 22 findet auf der Allmend in Altstätten SG statt.
 
 <br />
 
-Unser Camping-Platz ist direkt neben dem Festivalgelände und dein Platz darauf bereits im Ticketpreis inbegriffen. Aufgrund der grossen Ticket-Nachfrage bitten wir dich, dein Zelt mit möglichst vielen Lebensfreund*innen zu teilen und auf Pavillons etc. zu verzichten.
+Unser Camping ist direkt neben dem Festivalgelände und dein Plätzchen darauf bereits im Ticketpreis inbegriffen. Aufgrund der grossen Ticket-Nachfrage bitten wir dich, dein Zelt mit möglichst vielen Lebensfreund*innen zu teilen und auf Pavillons etc. zu verzichten.
 
 <br />
 
