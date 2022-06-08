@@ -83,13 +83,6 @@ tickets:
     content: 'Mit der KulturLegi kommst du günstiger ans Kulti 22! Die Stiftung Pro
       Jungwacht Blauring übernimmt nach dem Ticketkauf 70% deiner Kulti-Ticketkosten,
       gegen Vorweisen deiner KulturLegi. Details zum Vorgehen findest du auf jubla.ch/mitglieder/verband/stiftung/kulturlegi/ '
-  - name: Brandbeschleuniger-Ticket
-    icon: ti-money
-    content: Wer das Kulti zusätzlich finanziell unterstützen möchte, kann neben dem
-      regulären Ticket das «Brandbeschleuniger-Ticket» für CHF 20 kaufen. Dieses Ticket
-      ist ein freiwilliger Zustupf in die Kulti-Kasse und kein Eintrittsticket. Als
-      Dankeschön erhältst du eine Überraschung, die du am Kulti einlösen kannst. Wir
-      freuen uns über deine Unterstützung!
   - name: Parkplatz-Ticket
     icon: ti-car
     content: 'Anreise mit dem PKW: Das Gelände verfügt über eine Parkplatzanlage.
