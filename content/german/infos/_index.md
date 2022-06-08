@@ -7,11 +7,15 @@ description: Infos | Kulti 22 «Dä Funkä tanzt!» | Jungwacht Blauring Schweiz
 
 <br />
 
-##### **Gelände**
+##### **Gelände / Camping**
 
 Das Kulti 22 findet auf der Allmend in Altstätten SG statt.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4390.093620648018!2d9.549329429221917!3d47.364728723407794!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x479b179aeb06e26f%3A0xd477487af2a0cf3a!2sAllmend%20Rheintal!5e0!3m2!1sde!2sch!4v1636120669188!5m2!1sde!2sch" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+
+<br />
+
+Unser Camping-Platz ist direkt neben dem Festivalgelände und dein Platz darauf bereits im Ticketpreis inbegriffen. Aufgrund der grossen Ticket-Nachfrage bitten wir dich, dein Zelt mit möglichst vielen Lebensfreund*innen zu teilen und auf Pavillons etc. zu verzichten.
 
 <br />
 
@@ -30,12 +34,6 @@ Du bist am nächsten Kulti als Helfer*in dabei? Grossartig! Aus administrativen 
 ##### **Ehemalige**
 
 Du hast deine aktive Zeit als Jubla-Leiter*in schon hinter dir und zählst dich zu den Ehemaligen? Auch du bist herzlich willkommen, mit uns im nächsten August den Funken tanzen zu lassen, denn auch du hast ein Dankeschön für dein (vergangenes) Engagement in der Jubla verdient!
-
-<br />
-
-##### **Brandbeschleuniger-Ticket**
-
-Wer das Kulti finanziell unterstützen möchte, kann zusätzlich unseren Brandbeschleuniger für CHF 20 als frewilligen Zustupf in die Kulti-Kasse kaufen. Als Dankeschön erhältst du eine Überraschung, die du am Kulti einlösen kannst. Wir freuen uns über deine Unterstützung.
 
 <br />
 
