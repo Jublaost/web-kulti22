@@ -1,9 +1,9 @@
 ---
-title: Ellas
-image: "/images/uploads/Act_Ellas_22.png"
-link: https://ellas.ch/
+title: Soft Loft
+image: ''
+link: https://www.orangepeel-agency.ch/soft-loft
 
 ---
-Ellas aus Brugg verzaubert mit melancholischem Indie Pop, der die Herzen höher schlagen und die Tanzbeine schwingen lässt. Mal zart und lieblich, mal markant und eindringlich besingen sie das Leben und die Liebe. Mal ein Mix aus Synthie-Elementen, subtilen Drums und einem tragendem Bass, der wie gemacht ist um uns am Kulti 22 in Tanzlaune zu versetzen.
+Soft Loft ist das musikalische Portrait der 25-jährigen Jorina Stamm, die alltägliche Melancholie in nahbare, sprachliche Bilder übersetzt -und daraus Songs wie einen musikalischen Safe Space kreiert. Gleichzeitig ist Soft Loft eine Band. Eine Gruppe von Menschen aus der Kleinstadt, welche sich Zeit gelassen, im Frühjahr 2022 ihre klangliche Identität gefunden hat -und aus dem Cocoon von vorangehenden Projekten geschlüpft ist. Diese Band trägt den uniquen Soft-Loft-Vibe und die Songs des für 2023 angekündeten Debutalbumsbereits diese Jahr auf die Bühnen. Als Beweis dafür, wie viel Fun Melancholie machen kann, wenn mensch sie zu-und sich darauf einlässt. Musik, geschrieben für eine Welt, die mehr davon braucht. 
 
 Wir können es kaum erwarten!
