@@ -11,6 +11,16 @@
       </div>
     </div>
 
+    <div class="row">
+      <div class="col">
+        {{ range .Params.downloads }}
+        <a target="_blank" href="{{ .link }}"><button class="btn btn-primary">{{ .name }}</button></a>
+        {{ end }}
+      </div>
+    </div>
+
+    <br />
+
     <div class="row accordion-container">
       {{ range $i, $e:= (where .Site.RegularPages "Section" "info-abc") }}
       {{ if ne .Params.draft true }}
