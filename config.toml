@@ -126,6 +126,12 @@ weight = 2
 parent = "Infos"
 
 [[Languages.de.menu.main]]
+name = "Info ABC"
+URL = "info-abc"
+weight = 3
+parent = "Infos"
+
+[[Languages.de.menu.main]]
 name = "Helfende"
 URL = "helfende"
 weight = 3
