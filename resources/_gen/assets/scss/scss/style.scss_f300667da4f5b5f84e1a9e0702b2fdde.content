@@ -3178,3 +3178,6 @@ form {
 
 .brand-item {
   height: 9em !important; }
+
+.download-buttons .btn {
+  margin: 1rem; }
