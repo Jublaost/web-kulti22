@@ -27,7 +27,7 @@
       {{ if .Params.title }}
 
       <button class="accordion">
-        {{ .Params.title }}
+        {{ .Params.title }} - {{ range .Params.tags }}{{ . }} {{ end }}
       </button>
 
       <div class="panel">
