@@ -10,6 +10,11 @@ sections:
 - type: document
   path: content/german/infos/_index.md
   label: Info
+- type: directory
+  path: content/german/info-abc
+  label: Info ABC
+  create: all
+  match: "**/*"
 - type: document
   path: content/german/helfende/_index.md
   label: Helfende
