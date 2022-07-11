@@ -1,0 +1,43 @@
+{{ define "main" }}
+{{ $data := index .Site.Data .Site.Language.Lang }}
+
+<!-- start of band-section -->
+<section class="section-padding pb-40">
+  <div class="container">
+
+    <div class="row justify-content-center">
+      <div class="text-center mb-40">
+        <p>{{.Content}}</p>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="col download-buttons">
+        {{ range .Params.downloads }}
+        <a target="_blank" href="{{ .link }}"><button class="btn btn-primary">{{ .name }}</button></a>
+        {{ end }}
+      </div>
+    </div>
+
+    <br />
+
+    <div class="row accordion-container">
+      {{ range $i, $e:= (where .Site.RegularPages "Section" "info-abc") }}
+      {{ if ne .Params.draft true }}
+      {{ if .Params.title }}
+
+      <button class="accordion">
+        {{ .Params.title }} - {{ range .Params.tags }}{{ . }} {{ end }}
+      </button>
+
+      <div class="panel">
+        <div class="panel-content">{{ .Content }}</div>
+      </div>
+
+      {{ end }}
+      {{ end }}
+      {{ end }}
+    </div>
+  </div>
+</section>
+{{ end }}

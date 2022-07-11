@@ -1,0 +1,46 @@
+/* Style the buttons that are used to open and close the accordion panel */
+.accordion-container {
+    font-family: $font-text;
+
+    .accordion {
+        cursor: pointer;
+        padding: 1rem;
+        width: 100%;
+        text-align: left;
+        font-weight: 800;
+        border: none;
+        outline: none;
+        transition: 0.4s;
+        margin: .5rem;
+        border-radius: 5px;
+    }
+
+    .active,
+    .accordion:hover {
+        background-color: rgba(240, 113, 0, 0.5);
+    }
+
+    .panel {
+        overflow: hidden;
+        max-height: 0;
+        transition: max-height 0.3s ease-out;
+
+        .panel-content {
+            padding: 2rem;
+        }
+    }
+
+    .accordion:after {
+        content: '\02795';
+        /* Unicode character for "plus" sign (+) */
+        font-size: 15px;
+        color: $color-secondary;
+        float: right;
+        margin-left: 10px;
+    }
+
+    .active:after {
+        content: "\2796";
+        /* Unicode character for "minus" sign (-) */
+    }
+}
