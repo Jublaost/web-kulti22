@@ -21,7 +21,7 @@ Gibt’s nicht. Nimm eine Powerbank mit oder sprich doch einfach mal wieder mit 
 Das Kulti 22 ist ein Gemeinschaftsprojekt und vereint die Ideen, das Wissen und die Erfahrung von
 unzähligen, motivierten Menschen. Es wäre uns eine riesige Freude, wenn du eine/r davon bist.
 
-[Ich will helfen](/helfende)!
+[Ich will helfen!](kulti22.ch/helfende)
 
 ## Hygiene
 
