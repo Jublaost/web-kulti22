@@ -15,7 +15,7 @@ Ganz nach dem Jubla Grundsatz «Natur erleben» wollen wir unseren Fussabdruck m
 * Ausschliesslich Mehrweggeschirr
 * Material wird gemietet und ausgeliehen statt gekauft
 
-  <br/>
+<br/>
 
 Folgendes verhalten erwarten wir von euch Besuchenden:
 
