@@ -4,4 +4,4 @@ description: Info ABC | Kulti 22 «Dä Funkä tanzt!» | Jungwacht Blauring Schw
 downloads: []
 
 ---
-Hier findest du die aktuellsten Informationen zum Kulti sortiert nach dem Alphabet.
+Hier findest du alle Informationen zum Kulti 22.
