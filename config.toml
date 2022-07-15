@@ -125,31 +125,37 @@ URL = "helfende"
 weight = 3
 
 [[Languages.de.menu.main]]
-name = "Acts"
-URL = "acts"
+name = "Programm"
+hasChildren = true
 weight = 4
 
 [[Languages.de.menu.main]]
+name = "Acts"
+URL = "acts"
+parent = "Programm"
+weight = 1
+
+[[Languages.de.menu.main]]
 hasChildren = true
-name = "Projekt"
+name = "Über uns"
 weight = 5
 
 [[Languages.de.menu.main]]
 name = "Übersicht"
 URL = "projekt"
-parent = "Projekt"
+parent = "Über uns"
 weight = 1
 
 [[Languages.de.menu.main]]
 name = "Unterstützen"
 URL = "unterstuetzen"
-parent = "Projekt"
+parent = "Über uns"
 weight = 2
 
 [[Languages.de.menu.main]]
 name = "Kontakt"
 URL = "kontakt"
-parent = "Projekt"
+parent = "Über uns"
 weight = 3
 
 [[Languages.de.menu.main]]
