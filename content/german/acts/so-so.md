@@ -2,7 +2,7 @@
 draft = true
 image = ""
 link = ""
-title = "Šuma Čovjek"
+title = "So & so"
 
 +++
-asfd
+dfghjk
