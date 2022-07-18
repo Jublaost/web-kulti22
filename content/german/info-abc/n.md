@@ -1,20 +1,19 @@
 ---
-title: "N"
+title: N
 description: Infos mit N
 tags:
 - Nachhaltigkeit
 - Nachtruhe
 
 ---
-
 ## Nachhaltigkeit
 
-Ganz nach dem Jubla Grundsatz «Natur erleben» wollen wir unseren Fussabdruck möglichst tief halten. Folgende Massnahmen haben wir von der Organisation unternommen:
+Ganz nach dem Jubla-Grundsatz «Natur erleben» wollen wir unseren Fussabdruck möglichst tief halten. Folgende Massnahmen haben wir von der Organisation unternommen:
 
 <br/>
 
 * Ausschliesslich Mehrweggeschirr
-* Material wird gemietet und ausgeliehen statt gekauft
+* Möglichst viel Material wird gemietet und ausgeliehen statt gekauft
 
 <br/>
 
@@ -25,6 +24,8 @@ Folgendes verhalten erwarten wir von euch Besuchenden:
 * Abfall bitte in die entsprechenden Behälter entsorgen
 * Bitte nehmt eure Campingausrüstung wieder mit nach Hause. In einem Gruppenzelt schläft es sich viel besser als im Wegwerfzelt.
 * Reist wenn immer möglich mit dem öffentlichen Verkehr an
+
+<br />
 
 ## Nachtruhe
 
