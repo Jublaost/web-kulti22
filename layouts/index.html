@@ -5,7 +5,7 @@
 {{ if $data.homepage.banner.enable }}
 {{ with $data.homepage.banner }}
 <!-- start of banner -->
-<section class="banner bg-cover-bottom has-shapes bg-light-gray has-bg-brash bg-brash-bottom"
+<section class="banner bg-cover-bottom bg-light-gray has-bg-brash bg-brash-bottom"
   style="background-image: url('{{`images/brushes/banner.svg` | absURL }}')">
   <div class="container h-100" style="text-align: center;">
     <div class="d-block d-lg-flex no-gutters align-items-center h-100">
@@ -23,14 +23,6 @@
       </div>
     </div>
   </div>
-
-  <div class="shape-1 shape-sm bg-yellow rounded-circle"></div>
-  <div class="shape-3 shape-sm-2 bg-orange rounded-circle"></div>
-  <div class="shape-4 shape-sm-2 bg-orange rounded-circle"></div>
-  <div class="shape-5 shape-xs bg-yellow rounded-circle"></div>
-  <div class="shape-6 shape-xs bg-cyan rounded-circle"></div>
-  <div class="shape-7 shape-xs-2 bg-cyan rounded-circle"></div>
-  <div class="shape-8 shape-xs-2 bg-orange rounded-circle"></div>
 
   <div class="section-padding has-video-popup has-shapes mb-4 mb-md-5 mb-lg-0">
     {{ if .video.enable }}
