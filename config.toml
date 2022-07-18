@@ -108,8 +108,8 @@ name = "Infos"
 weight = 2
 
 [[Languages.de.menu.main]]
-name = "Wichtiges"
-URL = "infos"
+name = "Info ABC"
+URL = "info-abc"
 weight = 1
 parent = "Infos"
 
@@ -120,49 +120,48 @@ weight = 2
 parent = "Infos"
 
 [[Languages.de.menu.main]]
-name = "Ticketinfo"
-URL = "tickets"
-weight = 2
-parent = "Infos"
-
-[[Languages.de.menu.main]]
-name = "Info ABC"
-URL = "info-abc"
-weight = 3
-parent = "Infos"
-
-[[Languages.de.menu.main]]
 name = "Helfende"
 URL = "helfende"
 weight = 3
 
 [[Languages.de.menu.main]]
-name = "Acts"
-URL = "acts"
+name = "Programm"
+hasChildren = true
 weight = 4
 
 [[Languages.de.menu.main]]
+name = "Acts"
+URL = "acts"
+parent = "Programm"
+weight = 1
+
+[[Languages.de.menu.main]]
 hasChildren = true
-name = "Projekt"
+name = "Über uns"
 weight = 5
 
 [[Languages.de.menu.main]]
 name = "Übersicht"
 URL = "projekt"
-parent = "Projekt"
+parent = "Über uns"
 weight = 1
 
 [[Languages.de.menu.main]]
 name = "Unterstützen"
 URL = "unterstuetzen"
-parent = "Projekt"
+parent = "Über uns"
 weight = 2
 
 [[Languages.de.menu.main]]
 name = "Kontakt"
 URL = "kontakt"
-parent = "Projekt"
+parent = "Über uns"
 weight = 3
+
+[[Languages.de.menu.main]]
+name = "Tickets"
+URL = "tickets"
+weight = 5
 
 
 # Footer menu
