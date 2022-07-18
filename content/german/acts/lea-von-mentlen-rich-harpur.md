@@ -1,5 +1,5 @@
 +++
-image = "/images/uploads/4.png"
+image = ""
 link = ""
 title = "Lea von Mentlen & Rich Harpur"
 
