@@ -27,12 +27,7 @@
       {{ if .Params.title }}
 
       <button class="accordion">
-        {{ .Params.title }} wie
-        {{ $list := .Params.tags }}
-        {{ $len := (len $list) }}
-        {{ range $index, $element := $list }}
-        {{ . }}{{ if ne (add $index 1) $len }}, {{ end }}
-        {{ end }}
+        {{ .Params.title }} - {{ range .Params.tags }}{{ . }} {{ end }}
       </button>
 
       <div class="panel">

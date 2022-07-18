@@ -1,12 +1,11 @@
 ---
-title: "N"
+title: N
 description: Infos mit N
 tags:
 - Nachhaltigkeit
 - Nachtruhe
 
 ---
-
 ## Nachhaltigkeit
 
 Ganz nach dem Jubla Grundsatz «Natur erleben» wollen wir unseren Fussabdruck möglichst tief halten. Folgende Massnahmen haben wir von der Organisation unternommen:
