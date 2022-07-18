@@ -1,5 +1,5 @@
 ---
-title: N
+title: "N"
 description: Infos mit N
 tags:
 - Nachhaltigkeit
