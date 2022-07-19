@@ -2,6 +2,7 @@
 title: M
 description: Infos mit M
 tags:
+- Merchandise
 - Musik
 
 ---
