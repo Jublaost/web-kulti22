@@ -1,6 +1,5 @@
 +++
-draft = true
-image = ""
+image = "/images/uploads/naomi_lareine_post.jpg"
 link = "https://www.naomilareine.com/"
 title = "Naomi Lareine"
 
