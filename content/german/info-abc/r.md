@@ -10,7 +10,7 @@ tags:
 ---
 ## Rauchen
 
-Solange sich in der Zigarette nur Tabak befindet, darf grundsätzlich auf dem ganzen Gelände geraucht werden. Nichtraucher-Bereiche sind entsprechend gekennzeichnet. Wir bitten euch, Zigarettenstummel nicht auf den Boden zu werfen. Mobile Aschenbecher sind beim Infopoint erhältlich.
+Solange sich in der Zigarette nur Tabak befindet, darf unter freiem Himmel grundsätzlich geraucht werden. Nichtraucher-Bereiche (also alle Zelte und Bauten) sind entsprechend gekennzeichnet. Wir bitten euch, Zigarettenstummel nicht auf den Boden zu werfen. Mobile Aschenbecher sind beim Infopoint erhältlich.
 
 <br />
 
