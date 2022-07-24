@@ -1,6 +1,6 @@
 +++
 image = "/images/uploads/4.png"
 link = "https://www.instagram.com/lea.vonmentlen/"
-title = "Lea von Mentlen & Rich Harpur"
+title = "Rich & Lea"
 
 +++
