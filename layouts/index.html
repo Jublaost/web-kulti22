@@ -62,76 +62,6 @@
   <!-- end of Banner -->
 </section>
 
-<section class="section-padding">
-  <div class="container">
-    <div class="row justify-content-center">
-      <div class="col-lg-6 col-md-9 text-center mb-40">
-        <h2 class="section-title">Acts</h2>
-        <p>Das Line-Up fürs Kulti 22 nimmt Form an! Wir sind stolz, lokalen und aufstrebenden Schweizer Musikschaffenden
-          die Bühne bieten zu dürfen. Das wird ein Fest!</p>
-        <p>Schon bald dürfen wir weitere kleinere Künstler*innen bekanntgeben.</p>
-      </div>
-      <div class="bands-container col-lg-6 col-md-9 mb-40">
-
-        {{ range $i, $e:= (where .Site.RegularPages "Section" "acts") }}
-        {{ if ne .Params.draft true }}
-        {{ if .Params.title }}
-        <a class="nav-link {{if eq $i 0}}active{{end}}" id="band-{{.Params.title| urlize}}" href="{{ .Permalink }}">
-          <p class="circle-shape"></i>{{ .Params.title }}
-        </a>
-        {{ end }}
-        {{ end }}
-        {{ end }}
-
-      </div>
-    </div>
-    <iframe style="border-radius:9px"
-      src="https://open.spotify.com/embed/playlist/7dSIbpFab9sjTPTDRAJbOx?utm_source=generator" width="100%"
-      height="380" frameBorder="0" allowfullscreen=""
-      allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
-  </div>
-</section>
-
-
-<section class="section-padding pt-100 horizontal-accordion bg-light-gray has-shapes has-bg-brash bg-brash-y"
-  style="background-image: url('{{`images/brushes/section-top.svg` | absURL}}'), url('{{`images/brushes/section-bottom.svg` | absURL}}');">
-  <div class="container">
-    <div class="row justify-content-center">
-      <div class="col-lg-6 col-md-9 text-center mb-40">
-        <h2 class="section-title">Neues aus unserem Instagram Feed</h2>
-      </div>
-    </div>
-    <div data-name="onstipe" class="wbctA" style="width:100%;height:100%;overflow:hidden;">
-      <script defer src="https://onstipe.com/web/js/webembed.js" type="text/javascript"></script>
-      <div class="wbctB" data-val="gpq63"></div>
-    </div>
-  </div>
-
-
-  <div class="row" style="text-align: center;">
-    <div class="col">
-      {{ $link := "news" }}
-      <a href="{{ $link | absURL }}">
-        <button type="submit" class="btn btn-primary has-icon ml-15">Zu allen News
-          <span class="icon"><svg width="32" height="32" viewBox="0 0 32 32" fill="none"
-              xmlns="http://www.w3.org/2000/svg">
-              <path
-                d="M12.5522 6.66669L20.5522 14.6667C21.0329 15.1473 21.0699 15.9036 20.6632 16.4267L20.5522 16.5523L12.5522 24.5523L10.6666 22.6667L17.7228 15.6095L10.6666 8.55231L12.5522 6.66669Z"
-                fill="currentColor" />
-            </svg></span>
-        </button>
-      </a>
-    </div>
-  </div>
-  <div class="shape-1 shape-sm bg-secondary rounded-circle d-none d-sm-block"></div>
-  <div class="shape-2 shape-sm bg-primary rounded-circle d-none d-sm-block"></div>
-  <div class="shape-3 shape-sm bg-tertiary rounded-circle d-none d-sm-block"></div>
-  <div class="shape-4 shape-sm bg-secondary rounded-circle d-none d-sm-block"></div>
-  <div class="shape-5 shape-xs bg-primary rounded-circle d-none d-sm-block"></div>
-  <div class="shape-6 shape-xs-2 bg-tertiary rounded-circle d-none d-sm-block"></div>
-</section>
-
-
 <!-- start of how-it-works tab -->
 {{ if $data.homepage.homepage_tab.enable }}
 {{ with $data.homepage.homepage_tab }}
@@ -192,5 +122,42 @@
 {{ end }}
 {{ end }}
 <!-- end of how-it-works tab -->
+
+<section class="section-padding pt-100 horizontal-accordion bg-light-gray has-shapes has-bg-brash bg-brash-y"
+  style="background-image: url('{{`images/brushes/section-top.svg` | absURL}}'), url('{{`images/brushes/section-bottom.svg` | absURL}}');">
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-lg-6 col-md-9 text-center mb-40">
+        <h2 class="section-title">Neues aus unserem Instagram Feed</h2>
+      </div>
+    </div>
+    <div data-name="onstipe" class="wbctA" style="width:100%;height:100%;overflow:hidden;">
+      <script defer src="https://onstipe.com/web/js/webembed.js" type="text/javascript"></script>
+      <div class="wbctB" data-val="gpq63"></div>
+    </div>
+  </div>
+
+  <div class="row" style="text-align: center;">
+    <div class="col">
+      {{ $link := "news" }}
+      <a href="{{ $link | absURL }}">
+        <button type="submit" class="btn btn-primary has-icon ml-15">Zu allen News
+          <span class="icon"><svg width="32" height="32" viewBox="0 0 32 32" fill="none"
+              xmlns="http://www.w3.org/2000/svg">
+              <path
+                d="M12.5522 6.66669L20.5522 14.6667C21.0329 15.1473 21.0699 15.9036 20.6632 16.4267L20.5522 16.5523L12.5522 24.5523L10.6666 22.6667L17.7228 15.6095L10.6666 8.55231L12.5522 6.66669Z"
+                fill="currentColor" />
+            </svg></span>
+        </button>
+      </a>
+    </div>
+  </div>
+  <div class="shape-1 shape-sm bg-secondary rounded-circle d-none d-sm-block"></div>
+  <div class="shape-2 shape-sm bg-primary rounded-circle d-none d-sm-block"></div>
+  <div class="shape-3 shape-sm bg-tertiary rounded-circle d-none d-sm-block"></div>
+  <div class="shape-4 shape-sm bg-secondary rounded-circle d-none d-sm-block"></div>
+  <div class="shape-5 shape-xs bg-primary rounded-circle d-none d-sm-block"></div>
+  <div class="shape-6 shape-xs-2 bg-tertiary rounded-circle d-none d-sm-block"></div>
+</section>
 
 {{ end }}

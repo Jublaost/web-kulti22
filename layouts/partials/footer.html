@@ -1,6 +1,6 @@
 {{ $data := index .Site.Data .Site.Language.Lang }}
 
-{{ if or .IsHome (eq .Title "Acts") }}
+{{ if (eq .Title "Acts") }}
 <!-- start footer -->
 <footer>
   {{ else }}
