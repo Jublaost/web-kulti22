@@ -47,7 +47,7 @@ Bitte reist wenn möglich mit dem Zug ans Kulti. Unterwegs trefft ihr sicher sch
 
 <br />
 
-Damit sich möglichst viele von euch für den ökologischen öV entscheiden, sponsern die [Stiftung pro jungwacht blauring](https://www.jubla.ch/ueber-die-jubla/unterstuetzende/stiftung) und das Kulti **30 % Rabatt auf euer öV-Ticket**. Dazu gibt es bei [SBB RailAway](https://www.sbb.ch/de/freizeit-ferien/ideen/angebot.html/veranstaltungen/lieder-und-kulturfest) einen Rabattcode, mit dem ihr unabhängig vom Abfahrtsort vergünstigte Tickets für die An- und Rückreise kaufen könnt. Alle Ticketkäuferi*innen erhalten den Promo-Code einige Tage vor dem Kulti per E-Mail. Die vergünstigten Tickets sind limitiert, schnell sein lohnt sich also!
+Damit sich möglichst viele von euch für den ökologischen öV entscheiden, sponsern die [Stiftung pro jungwacht blauring](https://www.jubla.ch/ueber-die-jubla/unterstuetzende/stiftung) und das Kulti **30 % Rabatt auf euer öV-Ticket**. Dazu gibt es bei [SBB RailAway](https://www.sbb.ch/de/freizeit-ferien/ideen/angebot.html/veranstaltungen/lieder-und-kulturfest) einen Rabattcode, mit dem ihr unabhängig vom Abfahrtsort vergünstigte Tickets für die An- und Rückreise kaufen könnt. Alle Ticketkäufer*innen erhalten den Promo-Code einige Tage vor dem Kulti per E-Mail. Die vergünstigten Tickets sind limitiert, schnell sein lohnt sich also!
 
 <br />
 
