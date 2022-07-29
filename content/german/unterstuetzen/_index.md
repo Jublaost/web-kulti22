@@ -3,7 +3,7 @@ title: Unterstützen
 description: Unterstützen | Kulti 22 «Dä Funkä tanzt!» | Jungwacht Blauring Schweiz
 
 ---
-
+# Wir danken unseren Sponsoren:
 
 # Ein Dankeschön, das nachwirkt.
 
