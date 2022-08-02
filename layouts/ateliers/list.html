@@ -1,0 +1,35 @@
+{{ define "main" }}
+{{ $data := index .Site.Data .Site.Language.Lang }}
+
+<!-- start of band-section -->
+<section class="section-padding pb-40" data-aos="fade-in" data-aos-delay="150">
+  <div class="container">
+
+    <div class="row justify-content-center">
+      <div class="col-lg-6 col-md-9 text-center mb-40">
+        <h2 class="section-title">{{.Title}}</h2>
+        <p>{{.Content}}</p>
+      </div>
+    </div>
+    <div class="has-colored-text row justify-content-center">
+
+      {{ range $i, $e:= (where .Site.RegularPages "Section" "ateliers") }}
+      {{ if ne .Params.draft true }}
+      {{ if .Params.title }}
+      <div class="col-md-5 col-sm-6 mb-30">
+        <div class="bg-grey shadow rounded p-30">
+          <div class="d-flex justify-content-between mb-2 mb-lg-3">
+            <h3 class="mb-2 mb-lg-4 font-weight-600">{{ .Title | markdownify }}</h3>
+          </div>
+          <div class="accordion-panel">
+            <p>{{ .Content | markdownify }}</p>
+          </div>
+        </div>
+      </div>
+      {{ end }}
+      {{ end }}
+      {{ end }}
+    </div>
+  </div>
+</section>
+{{ end }}
