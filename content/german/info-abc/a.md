@@ -67,4 +67,4 @@ Achtung: Übernachten im Auto ist nur auf dem speziellen Caravan-Camping gestatt
 
 ## Ateliers
 
-Am Kulti könnt ihr eurer Kreativität, eurem Glück und musikalischen Können sowie eurer sportlichen Ausdauer bei diversen Ateliers freien Lauf lassen. Unsere Ateliers – auch AtelYeahs genannt – sind verschiedene Posten und Werkstätten, alles ganz unverbindlich und ohne Anmeldung. Eine Auflistung aller AtelYeahs findet ihr bald auf unserer Homepage. Sie finden am Samstagvormittag statt, ab Beginn des Bühnenprogramms werden die Ateliers geschlossen.
+Am Kulti könnt ihr eure Zeit bei diversen Ateliers verbringen. Ateliers – auch AtelYeahs genannt – sind verschiedene Posten und Werkstätte, an denen ihr euch kreativ, musikalisch, spassig bis hin zu sportlich betätigen könnt, alles ganz unverbindlich und ohne Anmeldung. Eine Auflistung aller AtelYeahs findet ihr bald auf unserer Homepage. Die Ateliers finden am Samstagvormittag statt, ab Beginn des Bühnenprogramms werden die Ateliers geschlossen.
