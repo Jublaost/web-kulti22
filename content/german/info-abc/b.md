@@ -7,6 +7,7 @@ tags:
 - Bezahlen
 - Bilderrecht und Datenschutz
 - Bühnen
+- Brandbeschleuniger
 
 ---
 ## Bändeltausch
@@ -37,7 +38,7 @@ Am Kulti werden Fotos und Videoaufnahmen gemacht. Mit dem Ticketkauf stimmst du 
 
 <br />
 
-## Brandbeschleuniger
+## "Brandbeschleuniger"
 
 Ein dickes Dankeschön an alle Supporter, die mit dem Kauf eines Brandbeschleuniger-Ticket einen Zustupf ins Kulti-Kässeli finanziert haben! Die versprochene Überraschung übergeben wir dir gerne am Infopoint beim Eingang. Bitte melde dich mit deinem Brandbeschleuniger-Ticket und einer ID dort, bevor du aufs Gelände gehst.
 
