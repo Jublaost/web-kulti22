@@ -4,7 +4,10 @@
 <!-- start of band-section -->
 <section class="section-padding pb-40">
     <div class="container">
-        <div class="row">
+        <div class="row justify-content-center">
+            <h2>{{ .Params.sponsoren_subtitle }}</h2>
+        </div>
+        <div class="row p-50">
             <div class="col-md-12">
                 <div class="brand-carousel">
                     {{ range sort (where .Site.RegularPages "Section" "sponsors") "Params.priority" }}
