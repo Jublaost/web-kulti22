@@ -24,6 +24,12 @@
           <div class="accordion-panel">
             <p>{{ .Content | markdownify }}</p>
           </div>
+          <br>
+          <div class="time">
+            <strong>
+              <p>{{ time.Format "Monday, Jan 2, 2006" .Params.time }}</p>
+            </strong>
+          </div>
         </div>
       </div>
       {{ end }}
