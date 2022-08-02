@@ -2,9 +2,9 @@
 title: C
 description: Infos mit C
 tags:
-- Caravan/Büssli/Camper
 - Camping
 - Corona
+- Caravan-Camping
 
 ---
 ## Caravan, Büssli, Camper etc.
