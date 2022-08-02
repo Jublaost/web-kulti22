@@ -8,7 +8,7 @@ tags:
 ---
 ## Merchandise
 
-Am Kulti hast du die Möglichkeit Merchandise deiner Lieblingsband zu kaufen. Falls dir also gefällt, was du auf der Bühne hörst, hast du am besten noch ein bisschen Bargeld bereit. (Die Bezahlung läuft direkt über die Acts und deshalb ist Twint nicht garantiert.) Der Merchandise-Stand befindet sich neben der Hauptbühne.
+Am Kulti hast du die Möglichkeit Merchandise deiner Lieblingsband zu kaufen. Falls dir also gefällt, was du auf der Bühne hörst, hast du am besten noch ein bisschen Bargeld bereit. (Die Bezahlung läuft direkt über die Acts und deshalb ist Twint nicht garantiert). Der Merchandise-Stand befindet sich neben der Hauptbühne.
 
 ## Musik
 
