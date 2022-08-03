@@ -5,7 +5,7 @@
 <section class="section-padding pb-40">
     <div class="container">
         <div class="row justify-content-center">
-            <div class="col-lg-6 col-md-9 text-center mb-40">
+            <div class="col-lg-6 col-md-9 mb-40">
                 <h2 class="section-title">{{.Title}}</h2>
                 <p>{{.Content}}</p>
             </div>
@@ -34,16 +34,16 @@
                     <select class="form-control shadow-none" id="stimme" name="stimme" required>
                         <option selected disabled>-- Bitte wählen --</option>
                         <optgroup label="13:00 - 14:00">
-                            <option value="Feld01;13:00-14:00">Feld 01 - 13:00 - 14:00</option>
-                            <option value="Feld02;13:00-14:00">Feld 02 - 13:00 - 14:00</option>
+                            <option id="slot01field01" value="Feld01;13:00-14:00">Feld 01</option>
+                            <option id="slot01field02" value="Feld02;13:00-14:00">Feld 02</option>
                         </optgroup>
                         <optgroup label="14:00 - 15:00">
-                            <option value="Feld01;14:00-15:00">Feld 01 - 14:00 - 15:00</option>
-                            <option value="Feld02;14:00-15:00">Feld 02 - 14:00 - 15:00</option>
+                            <option id="slot02field01" value="Feld01;14:00-15:00">Feld 01</option>
+                            <option id="slot02field02" value="Feld02;14:00-15:00">Feld 02</option>
                         </optgroup>
                         <optgroup label="15:00 - 16:00">
-                            <option value="Feld01;15:00-16:00">Feld 01 - 15:00 - 16:00</option>
-                            <option value="Feld02;15:00-16:00">Feld 02 - 15:00 - 16:00</option>
+                            <option id="slot03field01" value="Feld01;15:00-16:00">Feld 01</option>
+                            <option id="slot03field02" value="Feld02;15:00-16:00">Feld 02</option>
                         </optgroup>
                     </select>
                 </div>
@@ -67,4 +67,8 @@
         </div>
     </div>
 </section>
+
+{{ $script := resources.Get "js/games.js" | minify}}
+<script src="{{ $script.Permalink }}"></script>
+
 {{ end }}
