@@ -210,8 +210,6 @@ function onLicenseCheck(show) {
 let gamesform = document.getElementById("games-form");
 if (gamesform) {
   gamesform.onsubmit = (event) => {
-    console.log(event)
-
     // prevent multibple actions
     gamesform.getElementsByTagName("button")[0].disabled = true;
 
@@ -238,7 +236,6 @@ if (gamesform) {
           method: 'post',
           body: JSON.stringify(payload)
         }).then(resp => {
-          console.log(resp)
           if (!resp.ok) {
             console.error(resp);
             if (resp.status == 400) {
