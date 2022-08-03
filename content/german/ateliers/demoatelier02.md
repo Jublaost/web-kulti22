@@ -1,6 +1,6 @@
 ---
-title: Demo Atelier 02
-time: 2022-08-16T20:57:00+00:00
+title: Siebdruck
+time: 2022-08-27T07:30:00+00:00
 
 ---
-Irgend en andere Text
+Drucke Jubla- und Kultimotive mit den Herren von EINFACH.SIEBDRUCK im Siebdruckverfahren auf deine mitgebrachten Textilien - ob Turnsäckli, Jutebeutel, Unterhose, T-Shirt oder Lagerpulli.
