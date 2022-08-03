@@ -14,3 +14,11 @@ fields:
     date_format: DD. MM. YYYY
     time_format: hh:mm
     display_utc: false
+- name: location
+  type: text
+  config:
+    required: false
+  label: Ort
+pages:
+- content/german/ateliers/fackel-sucht-feuer.md
+- content/german/ateliers/henna-tattoostudio.md
