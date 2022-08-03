@@ -8,9 +8,10 @@ function scrollFunction() {
   }
 }
 
-var successMessage = document.getElementById("success-message");
-var errorMessage = document.getElementById("error-message");
-var recaptchaMessage = document.getElementById("recaptcha-message");
+let recaptchaMessage = document.getElementById("recaptcha-message");
+let successMessage = document.getElementById("success-message");
+let retryMessage = document.getElementById("retry-message");
+let errorMessage = document.getElementById("error-message");
 
 var contactForm = document.getElementById("contact-form");
 if (contactForm) {
@@ -203,5 +204,57 @@ function onLicenseCheck(show) {
     document.getElementById("driver-license-category-div").classList.remove("hide");
   } else {
     document.getElementById("driver-license-category-div").classList.add("hide");
+  }
+}
+
+let gamesform = document.getElementById("games-form");
+if (gamesform) {
+  gamesform.onsubmit = (event) => {
+    console.log(event)
+
+    // prevent multibple actions
+    gamesform.getElementsByTagName("button")[0].disabled = true;
+
+    event.preventDefault(); // Don't let the browser submit the form.
+    var payload = {};
+
+    // Build JSON key-value pairs using the form fields.
+    gamesform.querySelectorAll("#name").forEach(field => {
+      payload["name"] = field.value;
+    });
+
+    gamesform.querySelectorAll("#email").forEach(field => {
+      payload["id"] = field.value;
+    });
+
+    gamesform.querySelectorAll("select").forEach(field => {
+      payload["field"] = field.value;
+    });
+
+    grecaptcha.ready(() => {
+      grecaptcha.execute('6Lfxl0UhAAAAALta4E67FQteHjIhflSmQtU9uLRU', { action: 'submit' }).then((token) => {
+        payload['g-recaptcha-response'] = token;
+        fetch("https://kulti22.azurewebsites.net/api/JoinGame", {
+          method: 'post',
+          body: JSON.stringify(payload)
+        }).then(resp => {
+          console.log(resp)
+          if (!resp.ok) {
+            console.error(resp);
+            if (resp.status == 400) {
+              retryMessage.style.display = "block";
+              gamesform.style.display = "none";
+            } else {
+              errorMessage.style.display = "block";
+              gamesform.style.display = "none";
+            }
+            return;
+          }
+          // Display success message.
+          successMessage.style.display = "block";
+          gamesform.style.display = "none";
+        });
+      });
+    });
   }
 }
