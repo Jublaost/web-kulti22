@@ -29,6 +29,7 @@ fields:
     required: false
   label: Ort
 pages:
+- content/german/ateliers/da-funka-tanzt.md
 - content/german/ateliers/fackel-sucht-feuer.md
 - content/german/ateliers/henna-tattoostudio.md
 - content/german/ateliers/looping-louie-on-fire.md
