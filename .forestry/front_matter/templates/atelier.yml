@@ -14,6 +14,15 @@ fields:
     date_format: DD. MM. YYYY
     time_format: hh:mm
     display_utc: false
+- name: endtime
+  type: datetime
+  label: Endzeit
+  description: ''
+  config:
+    required: false
+    date_format: DD. MM. YYYY
+    time_format: hh:mm
+    display_utc: false
 - name: location
   type: text
   config:
@@ -22,3 +31,4 @@ fields:
 pages:
 - content/german/ateliers/fackel-sucht-feuer.md
 - content/german/ateliers/henna-tattoostudio.md
+- content/german/ateliers/spielecke.md
