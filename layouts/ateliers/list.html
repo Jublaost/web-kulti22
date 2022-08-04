@@ -25,11 +25,20 @@
             <p>{{ .Content | markdownify }}</p>
           </div>
           <br>
+          {{if .Params.time }}
           <div class="time">
             <strong>
-              <p>{{ time.Format "Monday - 15:04" .Params.time }}</p>
+              <p>{{ time.Format "Monday 15:04" .Params.time }}{{if .Params.endtime }} - {{
+                time.Format "15:04"
+                .Params.endtime }}{{end}}</p>
             </strong>
           </div>
+          {{end}}
+          {{if .Params.location }}
+          <div class="location">
+            <p>{{ .Params.location }}</p>
+          </div>
+          {{end}}
         </div>
       </div>
       {{ end }}
