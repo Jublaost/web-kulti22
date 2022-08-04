@@ -17,7 +17,7 @@
       {{ if ne .Params.draft true }}
       {{ if .Params.title }}
       <div class="col-md-5 col-sm-6 mb-30">
-        <div class="bg-grey shadow rounded p-30">
+        <div class="bg-primary shadow rounded p-30">
           <div class="d-flex justify-content-between mb-2 mb-lg-3">
             <h3 class="mb-2 mb-lg-4 font-weight-600">{{ .Title | markdownify }}</h3>
           </div>
@@ -28,7 +28,7 @@
           {{if .Params.time }}
           <div class="time">
             <strong>
-              <p>{{ time.Format "Monday 15:04" .Params.time }}{{if .Params.endtime }} - {{
+              <p>Wann: {{ time.Format "Monday 15:04" .Params.time }}{{if .Params.endtime }} - {{
                 time.Format "15:04"
                 .Params.endtime }}{{end}}</p>
             </strong>
@@ -36,7 +36,9 @@
           {{end}}
           {{if .Params.location }}
           <div class="location">
-            <p>{{ .Params.location }}</p>
+            <strong>
+              <p>Wo: {{ .Params.location }}</p>
+            </strong>
           </div>
           {{end}}
         </div>
