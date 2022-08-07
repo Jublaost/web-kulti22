@@ -15,11 +15,6 @@ sections:
   label: Info ABC
   create: all
   match: "**/*"
-- type: directory
-  path: content/german/sponsors
-  label: Sponsors
-  create: all
-  match: "**/*"
 - type: document
   path: content/german/ateliers/_index.md
   label: Atelier Seite
@@ -56,6 +51,13 @@ sections:
 - type: document
   path: content/german/unterstuetzen/_index.md
   label: Unterstützen
+- type: directory
+  path: content/german/sponsors
+  label: Sponsors
+  create: all
+  match: "**/*"
+  templates:
+  - sponsor
 - type: document
   path: content/german/kontakt/_index.md
   label: Kontakt
