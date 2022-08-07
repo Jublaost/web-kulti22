@@ -15,6 +15,7 @@ fields:
   name: priority
   label: priority
 pages:
+- content/german/sponsors/bistum-st.gallen.md
 - content/german/sponsors/katholische-kirche-im-kanton-zurich.md
 - content/german/sponsors/migros-kulturprozent.md
 - content/german/sponsors/romisch-katholische-landeskirche-des-kantons-luzern.md
