@@ -1,7 +1,7 @@
 +++
-endtime = ""
-location = ""
-time = ""
+endtime = 2022-08-27T12:00:00Z
+location = "Kultigelände"
+time = 2022-08-27T07:30:00Z
 title = "Looping Louie on Fire"
 
 +++
