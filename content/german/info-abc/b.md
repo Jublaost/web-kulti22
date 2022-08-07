@@ -22,7 +22,7 @@ Am Samstag befindet sich der Bändeltausch am Infopoint direkt beim Eingang zum 
 
 ## Barrierefreiheit
 
-Das Festivalgelände ist grösstenteils auf einem Kies- und Asphaltplatz. Es gibt eine rollstuhlgängige Toilette. Falls ihr konkrete Fragen habt, dürft ihr uns gerne [dürft ihr uns gerne kontaktieren](https://www.kulti22.ch/kontakt).
+Das Festivalgelände ist grösstenteils auf einem Kies- und Asphaltplatz. Es gibt eine rollstuhlgängige Toilette. Falls ihr konkrete Fragen habt, [dürft ihr uns gerne kontaktieren](https://www.kulti22.ch/kontakt).
 
 <br />
 
