@@ -15,5 +15,6 @@ fields:
   name: priority
   label: priority
 pages:
+- content/german/sponsors/katholische-kirche-im-kanton-zurich.md
 - content/german/sponsors/migros-kulturprozent.md
 - content/german/sponsors/zelthangar.md
