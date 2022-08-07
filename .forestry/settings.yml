@@ -15,6 +15,11 @@ sections:
   label: Info ABC
   create: all
   match: "**/*"
+- type: directory
+  path: content/german/sponsors
+  label: Sponsors
+  create: all
+  match: "**/*"
 - type: document
   path: content/german/ateliers/_index.md
   label: Atelier Seite
