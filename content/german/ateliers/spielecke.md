@@ -7,10 +7,12 @@ title = "Spielecke"
 +++
 Lasst uns gemeinsam spielen! Hier erwarten dich die geliebten, altbekannten Gesellschaftsspiele. Auch eine Aussenkiste für Spiele für draussen steht zur Verfügung.
 
-Zeiten:
+<br/ >
 
-Fr. 17:00 - 23:00
+**Zeiten:**
 
-Sa 09:00 - 23:00
+**Fr. 17:00 - 23:00**
 
-So 09:00 - 15:00
+**Sa 09:00 - 23:00**
+
+**So 09:00 - 15:00**
