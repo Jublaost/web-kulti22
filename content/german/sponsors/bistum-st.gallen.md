@@ -1,7 +1,7 @@
 +++
 image = "/images/uploads/logo_bistum_sg.jpeg"
 link = ""
-priority = nil
+priority = 11
 title = "Bistum St. Gallen"
 
 +++
