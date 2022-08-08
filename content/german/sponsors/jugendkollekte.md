@@ -1,6 +1,6 @@
 +++
 image = "/images/uploads/logo_jugendkollekte.png"
-link = ""
+link = "https://jugendkollekte.ch/"
 priority = 13
 title = "Jugendkollekte"
 
