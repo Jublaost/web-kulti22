@@ -1,8 +1,10 @@
 +++
-endtime = 2022-08-27T12:30:00Z
+endtime = ""
 location = "Marktzelt"
-time = 2022-08-27T07:30:00Z
+time = ""
 title = "Kafistube"
 
 +++
 Was ein Kaffee nicht alles zu erzählen hat.
+
+**Wann: Samstag 27. August, 9:30-14:30 Uhr**
