@@ -1,8 +1,10 @@
 +++
-endtime = 2022-08-26T12:30:00Z
+endtime = ""
 location = "Marktzelt"
-time = 2022-08-27T07:30:00Z
+time = ""
 title = "Pimp my Kulti-Becher"
 
 +++
-Lass deiner Kreativität freien Lauf und pimpe deinen Kulti-Becher nach deinem Geschmack.
+Lass deiner Kreativität freien Lauf und pimpe deinen Kulti-Becher nach deinem Geschmack.   
+
+**Wann: Samstag 27. August, 9:30-14:30 Uhr**
