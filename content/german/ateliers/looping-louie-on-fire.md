@@ -1,8 +1,10 @@
 +++
-endtime = 2022-08-27T12:00:00Z
+endtime = ""
 location = "Kultigelände"
-time = 2022-08-27T07:30:00Z
+time = ""
 title = "Looping Louie on Fire"
 
 +++
 Unser Looping Louie geriet leider in einen Feuersturm. Spiel mit deinen Freund*innen unsere Louie on Fire – in Lebensgrösse!
+
+**Wann: Samstag 27. August, 9:30-14:30 Uhr**
