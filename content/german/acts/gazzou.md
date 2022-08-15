@@ -1,5 +1,4 @@
 +++
-draft = true
 image = "/images/uploads/mini-acts.png"
 link = ""
 title = "Gazzou"
