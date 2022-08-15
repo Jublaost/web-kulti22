@@ -1,13 +1,11 @@
 +++
-endtime = 2022-08-28T13:00:00Z
+endtime = ""
 location = "Kultigelände"
-time = 2022-08-26T15:00:00Z
+time = ""
 title = "Pingpong Rundbrand"
 
 +++
 Im klassischen Ping Pong Rundlauf kannst du dein Können mit der Feuerkugel unter Beweis stellen.
-
-<br/ >
 
 **Zeiten:**
 
