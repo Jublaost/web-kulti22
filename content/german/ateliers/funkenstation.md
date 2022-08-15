@@ -1,8 +1,10 @@
 +++
-endtime = 2022-08-27T12:30:00Z
+endtime = ""
 location = "Tipi"
-time = 2022-08-27T07:30:00Z
+time = ""
 title = "Funkenstation"
 
 +++
 Eine kleine Oase abseits des Festivaltrubels, die zum Verweilen einlädt.
+
+**Wann: Samstag 27. August, 9:30-14:30 Uhr**
