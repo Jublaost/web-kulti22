@@ -1,6 +1,6 @@
 +++
 endtime = ""
-location = ""
+location = "Kultigelände"
 time = 2022-08-25T22:00:00Z
 title = "Fackel sucht Feuer"
 
