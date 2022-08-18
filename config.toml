@@ -142,6 +142,18 @@ parent = "Programm"
 weight = 2
 
 [[Languages.de.menu.main]]
+name = "Geländespiel"
+URL = "gelaendegame"
+parent = "Programm"
+weight = 3
+
+[[Languages.de.menu.main]]
+name = "Spikeball Turnier"
+URL = "spikeball"
+parent = "Programm"
+weight = 4
+
+[[Languages.de.menu.main]]
 hasChildren = true
 name = "Über uns"
 weight = 5
