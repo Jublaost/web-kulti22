@@ -23,24 +23,12 @@
           </div>
           <div class="accordion-panel">
             <p>{{ .Content | markdownify }}</p>
-          </div>
-          <br>
-          {{if .Params.time }}
-          <div class="time">
-            <strong>
-              <p>Wann: {{ time.Format "Monday 15:04" .Params.time }}{{if .Params.endtime }} - {{
-                time.Format "15:04"
-                .Params.endtime }}{{end}}</p>
-            </strong>
-          </div>
-          {{end}}
-          {{if .Params.location }}
-          <div class="location">
+            {{if .Params.location }}
             <strong>
               <p>Wo: {{ .Params.location }}</p>
             </strong>
+            {{end}}
           </div>
-          {{end}}
         </div>
       </div>
       {{ end }}
