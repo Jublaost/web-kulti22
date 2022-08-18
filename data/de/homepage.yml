@@ -63,34 +63,39 @@ homepage_tab:
 info_tab:
   enable: true
   title: Wichtigste Infos
-  content: Hier findest du direkt die wichtigsten Infos. Für mehr besuche unser Info-ABC
+  content: Hier findest du direkt die wichtigsten Infos. Für mehr besuche unser Info-ABC.
   tablist:
   - name: Anreise
     title: Anreise
-    image: .
+    image: "."
     map:
-      enable: true 
+      enable: true
     content: |
       ### Mit dem Zug
-      Bitte reist wenn möglich mit dem Zug ans Kulti. Unterwegs trefft ihr sicher schon viele Jubla-Gspänli und seid erst noch ökologischer unterwegs. Der nächste Bahnhof ist Altstätten SG, von da aus ist es noch ein Katzensprung (1.1 km) bis zum Kulti-Gelände. Vom Bahnhof erreicht ihr das Kulti also mit einem kurzen Spaziergang, Busse gibt es auf der Strecke keine. Der Weg ist ausgeschildert und zu Fuss gut machbar.
+      Bitte reist wenn möglich mit dem Zug ans Kulti. Unterwegs trefft ihr sicher schon viele Jubla-Gspänli und seid erst noch ökologischer unterwegs. Der nächste Bahnhof ist Altstätten SG, von da aus ist es noch ein Katzensprung (1.1 km) bis zum Kulti-Gelände. Vom Bahnhof erreicht ihr das Kulti also mit einem kurzen Spaziergang, Busse gibt es auf der Strecke keine. Der Weg ist ausgeschildert und gut zu Fuss machbar.
       <br />
       ### Mit dem Auto
       Falls ihr trotzdem mit dem Auto anreisen wollt, müsst ihr bei der Ausfahrt Kriessern die A13 verlassen. Kurz vor Altstätten werdet ihr einen Wegweiser zum Kulti finden. Ein Parkplatz kostet CHF 20.- für das ganze Wochenende. Bitte kauft euer Parkplatz-Ticket wenn möglich schon im Vorfeld über Eventfrog.
     button:
       enable: false
-      label: .
-      link: .
-  
+      label: "."
+      link: "."
   - name: SBB-Aktion
     title: SBB-Aktion
     image: images/use/zug.jpg
-    content: |
-      Damit sich möglichst viele von euch für den ökologischen öV entscheiden, sponsern die [Stiftung pro jungwacht blauring](https://www.jubla.ch/ueber-die-jubla/unterstuetzende/stiftung) und das Kulti **30 % Rabatt auf euer öV-Ticket**. Dazu gibt es bei [SBB RailAway](https://www.sbb.ch/de/freizeit-ferien/ideen/angebot.html/veranstaltungen/lieder-und-kulturfest) einen Rabattcode, mit dem ihr unabhängig vom Abfahrtsort vergünstigte Tickets für die An- und Rückreise kaufen könnt. Alle Ticketkäufer*innen erhalten den Promo-Code einige Tage vor dem Kulti per E-Mail. Die vergünstigten Tickets sind limitiert, schnell sein lohnt sich also!
+    content: 'Damit sich möglichst viele von euch für den ökologischen öV entscheiden,
+      sponsern die [Stiftung pro jungwacht blauring](https://www.jubla.ch/ueber-die-jubla/unterstuetzende/stiftung)
+      und das Kulti **30 % Rabatt auf euer öV-Ticket**. Dazu gibt es bei [SBB RailAway](https://www.sbb.ch/de/freizeit-ferien/ideen/angebot.html/veranstaltungen/lieder-und-kulturfest)
+      einen Rabattcode, mit dem ihr unabhängig vom Abfahrtsort vergünstigte Tickets
+      für die An- und Rückreise kaufen könnt. Alle Ticketkäufer*innen erhalten den
+      Promo-Code einige Tage vor dem Kulti per E-Mail. Die vergünstigten Tickets sind
+      limitiert, schnell sein lohnt sich also!
+
+      '
     button:
       enable: false
-      label: .
-      link: .
-  
+      label: "."
+      link: "."
   - name: Packliste
     title: Packliste
     image: images/use/packliste.jpg
@@ -119,23 +124,30 @@ info_tab:
       * Schlechte Vibes
     button:
       enable: false
-      label: .
-      link: .
-
+      label: "."
+      link: "."
   - name: Gelaendeplan
     title: Geländeplan
     image: images/use/gelaende.png
-    content: |
-      Das Kulti 22 findet auf der Allmend in Altstätten SG statt. Zeltplatz und Festivalgelände sind voneinander getrennt. Auf dem Campingplatz oder im Caravanbereich findest du einen Platz zum Schlafen. Das Festgelände ist mit allem, was es für ein tolles Festival braucht, ausgestattet: Bühnen, Bars, diverse Essensstände, Chill-Lounges, Feuerstellen, grosse und kleine Zelte, Schaukeln, Marktstände und vieles mehr, machen das Kulti-Gelände zu einem unvergesslichen Ort.
+    content: 'Das Kulti 22 findet auf der Allmend in Altstätten SG statt. Zeltplatz
+      und Festivalgelände sind voneinander getrennt. Auf dem Campingplatz oder im
+      Caravanbereich findest du einen Platz zum Schlafen. Das Festgelände ist mit
+      allem, was es für ein tolles Festival braucht, ausgestattet: Bühnen, Bars, diverse
+      Essensstände, Chill-Lounges, Feuerstellen, grosse und kleine Zelte, Schaukeln,
+      Marktstände und vieles mehr, machen das Kulti-Gelände zu einem unvergesslichen
+      Ort.
+
+      '
     button:
       enable: true
       label: Download
       link: https://kulti22.blob.core.windows.net/docs/Geländeplan_Kulti22_A4.pdf
-
   - name: Timetable
     title: Timetable
     image: images/use/timetable.jpg
-    content: Das Line-Up fürs Kulti 22 ist komplett! Wir sind stolz, lokalen, schweizweit bekannten, aber auch aufstrebenden Schweizer Musikschaffenden die Bühne bieten zu dürfen. Das wird ein Fest!
+    content: Das Line-Up fürs Kulti 22 ist komplett! Wir sind stolz, lokalen, schweizweit
+      bekannten, aber auch aufstrebenden Schweizer Musikschaffenden die Bühne bieten
+      zu dürfen. Das wird ein Fest!
     button:
       enable: true
       label: Download
