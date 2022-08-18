@@ -2,7 +2,7 @@
 endtime = ""
 location = "Tipi"
 time = ""
-title = "Funkenstation"
+title = "Funk(en)station"
 
 +++
 Eine kleine Oase abseits des Festivaltrubels, die zum Verweilen einlädt.
