@@ -10,4 +10,4 @@ downloads:
   link: https://kulti22.blob.core.windows.net/docs/Kulti 22 Regeln.pdf
   
 ---
-Hier findest du alles, was du für ein unvergessliches Kulti wissen musst. Sortiert von A bis Ö.
+Hier findest du alles, was du für ein unvergessliches Kulti wissen musst. Sortiert von A bis W.
