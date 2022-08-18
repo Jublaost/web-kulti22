@@ -101,6 +101,8 @@ info_tab:
     image: images/use/packliste.jpg
     content: |-
       ### Mitnehmen:
+      * Ticket
+      * Zelt
       * Ausweis/ID
       * benötigte Medikamente
       * Mätteli und Schlafsack
@@ -108,8 +110,6 @@ info_tab:
       * Sonnenbrille
       * Sonnencrème
       * Sonnenhut
-      * Ticket
-      * Zelt
       * Mehrweggeschirr
       * Badesachen
       * Powerbank
