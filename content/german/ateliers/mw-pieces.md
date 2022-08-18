@@ -2,7 +2,7 @@
 endtime = ""
 location = "Marktzelt"
 time = ""
-title = "MW Pieces"
+title = "Bändelknüpferei"
 
 +++
 Bastle dir oder deinen Freund*innen eine stylische Brillenkette. Hier ist Kreativsein gefragt!
