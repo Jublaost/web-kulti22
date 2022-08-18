@@ -1,6 +1,6 @@
 ---
-title: Game
-description: Infos zu den Games
+title: Geländespiel
+description: Infos zum Geländespiel
 ---
 
 Erklärung blabla

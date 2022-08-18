@@ -1,7 +1,7 @@
 {{ define "main" }}
 {{ $data := index .Site.Data .Site.Language.Lang }}
 
-<!-- start of band-section -->
+<!-- start of spikeball-section -->
 <section class="section-padding pb-40">
     <div class="container">
         <div class="row justify-content-center">
@@ -15,37 +15,30 @@
             <h2>Anmeldung</h2>
         </div>
         <div class="row justify-content-center">
-            <form class="col-8" id="games-form">
+            <form class="col-8" id="spikeball-form">
                 <div class=" form-group mb-30">
-                    <label class="text-black-200 h5 font-weight-600 mb-2" for="name">Name<strong
+                    <label class="text-black-200 h5 font-weight-600 mb-2" for="name">Teamname<strong
                             style="color: darkred;">*</strong></label>
-                    <input class="form-control shadow-none" type="text" placeholder="Chuck Norris" id="name" name="name"
-                        required>
+                    <input class="form-control shadow-none" type="text" placeholder="Sesame Street Muppet Punchers"
+                        id="name" name="name" required>
                 </div>
                 <div class=" form-group mb-30">
-                    <label class="text-black-200 h5 font-weight-600 mb-2" for="email">Email<strong
+                    <label class="text-black-200 h5 font-weight-600 mb-2" for="email">Kontakt-Email<strong
                             style="color: darkred;">*</strong></label>
                     <input class="form-control shadow-none" type="email" placeholder="chuck@norris.com" id="email"
                         name="email" required>
                 </div>
-                <div class="form-group mb-30">
-                    <label class="text-black-200 h5 font-weight-600 mb-2" for="stimmme">Spiel Slot<strong
+                <div class=" form-group mb-30">
+                    <label class="text-black-200 h5 font-weight-600 mb-2" for="player1">Spieler*in 1<strong
                             style="color: darkred;">*</strong></label>
-                    <select class="form-control shadow-none" id="stimme" name="stimme" required>
-                        <option selected disabled>-- Bitte wählen --</option>
-                        <optgroup label="13:00 - 14:00">
-                            <option id="slot01field01" value="Feld01;13:00-14:00">Feld 01</option>
-                            <option id="slot01field02" value="Feld02;13:00-14:00">Feld 02</option>
-                        </optgroup>
-                        <optgroup label="14:00 - 15:00">
-                            <option id="slot02field01" value="Feld01;14:00-15:00">Feld 01</option>
-                            <option id="slot02field02" value="Feld02;14:00-15:00">Feld 02</option>
-                        </optgroup>
-                        <optgroup label="15:00 - 16:00">
-                            <option id="slot03field01" value="Feld01;15:00-16:00">Feld 01</option>
-                            <option id="slot03field02" value="Feld02;15:00-16:00">Feld 02</option>
-                        </optgroup>
-                    </select>
+                    <input class="form-control shadow-none" type="text" placeholder="Chuck Norris" id="player1"
+                        name="player1" required>
+                </div>
+                <div class=" form-group mb-30">
+                    <label class="text-black-200 h5 font-weight-600 mb-2" for="player2">Spieler*in 2<strong
+                            style="color: darkred;">*</strong></label>
+                    <input class="form-control shadow-none" type="text" placeholder="Bruce Willis" id="player2"
+                        name="player2" required>
                 </div>
                 <button class="btn btn-primary" type="submit">Teilnehmen</button>
             </form>

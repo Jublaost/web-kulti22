@@ -207,25 +207,25 @@ function onLicenseCheck(show) {
   }
 }
 
-let gamesform = document.getElementById("games-form");
-if (gamesform) {
-  gamesform.onsubmit = (event) => {
+let glform = document.getElementById("gl-form");
+if (glform) {
+  glform.onsubmit = (event) => {
     // prevent multibple actions
-    gamesform.getElementsByTagName("button")[0].disabled = true;
+    glform.getElementsByTagName("button")[0].disabled = true;
 
     event.preventDefault(); // Don't let the browser submit the form.
     var payload = {};
 
     // Build JSON key-value pairs using the form fields.
-    gamesform.querySelectorAll("#name").forEach(field => {
+    glform.querySelectorAll("#name").forEach(field => {
       payload["name"] = field.value;
     });
 
-    gamesform.querySelectorAll("#email").forEach(field => {
+    glform.querySelectorAll("#email").forEach(field => {
       payload["id"] = field.value;
     });
 
-    gamesform.querySelectorAll("select").forEach(field => {
+    glform.querySelectorAll("select").forEach(field => {
       payload["field"] = field.value;
     });
 
@@ -240,16 +240,61 @@ if (gamesform) {
             console.error(resp);
             if (resp.status == 400) {
               retryMessage.style.display = "block";
-              gamesform.style.display = "none";
+              glform.style.display = "none";
             } else {
               errorMessage.style.display = "block";
-              gamesform.style.display = "none";
+              glform.style.display = "none";
             }
             return;
           }
           // Display success message.
           successMessage.style.display = "block";
-          gamesform.style.display = "none";
+          glform.style.display = "none";
+        });
+      });
+    });
+  }
+}
+
+let spikeform = document.getElementById("spikeball-form");
+if (spikeform) {
+  spikeform.onsubmit = (event) => {
+    // prevent multibple actions
+    spikeform.getElementsByTagName("button")[0].disabled = true;
+
+    event.preventDefault(); // Don't let the browser submit the form.
+    var payload = {};
+
+    // Build JSON key-value pairs using the form fields.
+    spikeform.querySelectorAll("input").forEach(field => {
+      payload[field.name] = field.value;
+    });
+
+    spikeform.querySelectorAll("#email").forEach(field => {
+      payload["id"] = field.value;
+    });
+
+    grecaptcha.ready(() => {
+      grecaptcha.execute('6Lfxl0UhAAAAALta4E67FQteHjIhflSmQtU9uLRU', { action: 'submit' }).then((token) => {
+        payload['g-recaptcha-response'] = token;
+        fetch("https://kulti22.azurewebsites.net/api/JoinSpikeBall", {
+          method: 'post',
+          body: JSON.stringify(payload)
+        }).then(resp => {
+          if (!resp.ok) {
+            console.error(resp);
+            if (resp.status == 400) {
+              retryMessage.style.display = "block";
+              spikeform.style.display = "none";
+            } else {
+              errorMessage.style.display = "block";
+              spikeform.style.display = "none";
+            }
+            return;
+          }
+          // Display success message.
+          successMessage.style.display = "block";
+          spikeform.style.display = "none";
         });
       });
     });
