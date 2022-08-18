@@ -1,10 +1,14 @@
 ---
 title: Geländespiel
 description: Infos zum Geländespiel
+
 ---
+# Geländegame "Drapeau"
 
-Erklärung blabla
+Du spielst zusammen mit 24 anderen Personen gegen das gegnerische Team. Die Gruppen sind je einmal Angreifer und Verteidiger. Das Ziel ist es, eine Fahne zu klauen und in die eigene Base zu bringen. Aber pass auf! Die Verteidiger können dich fangen und du verlierst sofort die Fahne. Ausgeklügete Team-Taktiken und etwas sportlicher Elan sind also gefragt.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut ornare lectus sit amet est placerat in. At tempor commodo ullamcorper a. Auctor urna nunc id cursus. Eget nunc lobortis mattis aliquam faucibus purus. Ut morbi tincidunt augue interdum velit. Molestie a iaculis at erat. Nec dui nunc mattis enim ut. Amet nulla facilisi morbi tempus iaculis. Nisi lacus sed viverra tellus in hac habitasse. Eget magna fermentum iaculis eu non.
+Schreibe dir den Termin in die Agenda und komm pünktlich und in passender Kleidung. Die Plätze sind leider begrenzt, deshalb lohnt sich eine baldige Anmeldung!
 
-Mattis pellentesque id nibh tortor id aliquet lectus. Tortor aliquam nulla facilisi cras fermentum odio eu. Convallis posuere morbi leo urna molestie at elementum. Sed tempus urna et pharetra pharetra. Vehicula ipsum a arcu cursus vitae congue mauris rhoncus. Habitant morbi tristique senectus et netus et malesuada fames ac. Vivamus at augue eget arcu dictum varius duis. Faucibus interdum posuere lorem ipsum dolor sit amet consectetur adipiscing. Gravida neque convallis a cras semper. Tortor id aliquet lectus proin nibh nisl condimentum id.
+**Wann: 3x am Samstag, jeweils 13:00, 14:00, 15:00 Uhr**
+
+**Wo: Spielwiese**

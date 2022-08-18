@@ -29,11 +29,9 @@ sections:
 - type: document
   path: content/german/gelaendegame/_index.md
   label: Geländegame
-  match: "**/*"
 - type: document
   path: content/german/spikeball/_index.md
   label: Spikeball
-  match: "**/*"
 - type: document
   path: content/german/helfende/_index.md
   label: Helfende
