@@ -5,23 +5,7 @@ description: Helfende | Kulti 22 «Dä Funkä tanzt!» | Jungwacht Blauring Sc
 ---
 # Helfenden-Anmeldung
 
-Du möchtest am Kulti 22 als Helfer*in dabei sein und Grosses bewirken? Sei dies als Auf- und Abbauhilfskraft, Barmitglied, durch Betreuung eines Ateliers oder dank deiner Mithilfe bei weiteren wichtigen Aufgaben. Wir danken dir schon jetzt für dein Engagement und freuen uns, wenn du mit uns anpackst!
-
-<br />
-
-Deine Vorteile?
-
-\- Konsumationsgutscheine
-
-\- Helfendenshirt
-
-\- Kultibecher
-
-\- Einladung fürs Helfendenfest
-
-und unsere ewige Dankbarkeit!
-
-<br />
+Wir sind unglaublich dankbar, dass so viele Helfende gefunden werden konnten. Grundsätzlich konnten wir alle Schichten während dem Kulti belegen. Für den Abbau können wir noch helfende Hände brauchen. Eventuell kommen noch spontane Jöbbli während dem Kulti dazu. Hast du Lust, spontan mitzuhelfen? Dann melde dich am Kulti direkt am Helfendenpoint.
 
 ***
   
