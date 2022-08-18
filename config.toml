@@ -136,6 +136,12 @@ parent = "Programm"
 weight = 1
 
 [[Languages.de.menu.main]]
+name = "Ateliers"
+URL = "ateliers"
+parent = "Programm"
+weight = 2
+
+[[Languages.de.menu.main]]
 hasChildren = true
 name = "Über uns"
 weight = 5
