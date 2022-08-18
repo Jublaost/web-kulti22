@@ -62,7 +62,7 @@ homepage_tab:
       link: how-it-works
 info_tab:
   enable: true
-  title: Wichtigste Infos
+  title: Wichtigste Infos zur Anreise
   content: Hier findest du die wichtigsten Infos für deinen Kulti-Besuch. Für mehr
     besuche unser Info-ABC.
   tablist:
@@ -81,8 +81,8 @@ info_tab:
       enable: false
       label: "."
       link: "."
-  - name: SBB-Aktion
-    title: SBB-Aktion
+  - name: SBB-Rabatt-Aktion
+    title: SBB-Rabatt-Aktion
     image: images/use/zug.jpg
     content: 'Damit sich möglichst viele von euch für den ökologischen öV entscheiden,
       sponsern die [Stiftung pro jungwacht blauring](https://www.jubla.ch/ueber-die-jubla/unterstuetzende/stiftung)
