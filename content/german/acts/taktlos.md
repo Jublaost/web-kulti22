@@ -14,4 +14,4 @@ Im Frühjahr 2019 gegründet, glänzen TAKTLOS auf der Bühne mit einem bunten M
 
 Mit «Feuer und Flamme» sind sie dabei, nicht nur den Funken am Kulti22 tanzen zu lassen, sondern auch die Jubla!
 
-**Showtime: Samstag, 27. August, 17:00 Uhr, Hauptbühne**
+**Showtime: Samstag, 27. August, 17:00-17:45 Uhr, Hauptbühne**
