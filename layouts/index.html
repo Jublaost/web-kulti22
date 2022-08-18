@@ -121,9 +121,23 @@
         </div>
       </div>
     </div>
+    {{ end }}
+    <div class="row p-50">
+      <div class="col-md-12">
+        <div class="brand-carousel">
+          {{ range sort (where .Site.RegularPages "Section" "sponsors") "Params.priority" }}
+          <a target="_blank" href="{{ .Params.link }}">
+            <div class="brand-item d-flex align-items-center justify-content-center">
+              {{ $image := resources.GetMatch .Params.image }}
+              {{ partial "image.html" (dict "Image" $image "Alt" "img" "Class" "img-fluid") }}
+            </div>
+          </a>
+          {{ end }}
+        </div>
+      </div>
+    </div>
   </div>
 </section>
-{{ end }}
 {{ end }}
 <!-- end of how-it-works tab -->
 
