@@ -7,7 +7,7 @@ banner:
   content: Sei dabei, wenn wir am Kulti 22 den Funken zusammen tanzen lassen!
   image: images/kulti19/tower01.jpg
   video:
-    enable: true
+    enable: false
     video_embed_link: https://www.youtube.com/embed/WEvBWiFnZT0
   form:
     enable: true
@@ -63,7 +63,8 @@ homepage_tab:
 info_tab:
   enable: true
   title: Wichtigste Infos
-  content: Hier findest du direkt die wichtigsten Infos. Für mehr besuche unser Info-ABC.
+  content: Hier findest du die wichtigsten Infos für deinen Kulti-Besuch. Für mehr
+    besuche unser Info-ABC.
   tablist:
   - name: Anreise
     title: Anreise
