@@ -76,8 +76,8 @@ info_tab:
       noch ökologischer unterwegs. Der nächste Bahnhof ist Altstätten SG, von da aus
       ist es noch ein Katzensprung (1.1 km) bis zum Kulti-Gelände. Vom Bahnhof erreicht
       ihr das Kulti also mit einem kurzen Spaziergang, Busse gibt es auf der Strecke
-      keine. Der Weg ist ausgeschildert und gut zu Fuss machbar. \n\nDu möchtest noch
-      günstiger ans Kulti reisen? Einfach beim SBB-Ticketkauf den Promocode kulti22
+      keine. Der Weg ist ausgeschildert und gut zu Fuss machbar. \n<br />\nDu möchtest
+      noch günstiger ans Kulti reisen? Einfach beim SBB-Ticketkauf den Promocode kulti22
       eingeben und 30% der Ticketkosten sparen!\n<br />\n### Mit dem Auto\nFalls ihr
       trotzdem mit dem Auto anreisen wollt, müsst ihr bei der Ausfahrt Kriessern die
       A13 verlassen. Kurz vor Altstätten werdet ihr einen Wegweiser zum Kulti finden.
@@ -90,15 +90,13 @@ info_tab:
   - name: SBB-Rabatt-Aktion
     title: SBB-Rabatt-Aktion
     image: images/use/zug.jpg
-    content: 'Damit sich möglichst viele von euch für den ökologischen öV entscheiden,
+    content: "Damit sich möglichst viele von euch für den ökologischen öV entscheiden,
       sponsern die [Stiftung pro jungwacht blauring](https://www.jubla.ch/ueber-die-jubla/unterstuetzende/stiftung)
       und das Kulti **30 % Rabatt auf euer öV-Ticket**. Dazu gibt es bei [SBB RailAway](https://www.sbb.ch/de/freizeit-ferien/ideen/angebot.html/veranstaltungen/lieder-und-kulturfest)
       einen Rabattcode, mit dem ihr unabhängig vom Abfahrtsort vergünstigte Tickets
-      für die An- und Rückreise kaufen könnt. Alle Ticketkäufer*innen erhalten den
-      Promo-Code einige Tage vor dem Kulti per E-Mail. Die vergünstigten Tickets sind
-      limitiert, schnell sein lohnt sich also!
-
-      '
+      für die An- und Rückreise kaufen könnt. \n<br />\nEinfach den Rabattcode kulti22
+      eingeben und 30% sparen. Die vergünstigten Tickets sind limitiert, schnell sein
+      lohnt sich also!\n"
     button:
       enable: false
       label: "."
