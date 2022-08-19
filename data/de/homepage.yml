@@ -82,7 +82,8 @@ info_tab:
       Auto\nFalls ihr trotzdem mit dem Auto anreisen wollt, müsst ihr bei der Ausfahrt
       Kriessern die A13 verlassen. Kurz vor Altstätten werdet ihr einen Wegweiser
       zum Kulti finden. Ein Parkplatz kostet CHF 20.- für das ganze Wochenende. Bitte
-      kauft euer Parkplatz-Ticket wenn möglich schon im Vorfeld über Eventfrog.\n"
+      kauft euer Parkplatz-Ticket wenn möglich schon im Vorfeld über Eventfrog.\n<br
+      />\n"
     button:
       enable: false
       label: "."
