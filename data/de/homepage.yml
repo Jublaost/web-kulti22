@@ -74,16 +74,17 @@ info_tab:
     content: "### Mit dem öffentlichen Verkehr\nBitte reist wenn möglich mit dem öV
       ans Kulti. Unterwegs trefft ihr sicher schon viele Jubla-Gspänli und seid erst
       noch ökologischer unterwegs. Der nächste Bahnhof ist Altstätten SG, von da aus
-      ist es noch ein Katzensprung (1.1 km) bis zum Kulti-Gelände. Vom Bahnhof erreicht
-      ihr das Kulti also mit einem kurzen Spaziergang, Busse gibt es auf der Strecke
-      keine. Der Weg ist ausgeschildert und gut zu Fuss machbar. \n<br />\n**Du möchtest
-      noch günstiger ans Kulti reisen? Einfach beim SBB-Ticketkauf den Rabattcode
-      Kulti22 eingeben und 30% auf deine Ticketkosten sparen!**\n<br />\n### Mit dem
-      Auto\nFalls ihr trotzdem mit dem Auto anreisen wollt, müsst ihr bei der Ausfahrt
-      Kriessern die A13 verlassen. Kurz vor Altstätten werdet ihr einen Wegweiser
-      zum Kulti finden. Ein Parkplatz kostet CHF 20.- für das ganze Wochenende. Bitte
-      kauft euer Parkplatz-Ticket wenn möglich schon im Vorfeld über Eventfrog.\n<br
-      />\n"
+      ist es noch ein Katzensprung (max. 15 Minuten) bis zum Kulti-Gelände. Vom Bahnhof
+      erreicht ihr das Kulti also mit einem kurzen Spaziergang, Busse gibt es auf
+      der Strecke keine. Der Weg ist ausgeschildert und gut zu Fuss machbar. \n<br
+      />\n**Du möchtest noch günstiger ans Kulti reisen? Einfach beim SBB-Ticketkauf
+      den Rabattcode Kulti22 eingeben und 30% auf deine Ticketkosten sparen!**\n<br
+      />\n### Mit dem Auto\nFalls ihr trotzdem mit dem Auto anreisen wollt, müsst
+      ihr bei der Ausfahrt Kriessern die A13 verlassen. Kurz vor Altstätten werdet
+      ihr einen Wegweiser zum Kulti finden. Ein Parkplatz kostet CHF 20.- für das
+      ganze Wochenende. Bitte kauft euer Parkplatz-Ticket wenn möglich schon im Vorfeld
+      über Eventfrog.\n<br />\n**Bitte denkt daran – auch auf der Anreise widerspiegelt
+      ihr die Jubla in der Öffentlichkeit.**\n"
     button:
       enable: false
       label: "."
