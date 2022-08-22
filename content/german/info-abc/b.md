@@ -19,11 +19,11 @@ Im Tausch gegen dein Kulti-Ticket erhältst du einen Festivalbändel, der als Ei
 Am Samstag befindet sich der Bändeltausch am Infopoint direkt beim Eingang zum Gelände.
 
 <br />  
-Öffnungzeiten Bändeltausch: 
+**Öffnungzeiten Bändeltausch:**
 
 Freitag 17:00 Uhr bis Sa. 01:00 Uhr
 
-Samstag 07:30 Uhr bis 21:00 Uhr
+Samstag 07:30 Uhr bis maximal So. 01:00 Uhr
 
 ## Barrierefreiheit
 
