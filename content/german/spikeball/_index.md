@@ -13,4 +13,6 @@ Wir sind dem Spikeball-Hype gefolgt! Melde dich mit deinen Lebensfreund*innen an
 
 Melde dein Team an, um am Spikeball-Turnier teilzunehmen. Mit etwas Glück, sportlichem Feuer und brennender Motivation kann dein Team bis an die Spitze der goldigen Spikeballflamme schaffen!
 
+**Wann: Samstag, 27. August**
+
 **Wo: Auf dem Kultigelände**
