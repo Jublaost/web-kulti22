@@ -119,6 +119,7 @@ info_tab:
       * Sonnenhut
       * Mehrweggeschirr
       * Badesachen
+      * Campingstuhl
       * Powerbank
       <br/>
       ### Zu Hause lassen:
@@ -131,7 +132,7 @@ info_tab:
       * Schlechte Vibes
 
       <br />
-      **Aufgrund der grossen Ticket-Nachfrage bitten wir dich aber, dein Zelt mit möglichst vielen Lebensfreund*innen zu teilen und auf Pavillons etc. zu verzichten.**
+      Aufgrund der grossen Ticket-Nachfrage bitten wir dich aber, dein Zelt mit möglichst vielen Lebensfreund*innen zu teilen und auf Pavillons etc. zu verzichten.
     button:
       enable: false
       label: "."
