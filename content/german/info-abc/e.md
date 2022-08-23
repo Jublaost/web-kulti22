@@ -20,13 +20,16 @@ Sind auf dem Campingplatz erlaubt und auf dem Festivalgelände verboten. Aber ke
 
 Eintritt zum Festivalgelände erhält nur, wer davor schon seinen Eintrittsbändel abgeholt hat (siehe ‘Bändeltausch’). Beim Eingangstor wirst du deinen Bändel vorweisen müssen, zudem wird durch das Sicherheitspersonal sichergestellt, dass niemand verbotene Gegenstände auf das Festivalgelände mitnimmt. Bitte lasst folgende Gegenstände zuhause:
 
-•	Drogen
-•	Waffen
-•	Feuerwerkskörper
-•	Professionelles Video- & Filmequipment
-•	Eigene Getränke
-•	Schlechte Vibes  
-  
+* Drogen
+* Waffen
+* Feuerwerkskörper
+* Professionelles Video- & Filmequipment
+* Gaskocher & Grills
+* Eigene Getränke
+* Musikboxen
+* Sofas, Tische oder sonstige Möbel
+* Schlechte Vibes
+
 Deinen Bändel tauschen kannst du am Freitag und am Samstag bis jeweis 01:00 Uhr.
 
 ## Essen
