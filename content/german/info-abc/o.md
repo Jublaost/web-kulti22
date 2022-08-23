@@ -8,7 +8,17 @@ tags:
 ---
 ## Öffnungszeiten
 
-Der Campingplatz öffnet am Freitag um 14.30 Uhr, das Festivalgelände um 17 Uhr. In den frühen Morgenstunden von 3 – 7.30 Uhr bleibt das Festivalgelände geschlossen. Bitte beachtet, dass der Eintritt nur mit einem Bändeli möglich ist. Am Sonntag bitten wir euch bis um 17 Uhr abzureisen und den Zeltplatz sauber zu hinterlassen.
+**Öffnungszeiten Zeltplatz:**
+
+Freitag, 26. August 2022 ab 14:30 Uhr bis Sonntag, 28. August 2022, 17 Uhr
+
+**Öffnungszeiten Festivalgelände:**
+
+Freitag, 26. August 2022 um 17:00 Uhr bis Sonntag, 28. August um 15 Uhr
+
+Von 03:00 – 07:30 Uhr bleibt das Festivalgelände geschlossen.
+
+Bitte beachtet, dass der Eintritt nur mit einem Bändeli möglich ist. Am Sonntag bitten wir euch bis um 17 Uhr abzureisen und den Zeltplatz sauber zu hinterlassen.
 
 ## Öffentlicher Verkehr
 
