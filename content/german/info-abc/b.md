@@ -12,14 +12,14 @@ tags:
 ---
 ## Bändeltausch
 
-Im Tausch gegen dein Kulti-Ticket erhältst du einen Festivalbändel, der als Eintritt ans Kulti gilt. Der Bändeltausch findet am Freitag zwischen Park- und Zeltplatz statt. Bitte haltet euer Ticket und einen Ausweis bereit. Falls ihr mehrere Tickets gleichzeitig gekauft habt, achtet bitte darauf, dass nicht zwei Personen das identische Ticket (siehe Ticketnummer) haben.
+Im Tausch gegen dein Kulti-Ticket erhältst du einen Festivalbändel, der als Eintritt ans Kulti gilt. Der Bändeltausch findet am Freitag zwischen Park- und Zeltplatz statt. Bitte haltet euer Ticket und einen Ausweis bereit. Falls ihr mehrere Tickets gleichzeitig gekauft habt, achtet bitte darauf, dass nicht zwei Personen das identische Ticket (siehe Ticketnummer) haben. Deinen Bändel tauschen kannst du am Freitag und am Samstag bis jeweis 01:00 Uhr.
 
 <br />
 
 Am Samstag befindet sich der Bändeltausch am Infopoint direkt beim Eingang zum Gelände.
 
 <br />  
-**Öffnungzeiten Bändeltausch:**
+**Öffnungzeiten Bändeltausch:** 
 
 Freitag 17:00 Uhr bis Sa. 01:00 Uhr
 
