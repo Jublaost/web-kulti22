@@ -22,7 +22,7 @@ Gekaufte Tickets können nicht zurückerstattet werden. Sorry.
 
 ## Regeln
 
-Für ein harmonisches Miteinander am Kulti brauchen wir deine Mithilfe. Bitte halte dich uns und den anderen Besucher*innen zuliebe an ein paar einfache Regeln. Mit dem Ticketkauf verpflichtest du dich dazu, die Geländeregeln zu befolgen.
+Für ein harmonisches Miteinander am Kulti brauchen wir deine Mithilfe. Bitte halte dich uns und den anderen Besucher*innen zuliebe an ein paar einfache Regeln. **Mit dem Ticketkauf verpflichtest du dich dazu, die Geländeregeln zu befolgen.**
 
 <br />
 
