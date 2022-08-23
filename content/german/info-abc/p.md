@@ -13,6 +13,8 @@ Mitnehmen:
 
 <br />
 
+* Ticket
+* Zelt
 * Ausweis/ID
 * benötigte Medikamente
 * Mätteli und Schlafsack
@@ -20,8 +22,7 @@ Mitnehmen:
 * Sonnenbrille
 * Sonnencrème
 * Sonnenhut
-* Ticket
-* Zelt
+* Campingstuhl
 * Mehrweggeschirr
 * Badesachen
 * Powerbank
