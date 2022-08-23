@@ -17,4 +17,4 @@ In Zusammenarbeit mit dem Samariterverein Altstätten wird in Notfällen geholfe
 
 ## Standort
 
-Das Kulti 22 findet in Altstätten auf dem Rhema-Gelände (Oberrieterstrasse 44, 9450 Altstätten) statt. Vom Bahnhof Altstätten her ist der Weg ausgeschildert.
+Das Kulti 22 findet in Altstätten auf dem Rhema-Gelände (Oberrieterstrasse 44, 9450 Altstätten) statt. Vom Bahnhof Altstätten und von der Autobahn her ist der Weg ausgeschildert. Auch[ Google Maps](https://www.google.com/maps/dir//kulti+22+google+maps/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x479b1730b1fe4317:0x884fb65abf124d84?sa=X&ved=2ahUKEwjkldnHz9z5AhU98rsIHeTQBVgQ9Rd6BAhNEAU) hilft dir beim Suchen & Finden des Kulti-Geländes.
