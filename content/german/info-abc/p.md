@@ -37,11 +37,13 @@ Zu Hause lassen:
 * unnötig viel Bargeld
 * unnötige Kreditkarten
 * Pavillons etc.
-* Boombox und andere Musikboxen
+* Musikboxen
 * Grill
 * Schlechte Vibes
 
 <br />
+
+**_Pavillons sind aus Platzgründen auf dem Zeltplatz nicht gestattet._**
 
 ## Parkieren
 
