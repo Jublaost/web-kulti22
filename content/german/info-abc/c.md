@@ -21,6 +21,12 @@ Der Campingplatz ist direkt neben dem Festivalgelände und dein Plätzchen darau
 
 Eure Zelte könnt ihr am Freitag ab 14.30 Uhr aufschlagen. Am Sonntag muss der Platz bis 17 Uhr geräumt sein. Aufgrund der grossen Ticket-Nachfrage bitten wir dich, dein Zelt mit möglichst vielen Lebensfreund*innen zu teilen und auf Pavillons etc. zu verzichten. Dass ihr all eure Zelte, Campingstühle, Abfall etc. wieder mit nach Hause nehmt bzw. ordentlich entsorgt, ist Ehrensache.
 
+**Öffnungszeiten Zeltplatz:**
+
+Freitag, 26. August 2022 ab 14:30 Uhr
+
+Schliessung Zeltplatz: Sonntag, 28. August 2022, 17 Uhr
+
 ## Corona
 
 Wir hoffen virenfrei feiern zu können. Falls ihr euch nicht fit fühlt, bleibt doch bitte daheim. Am Festival stehen genügend Wasserstellen zum Händewaschen zur Verfügung. Ein Desinfektionsmittel mitzubringen, kann aber sicher nicht schaden.
