@@ -6,4 +6,5 @@ tags:
 
 ---
 ## Infopoint
-Bei Fragen oder Anliegen sind wir gerne für dich da. Der Infopoint befindet sich direkt beim Übergang vom Campingplatz zum Festivalgelände.
+
+Bei Fragen oder Anliegen sind wir gerne für dich da. Der Infopoint befindet sich direkt beim Übergang vom Campingplatz zum Festivalgelände und ist fast rund um die Uhr geöffnet.
