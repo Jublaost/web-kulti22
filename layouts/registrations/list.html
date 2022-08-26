@@ -1,0 +1,37 @@
+{{ define "main" }}
+{{ $data := index .Site.Data .Site.Language.Lang }}
+
+<!-- start of GL-section -->
+<section class="section-padding pb-40">
+    <div class="container">
+        <div id="gl">
+            <h2>Geländespiel</h2>
+            <div id="Feld01;13:00-14:00">
+                <h3>Feld01;13:00-14:0</h3>
+            </div>
+            <div id="Feld02;13:00-14:00">
+                <h3>Feld02;13:00-14:00</h3>
+            </div>
+            <div id="Feld01;14:00-15:00">
+                <h3>Feld01;14:00-15:00</h3>
+            </div>
+            <div id="Feld02;14:00-15:00">
+                <h3>Feld02;14:00-15:00</h3>
+            </div>
+            <div id="Feld01;15:00-16:00">
+                <h3>Feld01;15:00-16:00</h3>
+            </div>
+            <div id="Feld02;15:00-16:00">
+                <h3>Feld02;15:00-16:00</h3>
+            </div>
+        </div>
+        <div id="spikeball">
+            <h2>Spikeball</h2>
+        </div>
+    </div>
+</section>
+
+{{ $script := resources.Get "js/registrations.js" | minify}}
+<script src="{{ $script.Permalink }}"></script>
+
+{{ end }}
