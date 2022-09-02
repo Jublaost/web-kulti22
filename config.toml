@@ -104,57 +104,6 @@ weight = 1
 
 [[Languages.de.menu.main]]
 hasChildren = true
-name = "Infos"
-weight = 2
-
-[[Languages.de.menu.main]]
-name = "Info ABC"
-URL = "info-abc"
-weight = 1
-parent = "Infos"
-
-[[Languages.de.menu.main]]
-name = "News"
-URL = "news"
-weight = 2
-parent = "Infos"
-
-[[Languages.de.menu.main]]
-name = "Helfende"
-URL = "helfende"
-weight = 3
-
-[[Languages.de.menu.main]]
-name = "Programm"
-hasChildren = true
-weight = 4
-
-[[Languages.de.menu.main]]
-name = "Acts"
-URL = "acts"
-parent = "Programm"
-weight = 1
-
-[[Languages.de.menu.main]]
-name = "Ateliers"
-URL = "ateliers"
-parent = "Programm"
-weight = 2
-
-[[Languages.de.menu.main]]
-name = "Geländespiel"
-URL = "gelaendegame"
-parent = "Programm"
-weight = 3
-
-[[Languages.de.menu.main]]
-name = "Spikeball Turnier"
-URL = "spikeball"
-parent = "Programm"
-weight = 4
-
-[[Languages.de.menu.main]]
-hasChildren = true
 name = "Über uns"
 weight = 5
 
@@ -175,12 +124,6 @@ name = "Kontakt"
 URL = "kontakt"
 parent = "Über uns"
 weight = 3
-
-[[Languages.de.menu.main]]
-name = "Tickets"
-URL = "tickets"
-weight = 5
-
 
 # Footer menu
 [[Languages.de.menu.footer]]

@@ -1,18 +1,31 @@
 ---
+home_sections:
+  jublabla:
+    enable: false
+  instafeed:
+    enable: true
+  sponsors:
+    enable: true
+  fundgrube:
+    enable: true
+    url: "coming soon"
+  fotos:
+    enable: true
 spotify:
   link: https://open.spotify.com/playlist/7dSIbpFab9sjTPTDRAJbOx?si=wD1z3hk4S7ar6jDlieA-kg&nd=1
 banner:
   enable: true
   title: Lieder- und Kulturfest 26.-28. August 2022 | Altstätten SG
-  content: Sei dabei, wenn wir am Kulti 22 den Funken zusammen tanzen lassen!
+  content: Danke, das wars!
   image: images/kulti19/tower01.jpg
   video:
     enable: false
     video_embed_link: https://www.youtube.com/embed/WEvBWiFnZT0
   form:
-    enable: true
+    enable: false
     button_label: Newsletter
 eventfrog_button:
+  enable: false
   icon: images/eventfrog.png
   label: Jetzt Tickets kaufen
   link: https://eventfrog.ch/de/p/festivals/weitere-festivals/lieder-und-kulturfest-2022-6833845387129228352.html
@@ -61,7 +74,7 @@ homepage_tab:
       label: View More
       link: how-it-works
 info_tab:
-  enable: true
+  enable: false
   title: Wichtigste Infos zur Anreise
   content: Hier findest du die wichtigsten Infos für deinen Kulti-Besuch. Für mehr
     besuche unser Info-ABC.

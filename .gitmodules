@@ -1,3 +1,6 @@
 [submodule "themes/hugo-theme-copper"]
 	path = themes/hugo-theme-copper
 	url = git@github.com:tvonment/hugo-theme-copper.git
+[submodule "assets/PhotoSwipe"]
+	path = assets/PhotoSwipe
+	url = https://github.com/dimsemenov/PhotoSwipe.git

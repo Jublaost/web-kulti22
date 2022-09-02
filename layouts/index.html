@@ -14,11 +14,12 @@
         <h1 class="h1 mb-20">{{ .title | markdownify }}</h2>
           <p>{{ .content | markdownify }}</p>
           <br>
-
+          {{ if $data.homepage.eventfrog_button.enable }}
           {{ with $data.homepage.eventfrog_button }}
           <a target="_blank" href="{{.link | absLangURL}}"
             class="btn eventfrog-button d-flex align-items-center justify-content-center">
             {{with .icon}} <img class="mr-2" src="{{ . }}">{{end}} {{.label}}</a>
+          {{ end }}
           {{ end }}
       </div>
     </div>
@@ -60,10 +61,10 @@
 </section>
 
 <!-- start of how-it-works tab -->
-{{ if $data.homepage.info_tab.enable }}
-{{ with $data.homepage.info_tab }}
 <section class="section-padding pt-100 how-it-works-tab overflow-hidden">
   <div class="container">
+    {{ if $data.homepage.info_tab.enable }}
+    {{ with $data.homepage.info_tab }}
     <div class="row justify-content-center">
       <div class="col-lg-6 col-md-9 text-center mb-40">
         <h2 class="section-title">{{ .title | markdownify }}</h2>
@@ -123,6 +124,8 @@
     </div>
     {{ end }}
     <br>
+    {{ end }}
+    {{ if $data.homepage.home_sections.jublabla.enable }}
     <br>
     <div class="row justify-content-center">
       <h2>Lese jetzt das Kulti22 Special ju.blabla!</h2>
@@ -133,6 +136,8 @@
         <button class="btn btn-primary">Lesen</button>
       </a>
     </div>
+    {{ end }}
+    {{ if $data.homepage.home_sections.sponsors.enable }}
     <div class="row justify-content-center">
       <h2>Wir danken unseren Sponsoren</h2>
     </div>
@@ -150,11 +155,40 @@
         </div>
       </div>
     </div>
+    {{ end }}
+    {{ if $data.homepage.home_sections.fundgrube.enable }}
+    <br>
+    <div class="row justify-content-center">
+      <h2>Fundgrube</h2>
+    </div>
+    <br>
+    <div class="row justify-content-center">
+      <p>
+        Du hast am Kulti etwas verloren oder irgendwo liegen gelassen? Melde dich bei uns via dm oder info@kulti22.ch,
+        sodass wir jedes Fundobjekt wieder zu seinem Besitzer/seiner Besitzerin zurückführen können.</p>
+    </div>
+    {{ end }}
+    {{ if $data.homepage.home_sections.fotos.enable }}
+    <br>
+    <div class="row justify-content-center">
+      <h2>Fotos</h2>
+    </div>
+    <br>
+    <div class="row justify-content-center">
+      <p>
+        In unserer Flickrgallerie kannst du alle Bilder des Kulti durchstöbern und in Erinnerungen schwelgen. Schon bald
+        findest du hier auch den offiziellen Kulti22-Aftermovie.</p>
+      <a href="{{ $data.homepage.home_sections.fotos.url }}" target="_blank">
+        <button class="btn btn-primary" disabled>Flickr (kommt bald)</button>
+      </a>
+    </div>
+    {{ end }}
+
   </div>
 </section>
-{{ end }}
-<!-- end of how-it-works tab -->
 
+
+<!-- end of Insta tab -->
 <section class="section-padding pt-100 horizontal-accordion bg-light-gray has-shapes has-bg-brash bg-brash-y"
   style="background-image: url('{{`images/brushes/section-top.svg` | absURL}}'), url('{{`images/brushes/section-bottom.svg` | absURL}}');">
   <div class="container">
