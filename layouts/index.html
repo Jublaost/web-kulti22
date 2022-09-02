@@ -9,7 +9,6 @@
   style="background-image: url('{{`images/brushes/banner.svg` | absURL }}')">
   <div class="container h-100" style="text-align: center;">
     <div class="d-block d-lg-flex no-gutters align-items-center h-100">
-
       <div class="col-lg-6 offset-lg-3">
         <h1 class="h1 mb-20">{{ .title | markdownify }}</h2>
           <p>{{ .content | markdownify }}</p>
@@ -161,7 +160,6 @@
     <div class="row justify-content-center">
       <h2>Fundgrube</h2>
     </div>
-    <br>
     <div class="row justify-content-center p-40">
       <p>
         Du hast am Kulti etwas verloren oder irgendwo liegen gelassen? Melde dich bei uns via dm oder
@@ -171,15 +169,14 @@
     </div>
     {{ end }}
     {{ if $data.homepage.home_sections.fotos.enable }}
-    <br>
     <div class="row justify-content-center">
       <h2>Fotos</h2>
     </div>
-    <br>
     <div class="row justify-content-center p-40">
       <p>
         In unserer Flickrgallerie kannst du alle Bilder des Kulti durchstöbern und in Erinnerungen schwelgen. Schon bald
         findest du hier auch den offiziellen Kulti22-Aftermovie.</p>
+      <br>
       <a href="{{ $data.homepage.home_sections.fotos.url }}" target="_blank">
         <button class="btn btn-primary" disabled>Flickr (kommt bald)</button>
       </a>
