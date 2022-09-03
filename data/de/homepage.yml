@@ -8,9 +8,9 @@ home_sections:
     enable: true
   fundgrube:
     enable: true
-    url: "https://www.flickr.com/photos/196398686@N02/albums"
   fotos:
     enable: true
+    url: "https://www.flickr.com/photos/196398686@N02/albums"
 spotify:
   link: https://open.spotify.com/playlist/7dSIbpFab9sjTPTDRAJbOx?si=wD1z3hk4S7ar6jDlieA-kg&nd=1
 banner:
