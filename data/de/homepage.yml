@@ -8,7 +8,7 @@ home_sections:
     enable: true
   fundgrube:
     enable: true
-    url: "coming soon"
+    url: "https://www.flickr.com/photos/196398686@N02/albums"
   fotos:
     enable: true
 spotify:
